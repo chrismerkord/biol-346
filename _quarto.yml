@@ -1,0 +1,46 @@
+project:
+  type: website
+
+brand: tlm-styles/_brand.yml
+
+resources:
+  - "**/*.pdf"
+
+website:
+  title: "BIOL 346 An Ecological Perspective"
+  navbar:
+    search: true
+    left:
+      - href: index.qmd
+        text: Home
+      - href: syllabus/index.qmd
+        text: Syllabus
+      - href: schedule/index.qmd
+        text: Schedule
+      - href: lectures/index.qmd
+        text: Lectures
+  sidebar:
+    style: "docked"
+    search: true
+    contents: 
+      - href: index.qmd
+        text: Home
+      - href: syllabus/index.qmd
+      - href: schedule/index.qmd
+      - href: lectures/index.qmd
+        
+format:
+  html:
+    toc: true
+    theme: 
+      - cosmo
+      - brand
+      - tlm-styles/tlm-theme.scss
+    include-in-header:
+      - text: |
+          <link rel="stylesheet" href="https://use.typekit.net/tag1lvz.css">
+
+execute:
+  echo: false
+  warning: false
+  message: false

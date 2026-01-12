@@ -1,0 +1,21 @@
+---
+title: "Class Schedule"
+format:
+  html:
+    toc: true
+    page-layout: full
+---
+
+Spring 2026 class schedule.
+
+## Schedule
+
++------+--------+------------------------+----------------------+
+| Week | Date   | Topic                  | Readings/Assignments |
++======+========+========================+======================+
+| 1    | Jan 13 | Introduction to Course | Syllabus Review      |
+|      |        |                        |                      |
+|      |        | Icebreaker             |                      |
++------+--------+------------------------+----------------------+
+| 1    | Jan 15 | Module 1               |                      |
++------+--------+------------------------+----------------------+

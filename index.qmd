@@ -1,0 +1,70 @@
+---
+title: "BIOL 346 An Ecological Perspective"
+---
+
+## Course Overview
+
+This course introduces core concepts in biostatistics with an emphasis on data literacy, reproducible analysis, and interpretation of biological data. Students will work with real datasets using R and develop skills applicable across biology, ecology, and environmental science.
+
+This website serves as the **public hub** for course materials.
+
+## Course Information
+
+Instructor: Chris Merkord
+
+Institution: Minnesota State University Moorhead
+
+Term: Spring 2026
+
+Delivery: In-person lecture
+
+## Start Here
+
+::::::::::::: row
+::::::: col-sm-6
+:::: card
+::: card-body
+##### Syllabus {.card-title}
+
+Course policies, grading, materials, and expectations.
+
+[Go to Syllabus](syllabus/){.btn .btn-primary}
+:::
+::::
+
+:::: card
+::: card-body
+### Schedule {.card-title}
+
+Weekly topics, readings, and links.
+
+[Go to Schedule](schedule/){.btn .btn-primary}
+:::
+::::
+:::::::
+
+::::::: col-sm-6
+:::: card
+::: card-body
+### Lecture Slides {.card-title}
+
+Slide decks (HTML/PDF) and supporting materials.
+
+[Go to Lectures](lectures/){.btn .btn-primary}
+:::
+::::
+
+:::::::
+:::::::::::::
+
+## For Enrolled Students
+
+-   Assignment deadlines and submissions are managed through **D2L**
+
+-   Grades, feedback, and announcements will **not** be posted on this site
+
+-   This site is updated regularly—check links before each class
+
+## Accessibility & Use
+
+All materials on this site are provided for instructional use by enrolled students. If you encounter accessibility issues or broken links, contact the instructor.

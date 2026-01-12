@@ -1,0 +1,228 @@
+---
+title: "Course Syllabus"
+format:
+  html:
+    toc: true
+    page-layout: full
+  pdf:
+    pdf-engine: xelatex
+    toc: true
+---
+
+BIOL 346 An Ecological Perspective — Spring 2026
+
+Updated 2026-01-12
+
+## Instructor
+
+Dr. Chris Merkord, Associate Professor, Department of Biosciences, Minnesota State University Moorhead
+
+See D2L for email contact information, office hours, and meeting scheduling.
+
+## Course Description
+
+This course seeks to help students understand basic ecological principles, and to use these principles to understand our current environmental problems. An integration of scientific, economic, political and ethical considerations will help students to appreciate the policies and practices necessary to achieving a sustainable future.
+
+Credits: 3
+
+LASC Area: Goal 10
+
+See the [Course Description](https://www.mnstate.edu/direct/coursedescription?courseId=00010416) online.
+
+### Class Meetings
+
+Lecture:
+
+-   Monday, Wednesday, 1:30-2:45 PM in Center for Business 105
+
+See the [Class Schedule](schedule/) for weekly topics and exam dates. See D2L for assignment deadlines.
+
+### Communicating with the instructor
+
+All email correspondence to course instructors much originate from your university email account, have your full name in the body of the email, and contain the course number “BIOL 346” in the subject line. E-mails not meeting these requirements may not be recognized by the instructor’s email filter and thus may not be answered. The easiest way to meet these requirements is to use the email function in D2L (the envelope icon at the top of the page).
+
+I generally answer messages within 24 hours, Monday through Friday 9 AM-5 PM (except holidays). when other circumstances arise, for example when I am traveling for a conference or travel course, the time will be longer. Those situations will be announced on D2L ahead of time.
+
+I expect students to check D2L and their university email address once per day.
+
+### Required Texts
+
+The course text is published online by Skyepack (<https://www.skyepack.com/>).
+
+You can purchase directly through Skyepack's website or purchase a voucher from the university bookstore.
+
+Access will be granted to enrolled students on the first day of class.
+
+Additional articles and materials will be provided within the course site in D2L Brightspace under their corresponding modules.
+
+Please note that ***all instructional materials*** (readings, videos,
+etc.) assigned in this course are ***required*** unless specifically indicated
+as optional.
+
+### Course Objectives/Student Learning Outcomes
+
+1.  Explain the concept of sustainability.
+2.  Identify and evaluate possible pathways to a sustainable future and demonstrate an awareness of the tradeoffs necessary to achieve a sustainable future.
+3.  Identify the structure, function, and processes of ecosystems (the physical environment and biological community of which human society is a part and on which it depends).
+4.  Assess and analyze the environmental problems of a technological society using the framework of well-founded physical and biological principles.
+5.  Describe the relationships between environments and socio-cultural groups, and identify how natural resource challenges are being addressed by the social, legal, economic, political, cultural, and religious systems within societies.
+6.  Understand the following concepts as related to sustainability: Science, Matter and Energy, Ecosystems, Evolution, Biodiversity, Climate, Community and Population Ecology, Sustaining Biodiversity, Food, Soil and Pest Management, Water and Water Pollution, Energy, Toxicology, Air Pollution, Climate Change, and Environmental Economics.
+
+### Minnesota Transfer Curriculum Goal Area(s) and Competencies
+
+**Goal 10 - People/Environment**
+
+1.  Explain the basic structure and function of various natural ecosystems and of human adaptive strategies within those systems.
+2.  Discern patterns and interrelationships of bio-physical and socio-cultural systems.
+3.  Describe the basic institutional arrangements (social, legal, political, economic, religious) that are evolving to deal with environmental and natural resource challenges.
+4.  Evaluate critically environmental and natural resource issues in light of understandings about interrelationships, ecosystems, and institutions.
+5.  Propose and assess alternative solutions to environmental problems.
+6.  Articulate and defend the actions they would take on various environmental issues.
+
+### Outline of Major Content Areas
+
+1.  Ecological Principles
+2.  Sustainability
+3.  Resource Management
+4.  Environmental Quality
+5.  Environmental Economics
+
+## Course Policies
+
+### Attendance and Participation Policy
+
+Regular attendance and active participation are expected in this course. Lectures are a core component of the learning experience and are designed to be interactive, discussion-based, and responsive to student understanding in real time.
+
+Attendance Expectations
+
+-   Students are expected to attend every scheduled lecture.
+-   Attendance will be taken at each class meeting.
+-   Being physically present but disengaged does not constitute attendance for the purposes of this policy.
+
+Participation Expectations
+
+-    Active participation is required. This includes:
+    -   Asking and answering questions during lecture.
+    -   Responding to impromptu, in-class polls or activities.
+    -   Engaging thoughtfully with course material and discussions.
+-   Participation is meant to support learning, not to put students on the spot; however, students should be prepared to contribute when asked.
+
+Attendance and Bonus Points
+
+-   Attendance is tracked primarily for accountability and engagement.
+-   Bonus points may be awarded for consistent attendance and participation over the semester.
+-   Bonus points are discretionary, modest, and intended to reward sustained engagement—not to compensate for missed assignments or poor performance elsewhere in the course.
+
+Absences
+
+-   Occasional absences may be unavoidable. Students are responsible for obtaining notes and keeping up with material covered during missed classes.
+-   There is no guarantee that attendance-based bonus opportunities can be made up if a class is missed.
+
+If you want to do well in this course, show up, be engaged, and participate. Students who attend regularly and contribute actively are consistently more successful than those who do not.
+
+### Professional Conduct and Classroom Etiquette
+
+This course requires regular interaction with the instructor and with classmates, both in person and, at times, online. All communication and behavior should reflect a professional, respectful academic environment.
+
+Students are expected to adhere to commonly accepted standards of professional conduct and etiquette.
+
+-   Use appropriate language and behavior for an educational setting.
+-   Do not use obscene, offensive, or threatening language.
+-   Treat classmates and the instructor with respect, even when disagreeing.
+-   Listen attentively when others are speaking and do not interrupt.
+-   Contribute constructively to discussions and activities.
+-   Use complete sentences and communicate clearly in written and verbal interactions.
+
+Professional conduct is not optional. Disruptive, disrespectful, or unprofessional behavior—whether in person or online—may result in removal from class for the day and referral to university policies on student conduct.
+
+### Technology
+
+The following technology will be required in this course:
+
+1.  **D2L.** This is the primary method the instructor will use to communicate announcements to the class, and the method of delivery for quizzes and assignments in lecture and lab, as well as posting of grades. Students may want to turn on notifications in D2L and to install the Pulse app on their mobile device, to make receiving notifications easier.
+
+2.  **Email.** MSUM email is the [OFFICIAL communication method for Minnesota State University Moorhead](https://www.mnstate.edu/about/policies-procedures/list/student-email/ "OFFICIAL communication method for Minnesota State University Moorhead"). This is the primary method the instructor will use to contact you with private messages, for example about your assignments or grades.
+
+    For information about your MSUM email including login information, setup on computers and mobile devices, and multi-factor authentication, see this Knowledge Base page: <https://support.mnstate.edu/TDClient/297/Portal/KB/?CategoryID=1198>
+
+3.  **Microsoft Office 365.** Office 365 is a collection of Microsoft applications in cloud-based services allowing users to access a catalog of software using any web browser on virtually any device as long as an Internet connection is available. There are no installations, no updates, and nothing required from the user other than logging into the service. Lab experiments and group project assignments will necessitate the use of some of these products such Word, PowerPoint, and Excel for creating and sharing documents. This page has instructions for logging on from any computer including campus computer labs, and for installing Office 365 on your personal device: <https://support.mnstate.edu/TDClient/297/Portal/KB/ArticleDet?ID=4485>
+
+## Grades and Assessment
+
+Grades will be assigned using an A, B, C, D, F scale based on the percentage of total points earned, as follows:
+
+-   A 90–100 %
+-   B 80–89.99 %
+-   C 70–79.99 %
+-   D 60–69.99 %
+-   F less than 60 %
+
+Grades for individual quizzes, exams, assignments, etc. will be graded using a minimum grade approach to ensure equitable outcomes for all students. For any assignment, if you earn a grade less than 50%, your grade will be adjusted up to 50%. This applies even if you do not complete an assignment. A 50% is still a failing grade. This approach makes it easier for students to overcome some missing assignments or poor exam scores by grading assignments on a scale more similar to the 4.0 scale used for the course as a whole.
+
+The course grade will be calculated using a point system with points assigned as follows:
+
+| Item       | Points  |
+|------------|---------|
+| Exam 1     | 100     |
+| Exam 2     | 100     |
+| Exam 3     | 100     |
+| Final Exam | 100     |
+| Activity 1 | 50      |
+| Activity 2 | 50      |
+| Activity 3 | 50      |
+| Activity 4 | 100     |
+| **Total**  | **650** |
+
+[Exams]{.underline}: There will be three exams and a final exam. Exams will cover material from the lectures and the textbook. Exam 1 will cover the first quarter of the course, Exam 2 will cover the second qaurter of the course, and Exam 3 will cover the third quarter of the course. The Final Exam will be cumulative, covering everything in the course. Exams will be given during class using scantron answer sheets and written short answers. Each exam will consist of multiple choice, short answer, matching, or similar types of questions. You are encouraged to work together in small groups to find the answers. If there is disagreement within your group on the answer to a question, you are not required to give the same answer as your collaborators. During the exam you are allowed to use one sheet of written notes. You may write on both sides, but everything must be handwritten. You are not allowed to use any internet-connected app including a web browser or mobile app to conduct internet searches or use AI chatbots.
+
+Extra credit will be awarded based on improvement from one exam to the next. For example, if you score higher on Exam 2 than Exam 1, you will earn extra credit on Exam 2.
+
+[Activities]{.underline}: These will be writing or other active learning activities, submitted via D2L. Deadlines and instructions will be posted on D2L.
+
+[Bonus points]{.underline}: I reserve the right to award bonus points for meritorious conduct during the course, including but not limited to active participation during lectures.
+
+## University Policies
+
+The following policies are established by MSUM and the Minnesota State system and updated slightly where appropriate to be specific to this course.
+
+### Rules and Expectations of Conduct
+
+Academic Dishonesty. Cheating or plagiarism on any assignment, paper, or exam will result in a grade of zero on that work, and a report to the college administration. A second incidence of cheating will result in a failing grade for the course. See the MSUM student handbook online, <http://www.mnstate.edu/sthandbook/scc/definitions.cfm>, for definitions of cheating and plagiarism. If you aren’t sure about what is permissible, the best thing is to ask.
+
+Examples of plagiarism include: copying text from the internet, a book, or some other source, for example on a writing assignment or exam.
+
+### Attendance Policy
+
+The MSUM Student Absence Policy can be found online at <https://www.mnstate.edu/policies/absences.aspx>
+
+Try not to miss class because we will be doing activities and having discussions most of the time, and these experiences are almost impossible to make up or recreate outside of class.
+
+In the case of extended illnesses or other extreme situations, please schedule a meeting to make special arrangements regarding the following policies.
+
+### Academic Progress Checks
+
+Academic Progress Checks: At weeks 5 and 10 during the semester (earlier if necessary), I will enter point in time course progress into the campus Early Alert System for all students in this class. These progress checks are an opportunity to connect you with a support staff member who can offer additional support and suggest resources if you need assistance. Support staff will reach out to you directly via email, call, or text if there are any concerns.
+
+### Accessibility Statement
+
+Minnesota State University Moorhead (MSUM) is committed to providing equitable access to learning opportunities for all students and strives to make courses inclusive and accessible in accordance with sections 504 and 508 of the 1973 Rehabilitation Act and the Americans with Disabilities Act (ADA). The University will make reasonable accommodations for students with documented disabilities.
+
+Accessibility Resources (AR) is available to facilitate a range of academic support services and accommodations for students with disabilities. If you have a disability, you can request assistance by contacting AR at 218-477-2167 (voice), 218-477-2420 (fax) or [accessibility\@mnstate.edu](mailto:accessibility@mnstate.edu) (email). Once eligibility has been determined, students register with AR every semester to activate their approved accommodations. Although a student may request an accommodation at any time, it is best to initiate the application process at least four weeks before a student wishes to receive an accommodation. Students may begin the accommodation process by submitting a Request for Accommodations form online at <https://www.mnstate.edu/student-life/student-services/accessibility/request-accommodations/form/> or by contacting Accessibility Resources.
+
+The Director of Accessibility Resources, Chuck Eade, serves as MSUM’s ADA Coordinator for students. He can be reached at [Charles.Eade\@mnstate.edu](mailto:Charles.Eade@mnstate.edu). Additional information is available on the AR website: [http://www.mnstate.edu/accessibility](https://nam02.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.mnstate.edu%2Faccessibility&data=02%7C01%7Ccharles.eade%40mnstate.edu%7C7497efa1cdcf4b6d50aa08d7cf46ede3%7C5011c7c60ab446ab9ef4fae74a921a7f%7C0%7C0%7C637205775849405764&sdata=TjCP04mSmSEhrAk0ImJqR3sh1B5fJTEKj3hDWT59Wwk%3D&reserved=0).
+
+### Sexual Violence Prevention Statement
+
+Acts of sexual violence are intolerable. MSUM expects all members of the campus community to act in a manner that does not infringe on the rights of others. We are committed to eliminating all acts of sexual violence.
+
+MSUM faculty and staff are concerned about the well-being and development of our students. We are obligated to share information with the MSUM Title IX Coordinator in certain situations to help ensure that the students’ safety and welfare is being addressed, consistent with the requirements of the law. These disclosures include but are not limited to reports of sexual assault, relationship violence, and stalking.
+
+If you have experienced or know someone who has experienced sexual violence, services and resources are available. You may also choose to file a report. For further information, contact Lynn Peterson, Title IX Coordinator, [petrsnly\@mnstate.edu](mailto:petrsnly@mnstate.edu); 218-477-2967, or Ashley Atteberry, Director of Student Conduct & Resolution; [ashley.atteberry\@mnstate.edu](mailto:ashley.atteberry@mnstate.edu), 218-477-2174; both located in Flora Frick 153. Additional information is available at: [www.mnstate.edu/titleix](http://www.mnstate.edu/titleix)
+
+### Bias Incident Statement
+
+A bias incident is an act of bigotry, harassment, or intimidation that is motivated in whole or in part by bias based on an individual’s or group’s actual or perceived race, color, creed, religion, national origin, sex, gender, age, marital status, disability, public assistance status, veteran status, sexual orientation, or familial status. If you are a student who has experienced or witnessed a hate or bias incident, we want to address the incident and provide you with resources. Contact the Campus Diversity Officer, Jered Pigeon, [jered.pigeon\@mnstate.edu](mailto:jered.pigeon@mnstate.edu) 218-477-2047, 114 CMU, or Dean of Students, Kara Gravley-Stack, [kara.gravleystack\@mnstate.edu](mailto:kara.gravleystack@mnstate.edu) 218-477-4222, 153 Flora Frick Hall
+
+### Building Emergency Plan
+
+Building floor plans showing emergency exit routes, fire extinguisher locations and fire alarm pull stations are conspicuously located in classrooms, labs, conference rooms, departmental main offices and residence halls. The Emergency Preparedness Guides (flip style booklets) are located with the maps. Please review the floor plans as well as the guide so you know how to respond in an emergency situation to help protect yourself and others. If you have questions, please contact Ryan Nelson, Director of Public Safety, at ryan.nelson\@mnstate.edu or 218-477-5869. <https://www.mnstate.edu/publicsafety/>
