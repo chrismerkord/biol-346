@@ -188,6 +188,8 @@ Core idea: - Nature is a model, measure, and mentor for sustainable solutions
 
 ::: {.column width="50%"}
 ![](images/clipboard-3602311104.png)
+
+![](images/clipboard-1940733998.png)
 :::
 :::::
 
@@ -206,7 +208,180 @@ Result:
 :::
 
 ::: {.column width="50%"}
-![](images/clipboard-1940733998.png)
+![](images/clipboard-3815716397.png)
 :::
 :::::
 
+## Why This Matters for Sustainability
+
+Geckos demonstrate: - High performance without toxic chemicals - Reversible attachment with minimal energy cost - Functioning through structure, not consumption
+
+**Biomimicry asks:** - How can human technologies work *with* physical laws instead of against them?
+
+## Sustainability Defined
+
+## The ability of ecosystems and human cultural systems to:
+
+–survive
+
+–flourish
+
+–adapt together
+
+• [***to constantly changing environments over long periods of time***]{.underline}.
+
+## Sustainability: Big Picture
+
+Life on Earth has persisted for billions of years.
+
+-   Sustained by solar energy
+-   Maintained through biodiversity
+-   Stabilized by chemical (nutrient) cycling
+
+**Core idea** - Long-term persistence is possible when systems operate within limits
+
+## Environmental Science
+
+**Environmental science** studies: - Interactions between humans and the natural world
+
+[**Environment**]{.keyword} - Everything around us, living and nonliving
+
+[**Ecosystem**]{.keyword} - Organisms in a defined area interacting with each other and their environment
+
+## Environmentalism
+
+[**Environmentalism**]{.keyword} - A social movement focused on sustaining Earth’s life-support systems
+
+Distinction: - Environmental science → understanding - Environmentalism → action
+
+## Goals of Environmental Science
+
+Environmental science aims to: - Understand how life on Earth has persisted - Understand human–environment interactions - Identify ways to address environmental problems - Support more sustainable living
+
+## Three Scientific Principles of Sustainability
+
+::::: columns
+::: {.column width="50%"}
+Life on Earth is sustained by:
+
+[**Dependence on solar energy**]{.keyword} - Drives climate, photosynthesis, and food webs
+
+[**Biodiversity**]{.keyword} - Provides ecosystem services and resilience
+
+[**Chemical (nutrient) cycling**]{.keyword} - Waste in one process becomes a resource in another
+:::
+
+::: {.column width="50%"}
+![](images/clipboard-395409669.png)
+:::
+:::::
+
+## A Core Ecological Insight
+
+**Interdependence, not independence, sustains life**
+
+-   Organisms depend on ecosystems
+-   Ecosystems depend on energy flow and material cycling
+-   Humans are part of—not separate from—these systems
+
+## Natural Capital
+
+::::: columns
+::: {.column width="50%"}
+[**Natural capital**]{.keyword} - Natural resources - Ecosystem services provided by healthy systems
+
+Examples: - Clean air and water - Pollination - Climate regulation
+:::
+
+::: {.column width="50%"}
+![Neill et al. A Natural Capital Lens for a Sustainable Bioeconomy: Determining the Unrealised and Unrecognised Services from Nature(2020) Sustainability, 12(19), 8033 – 8057.](images/clipboard-2865605124.png)
+:::
+:::::
+
+## Degrading Natural Capital
+
+Humans degrade natural capital by: - Using renewable resources faster than they can regenerate - Overloading ecosystems with pollution and waste
+
+Result: - Loss of ecosystem services - Reduced system resilience
+
+## What Is a Resource?
+
+[**Natural resources**]{.keyword} - Useful materials and energy from nature
+
+Resources may be: - Readily available - Dependent on technology for extraction or use
+
+## Types of Resources
+
+::::: columns
+::: {.column width="50%"}
+[**Inexhaustible resources**]{.keyword} - Perpetually available (e.g., solar energy)
+
+[**Renewable resources**]{.keyword} - Replenished within their sustainable yield
+
+[**Nonrenewable resources**]{.keyword} - Fixed quantities renewed only through long-term geologic processes
+:::
+
+::: {.column width="50%"}
+![](images/clipboard-2199864411.png)
+:::
+:::::
+
+## Sustainable Resource Use
+
+Sustainable solutions prioritize: - Refuse - Reduce - Reuse - Recycle
+
+Goal: - Lower demand before increasing supply
+
+## Social Dimensions of Sustainability
+
+::::: columns
+::: {.column width="50%"}
+Key ideas from the social sciences:
+
+\- Ecosystem services are free benefits from nature
+
+\- Economies depend on healthy ecosystems
+
+\- Sustainability requires slowing resource use to match replacement rates
+:::
+
+::: {.column width="50%"}
+![](images/clipboard-3191330339.png)
+:::
+:::::
+
+## Sustainability Solutions
+
+Effective solutions:
+
+-   Cross disciplines (science, economics, politics)
+
+-   Involve trade-offs and compromises
+
+-   Can be encouraged through policy and subsidies
+
+-   Depend on individual and local actions
+
+## Global Inequality in Resource Use
+
+::::: columns
+::: {.column width="50%"}
+Countries differ in environmental impact:
+
+**Industrialized countries** - \~17% of global population - Disproportionately high resource use
+
+**Developing countries** - \~83% of global population - Middle-income and low-income nations
+:::
+
+::: {.column width="50%"}
+![Natural Capital Use and Degradation: The human ecological footprint has an impact on about 83% of the earth’s total land surface. Used with permission from Wikimedia Commons](images/clipboard-3564280175.png)
+:::
+:::::
+
+## Key Takeaway
+
+Sustainability is not a single problem or solution.
+
+-   It integrates ecology, resources, and society
+-   It depends on understanding limits
+-   It requires choices at individual, national, and global scales
