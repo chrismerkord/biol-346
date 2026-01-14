@@ -28,23 +28,23 @@ website:
       - href: schedule/index.qmd
       - href: lectures/index.qmd
       - href: module-1/index.qmd
-        text: Module 1: The Environment and Sustainability
+        text: "Module 1: The Environment and Sustainability"
       - href: module-2/index.qmd
-        text: Module 2: Science, Matter, Energy, and Systems
+        text: "Module 2: Science, Matter, Energy, and Systems"
       - href: module-3/index.qmd
-        text: Module 3: Ecosystems: What are they and how do they work?	
+        text: "Module 3: Ecosystems: What are they and how do they work?"
       - href: module-4/index.qmd
-        text: Module 4: Human Population and Urbanization
+        text: "Module 4: Human Population and Urbanization"
       - href: module-5/index.qmd
-        text: Module 5: Climate and Biodiversity: Saving Species and Ecosystems	
+        text: "Module 5: Climate and Biodiversity: Saving Species and Ecosystems"	
       - href: module-6/index.qmd
-        text: Module 6: Food Production and the Environment	
+        text: "Module 6: Food Production and the Environment	"
       - href: module-7/index.qmd
-        text: Module 7: Natural Resources
+        text: "Module 7: Natural Resources"
       - href: module-8/index.qmd
-        text: Module 8: Air Pollution and Climate Change
+        text: "Module 8: Air Pollution and Climate Change"
       - href: module-9/index.qmd
-        text: Module 9: Environmental Waste and Human Health
+        text: "Module 9: Environmental Waste and Human Health"
 
 format:
   html:
