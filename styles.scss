@@ -1,0 +1,23 @@
+/* Slightly reduce overall text size for Reveal.js presentations */
+/* Drop-in CSS: include via `css:` in the revealjs format */
+
+/*-- scss:rules --*/
+
+.reveal {
+  font-size: 32px; /* ~8% smaller than Quarto + Bootstrap default */
+}
+
+/* Ensure common text elements inherit the reduction cleanly */
+.reveal p,
+.reveal li,
+.reveal td,
+.reveal th,
+.reveal blockquote {
+  font-size: inherit;
+}
+
+/* Keep headings proportionally smaller as well */
+.reveal h1 { font-size: 2.2em; }
+.reveal h2 { font-size: 1.8em; }
+.reveal h3 { font-size: 1.4em; }
+.reveal h4 { font-size: 1.1em; }

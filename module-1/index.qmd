@@ -1,6 +1,212 @@
 ---
-title: "Module"
-format: html
+title: |
+  | Module 1
+  | The Environment and Sustainability
+author: "Chris Merkord"
+tbl-cap-location: bottom
+format: 
+  revealjs:
+    fig-align: center
+    cap-location: bottom
+    slide-number: true
+    toc: false
+    controls: true
+    progress: true
+    hash: true
+    center: false
+    chalkboard: true
+    footer: "BIOL 346 An Ecological Perspective | Spring 2026"
+    theme:
+      - default
+      - ../tlm-styles/tlm-theme.scss
+      - ../styles.scss
+    include-in-header:
+      - text: |
+          <link rel="stylesheet" href="https://use.typekit.net/tag1lvz.css">
+lightbox: auto
+editor: visual
 ---
 
-Content not yet uploaded.
+## Learning Objectives
+
+## Perspective on What, Exactly?
+
+::::: columns
+::: {.column width="50%"}
+**Ecological foundations** - Structure, function, and processes of [ecosystems]{.keyword} - Physical environment + biological communities (humans included)
+
+**Human–environment interactions** - Environmental problems created by human activity - Societal dependence on natural systems
+:::
+
+::: {.column width="50%"}
+**Societal responses** - How social, legal, economic, political, cultural, and religious systems address [natural resource]{.keyword} challenges
+
+**Sustainability** - What it is - Why it matters - How it is pursued - Ethical tradeoffs involved
+:::
+:::::
+
+## Ethical Thinking
+
+::::: columns
+::: {.column width="50%"}
+**Ethics** asks how we decide what is *right* and *wrong* conduct.
+
+-   Everyday decisions are ethical decisions\
+-   Scientific and environmental decisions scale those choices up
+
+**Example** - Would you park your car in this space? - Why—or why not?
+:::
+
+::: {.column width="50%"}
+![From the wikimedia free licensed media file repository](images/clipboard-2214911899.png)
+:::
+:::::
+
+## Bioethics
+
+[**Bioethics**]{.keyword} - The study of ethical issues arising from advances in biology and medicine
+
+Bioethics examines relationships among: - Life sciences - Biotechnology - Medicine - Politics and law - Philosophy
+
+## Bioethics: Ordinary and Emerging Issues
+
+Bioethics includes: - Everyday value-based decisions in medicine\
+- The “ethics of the ordinary”
+
+It also addresses **emerging biotechnologies** that affect: - Basic biology - Future humans
+
+## Bioethics: Emerging Technologies
+
+Examples include: - Cloning - Gene therapy - Human genetic engineering - Altered DNA and proteins - Life beyond Earth (astro-ethics)
+
+These raise questions about: - What life is - What kinds of life should exist - Who gets to decide
+
+## Biotic Ethics
+
+Some ethical frameworks emphasize: - The intrinsic value of [life]{.keyword} itself - The responsibility to sustain and propagate life
+
+These perspectives ask: - Do humans have obligations beyond our own species? - What responsibilities do we have to future life?
+
+## Geoethics
+
+[**Geoethics**]{.keyword} - Ethical thinking about human interactions with the Earth as a system
+
+Includes scientific, technological, and social dimensions related to: - Sustainability and development - Geodiversity and geoheritage - Mineral and energy resource use - Natural hazard prediction and mitigation - Geoscience communication
+
+## Why Ethics Matter in Science
+
+Ethical concepts are essential for: - Any scientific study - Designing and implementing policies of change
+
+Science tells us *what is possible*\
+Ethics helps decide *what should be done*
+
+## The Problem
+
+In an ideal world: - Ethical principles would guide decisions - As scientific understanding increases, responsibility would increase
+
+In reality: - Scientific capability often advances faster than ethical consensus
+
+## Example: DDT and pesticide use
+
+::::: columns
+::: {.column width="70%"}
+-   Synthetic pesticides were highly effective at controlling insect pests
+
+-   Widely adopted before ecological consequences were understood
+
+-   **Scientific capability** - Efficient, inexpensive, large-scale pest control
+
+-   **Ethical and ecological failure** - Bioaccumulation in food webs - Severe impacts on birds and other wildlife - Long-term ecosystem damage
+
+-   **Lesson** - Technical success ≠ ethical or ecological success\
+
+    -   Sustainability requires anticipating system-wide and long-term effects
+:::
+
+::: {.column width="30%"}
+![Source: <https://www.blue-growth.org/Plastics_Waste_Toxins_Pollution/DDT.htm>](images/clipboard-2490972175.png)
+:::
+:::::
+
+## Ethics and Sustainability: A Synthesis
+
+::::: columns
+::: {.column width="50%"}
+**Ethics** provides a framework for deciding *what should be done*, not just *what can be done*
+
+From an ecological perspective, ethics must integrate:
+
+-   [Bioethics]{.keyword}: responsibilities to life and future organisms
+-   [Geoethics]{.keyword}: responsibilities to Earth systems and resources
+:::
+
+::: {.column width="50%"}
+Together, these inform:
+
+-   Sustainable use of natural resources
+
+-   Long-term human–environment relationships
+
+-   Tradeoffs across space, time, and generations
+
+**Sustainability is ultimately an ethical problem, not just a technical one**
+:::
+:::::
+
+## Learning from the Earth
+
+The Earth is a model of a long-term [sustainable system]{.keyword}.
+
+-   Life has persisted for \~3.8 billion years
+-   Biodiversity has survived major environmental change
+-   Ecosystem processes recycle matter and energy efficiently
+
+## What the Earth Teaches Us
+
+Organisms persist by: - Acquiring energy efficiently - Minimizing waste - Functioning within physical and chemical limits
+
+Many scientists argue: - Sustainability requires learning from *how natural systems work*
+
+## Biomimicry
+
+[**Biomimicry**]{.keyword} - Design approach that studies and imitates strategies used by living systems
+
+Coined by biologist **Janine Benyus (1997)**
+
+Core idea: - Nature is a model, measure, and mentor for sustainable solutions
+
+## Biomimicry: A Concrete Example
+
+::::: columns
+::: {.column width="50%"}
+**Gecko adhesion**
+
+-   Gecko toes are covered with microscopic hairs called [setae]{.keyword}
+-   Each seta branches into hundreds of smaller structures called [spatulae]{.keyword}
+-   Branching increases contact area with surfaces
+:::
+
+::: {.column width="50%"}
+![](images/clipboard-3602311104.png)
+:::
+:::::
+
+## The Physical Mechanism
+
+::::: columns
+::: {.column width="50%"}
+-   Spatulae get extremely close to surfaces
+-   This allows [van der Waals forces]{.keyword} to operate
+
+Result:
+
+-   Weak forces at the molecular level add up
+
+-   Enables strong, reversible adhesion without glue
+:::
+
+::: {.column width="50%"}
+![](images/clipboard-1940733998.png)
+:::
+:::::
+
