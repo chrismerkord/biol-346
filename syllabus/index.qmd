@@ -55,9 +55,7 @@ Access will be granted to enrolled students on the first day of class.
 
 Additional articles and materials will be provided within the course site in D2L Brightspace under their corresponding modules.
 
-Please note that ***all instructional materials*** (readings, videos,
-etc.) assigned in this course are ***required*** unless specifically indicated
-as optional.
+Please note that ***all instructional materials*** (readings, videos, etc.) assigned in this course are ***required*** unless specifically indicated as optional.
 
 ### Course Objectives/Student Learning Outcomes
 
@@ -101,10 +99,12 @@ Attendance Expectations
 
 Participation Expectations
 
--    Active participation is required. This includes:
+-   Active participation is required. This includes:
+
     -   Asking and answering questions during lecture.
     -   Responding to impromptu, in-class polls or activities.
     -   Engaging thoughtfully with course material and discussions.
+
 -   Participation is meant to support learning, not to put students on the spot; however, students should be prepared to contribute when asked.
 
 Attendance and Bonus Points
