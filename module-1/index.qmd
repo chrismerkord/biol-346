@@ -27,8 +27,6 @@ lightbox: auto
 editor: visual
 ---
 
-## Learning Objectives
-
 ## Perspective on What, Exactly?
 
 ::::: columns
