@@ -4,58 +4,186 @@ title: "BIOL 346 An Ecological Perspective"
 
 ## Course Overview
 
-This course introduces core concepts in biostatistics with an emphasis on data literacy, reproducible analysis, and interpretation of biological data. Students will work with real datasets using R and develop skills applicable across biology, ecology, and environmental science.
-
-This website serves as the **public hub** for course materials.
+This course examines sustainability by integrating environmental science, ecology, and socio-cultural perspectives to understand how natural systems function, how human societies depend on them, and how technological and economic choices shape environmental outcomes. Students evaluate environmental problems and potential pathways to a sustainable future by applying physical and biological principles, analyzing tradeoffs, and considering ecological, social, economic, and political dimensions of sustainability.
 
 ## Course Information
 
-Instructor: Chris Merkord
+<dl class="course-info">
 
-Institution: Minnesota State University Moorhead
+<dt>Instructor</dt>
 
-Term: Spring 2026
+<dd>Chris Merkord</dd>
 
-Delivery: In-person lecture
+<dt>Institution</dt>
 
-## Start Here
+<dd>Minnesota State University Moorhead</dd>
 
-::::::::::::: row
-::::::: col-sm-6
-:::: card
+<dt>Term</dt>
+
+<dd>Spring 2026</dd>
+
+<dt>Delivery</dt>
+
+<dd>In-person lecture</dd>
+
+</dl>
+
+## Course Documents
+
+::::::::::: {.grid .gap-3}
+::::::: {.g-col-12 .g-col-sm-4}
+:::: {.card .h-100}
+::: card-header
+Syllabus
+:::
 ::: card-body
-##### Syllabus {.card-title}
+##### Course Syllabus {.card-title}
 
 Course policies, grading, materials, and expectations.
 
-[Go to Syllabus](syllabus/){.btn .btn-primary}
+[Syllabus](syllabus/)
 :::
-::::
+:::::
+::::::
 
-:::: card
+:::::: {.g-col-12 .g-col-sm-4}
+::::: {.card .h-100}
+::: card-header
+Schedule
+:::
 ::: card-body
-### Schedule {.card-title}
+##### Class Schedule {.card-title}
 
 Weekly topics, readings, and links.
 
-[Go to Schedule](schedule/){.btn .btn-primary}
+[Schedule](schedule/)
 :::
 ::::
 :::::::
+:::::::::::
 
-::::::: col-sm-6
-:::: card
+## Learning Modules
+
+::::::::::: {.grid .gap-3}
+:::::: {.g-col-12 .g-col-sm-4}
+::::: {.card .h-100}
+::: card-header
+Module 1
+:::
 ::: card-body
-### Lecture Slides {.card-title}
+##### The Environment and Sustainability {.card-title}
 
-Slide decks (HTML/PDF) and supporting materials.
+Introduction to environmental science, sustainability, and human–environment interactions.
 
-[Go to Lectures](lectures/){.btn .btn-primary}
+[Module 1](module-1/)
+:::
+::::: 
+::::::
+
+:::::: {.g-col-12 .g-col-sm-4}
+::::: {.card .h-100}
+::: card-header
+Module 2
+:::
+::: card-body
+##### Science, Matter, Energy, and Systems {.card-title}
+
+[Module 2](module-2/)
+:::
+::::: 
+::::::
+
+:::::: {.g-col-12 .g-col-sm-4}
+::::: {.card .h-100}
+::: card-header
+Module 3
+:::
+::: card-body
+##### Ecosystems: What are they and how do they work? {.card-title}
+
+[Module 3](module-3/)
 :::
 ::::
-
 :::::::
-:::::::::::::
+
+:::::: {.g-col-12 .g-col-sm-4}
+::::: {.card .h-100}
+::: card-header
+Module 4
+:::
+::: card-body
+##### Human Population and Urbanization {.card-title}
+
+[Module 4](module-4/)
+:::
+::::
+:::::::
+
+:::::: {.g-col-12 .g-col-sm-4}
+::::: {.card .h-100}
+::: card-header
+Module 5
+:::
+::: card-body
+##### Climate and Biodiversity: Saving Species and Ecosystems {.card-title}
+
+[Module 5](module-5/)
+:::
+::::
+:::::::
+
+:::::: {.g-col-12 .g-col-sm-4}
+::::: {.card .h-100}
+::: card-header
+Module 6
+:::
+::: card-body
+##### Food Production and the Environment {.card-title}
+
+[Module 6](module-6/)
+:::
+::::
+:::::::
+
+:::::: {.g-col-12 .g-col-sm-4}
+::::: {.card .h-100}
+::: card-header
+Module 7
+:::
+::: card-body
+##### Natural Resources {.card-title}
+
+[Module 7](module-7/)
+:::
+::::
+:::::::
+
+:::::: {.g-col-12 .g-col-sm-4}
+::::: {.card .h-100}
+::: card-header
+Module 8
+:::
+::: card-body
+##### Air Pollution and Climate Change {.card-title}
+
+[Module 8](module-8/)
+:::
+::::
+:::::::
+
+:::::: {.g-col-12 .g-col-sm-4}
+::::: {.card .h-100}
+::: card-header
+Module 9
+:::
+::: card-body
+##### Environmental Waste and Human Health {.card-title}
+
+[Module 9](module-9/)
+:::
+::::
+:::::::
+:::::::::::
 
 ## For Enrolled Students
 
