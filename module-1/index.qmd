@@ -31,15 +31,28 @@ editor: visual
 
 ::::: columns
 ::: {.column width="50%"}
-**Ecological foundations** - Structure, function, and processes of [ecosystems]{.keyword} - Physical environment + biological communities (humans included)
+**Ecological foundations** 
 
-**Human–environment interactions** - Environmental problems created by human activity - Societal dependence on natural systems
+- Structure, function, and processes of [ecosystems]{.keyword} 
+- Physical environment + biological communities (humans included)
+
+**Human–environment interactions** 
+
+- Environmental problems created by human activity 
+- Societal dependence on natural systems
 :::
 
 ::: {.column width="50%"}
-**Societal responses** - How social, legal, economic, political, cultural, and religious systems address [natural resource]{.keyword} challenges
+**Societal responses** 
 
-**Sustainability** - What it is - Why it matters - How it is pursued - Ethical tradeoffs involved
+- How social, legal, economic, political, cultural, and religious systems address [natural resource]{.keyword} challenges
+
+**Sustainability** 
+
+- What it is 
+- Why it matters 
+- How it is pursued 
+- Ethical tradeoffs involved
 :::
 :::::
 
@@ -49,10 +62,13 @@ editor: visual
 ::: {.column width="50%"}
 **Ethics** asks how we decide what is *right* and *wrong* conduct.
 
--   Everyday decisions are ethical decisions\
+-   Everyday decisions are ethical decisions
 -   Scientific and environmental decisions scale those choices up
 
-**Example** - Would you park your car in this space? - Why—or why not?
+**Example** 
+
+- Would you park your car in this space? 
+- Why—or why not?
 :::
 
 ::: {.column width="50%"}
@@ -64,45 +80,88 @@ editor: visual
 
 [**Bioethics**]{.keyword} - The study of ethical issues arising from advances in biology and medicine
 
-Bioethics examines relationships among: - Life sciences - Biotechnology - Medicine - Politics and law - Philosophy
+Bioethics examines relationships among: 
+
+- Life sciences 
+- Biotechnology 
+- Medicine 
+- Politics and law 
+- Philosophy
 
 ## Bioethics: Ordinary and Emerging Issues
 
-Bioethics includes: - Everyday value-based decisions in medicine\
+Bioethics includes:
+
+- Everyday value-based decisions in medicine
 - The “ethics of the ordinary”
 
-It also addresses **emerging biotechnologies** that affect: - Basic biology - Future humans
+It also addresses **emerging biotechnologies** that affect: 
+
+- Basic biology 
+- Future humans
 
 ## Bioethics: Emerging Technologies
 
-Examples include: - Cloning - Gene therapy - Human genetic engineering - Altered DNA and proteins - Life beyond Earth (astro-ethics)
+Examples include: 
 
-These raise questions about: - What life is - What kinds of life should exist - Who gets to decide
+- Cloning 
+- Gene therapy 
+- Human genetic engineering 
+- Altered DNA and proteins 
+- Life beyond Earth (astro-ethics)
+
+These raise questions about: 
+
+- What life is 
+- What kinds of life should exist 
+- Who gets to decide
 
 ## Biotic Ethics
 
-Some ethical frameworks emphasize: - The intrinsic value of [life]{.keyword} itself - The responsibility to sustain and propagate life
+Some ethical frameworks emphasize: 
 
-These perspectives ask: - Do humans have obligations beyond our own species? - What responsibilities do we have to future life?
+- The intrinsic value of [life]{.keyword} itself 
+- The responsibility to sustain and propagate life
+
+These perspectives ask: 
+
+- Do humans have obligations beyond our own species? 
+- What responsibilities do we have to future life?
 
 ## Geoethics
 
-[**Geoethics**]{.keyword} - Ethical thinking about human interactions with the Earth as a system
+[**Geoethics**]{.keyword} 
 
-Includes scientific, technological, and social dimensions related to: - Sustainability and development - Geodiversity and geoheritage - Mineral and energy resource use - Natural hazard prediction and mitigation - Geoscience communication
+- Ethical thinking about human interactions with the Earth as a system
+
+Includes scientific, technological, and social dimensions related to: 
+
+- Sustainability and development 
+- Geodiversity and geoheritage 
+- Mineral and energy resource use 
+- Natural hazard prediction and mitigation 
+- Geoscience communication
 
 ## Why Ethics Matter in Science
 
-Ethical concepts are essential for: - Any scientific study - Designing and implementing policies of change
+Ethical concepts are essential for: 
 
-Science tells us *what is possible*\
+- Any scientific study 
+- Designing and implementing policies of change
+
+Science tells us *what is possible*
 Ethics helps decide *what should be done*
 
 ## The Problem
 
-In an ideal world: - Ethical principles would guide decisions - As scientific understanding increases, responsibility would increase
+In an ideal world: 
 
-In reality: - Scientific capability often advances faster than ethical consensus
+- Ethical principles would guide decisions 
+- As scientific understanding increases, responsibility would increase
+
+In reality: 
+
+- Scientific capability often advances faster than ethical consensus
 
 ## Example: DDT and pesticide use
 
@@ -114,11 +173,15 @@ In reality: - Scientific capability often advances faster than ethical consensus
 
 -   **Scientific capability** - Efficient, inexpensive, large-scale pest control
 
--   **Ethical and ecological failure** - Bioaccumulation in food webs - Severe impacts on birds and other wildlife - Long-term ecosystem damage
+-   **Ethical and ecological failure** 
 
--   **Lesson** - Technical success ≠ ethical or ecological success\
+- Bioaccumulation in food webs 
+- Severe impacts on birds and other wildlife 
+- Long-term ecosystem damage
 
-    -   Sustainability requires anticipating system-wide and long-term effects
+-   **Lesson** - Technical success ≠ ethical or ecological success
+
+  -   Sustainability requires anticipating system-wide and long-term effects
 :::
 
 ::: {.column width="30%"}
@@ -161,9 +224,15 @@ The Earth is a model of a long-term [sustainable system]{.keyword}.
 
 ## What the Earth Teaches Us
 
-Organisms persist by: - Acquiring energy efficiently - Minimizing waste - Functioning within physical and chemical limits
+Organisms persist by: 
 
-Many scientists argue: - Sustainability requires learning from *how natural systems work*
+- Acquiring energy efficiently 
+- Minimizing waste 
+- Functioning within physical and chemical limits
+
+Many scientists argue: 
+
+- Sustainability requires learning from *how natural systems work*
 
 ## Biomimicry
 
@@ -171,7 +240,9 @@ Many scientists argue: - Sustainability requires learning from *how natural syst
 
 Coined by biologist **Janine Benyus (1997)**
 
-Core idea: - Nature is a model, measure, and mentor for sustainable solutions
+Core idea: 
+
+- Nature is a model, measure, and mentor for sustainable solutions
 
 ## Biomimicry: A Concrete Example
 
@@ -212,21 +283,15 @@ Result:
 
 ## Why This Matters for Sustainability
 
-Geckos demonstrate: - High performance without toxic chemicals - Reversible attachment with minimal energy cost - Functioning through structure, not consumption
+Geckos demonstrate: 
 
-**Biomimicry asks:** - How can human technologies work *with* physical laws instead of against them?
+- High performance without toxic chemicals 
+- Reversible attachment with minimal energy cost 
+- Functioning through structure, not consumption
 
-## Sustainability Defined
+**Biomimicry asks:** 
 
-## The ability of ecosystems and human cultural systems to:
-
-–survive
-
-–flourish
-
-–adapt together
-
-• [***to constantly changing environments over long periods of time***]{.underline}.
+- How can human technologies work *with* physical laws instead of against them?
 
 ## Sustainability: Big Picture
 
@@ -250,11 +315,19 @@ Life on Earth has persisted for billions of years.
 
 [**Environmentalism**]{.keyword} - A social movement focused on sustaining Earth’s life-support systems
 
-Distinction: - Environmental science → understanding - Environmentalism → action
+Distinction: 
+
+- Environmental science → understanding 
+- Environmentalism → action
 
 ## Goals of Environmental Science
 
-Environmental science aims to: - Understand how life on Earth has persisted - Understand human–environment interactions - Identify ways to address environmental problems - Support more sustainable living
+Environmental science aims to: 
+
+- Understand how life on Earth has persisted 
+- Understand human–environment interactions 
+- Identify ways to address environmental problems 
+- Support more sustainable living
 
 ## Three Scientific Principles of Sustainability
 
@@ -286,9 +359,16 @@ Life on Earth is sustained by:
 
 ::::: columns
 ::: {.column width="50%"}
-[**Natural capital**]{.keyword} - Natural resources - Ecosystem services provided by healthy systems
+[**Natural capital**]{.keyword} 
 
-Examples: - Clean air and water - Pollination - Climate regulation
+- Natural resources 
+- Ecosystem services provided by healthy systems
+
+Examples: 
+
+- Clean air and water 
+- Pollination 
+- Climate regulation
 :::
 
 ::: {.column width="50%"}
@@ -298,25 +378,42 @@ Examples: - Clean air and water - Pollination - Climate regulation
 
 ## Degrading Natural Capital
 
-Humans degrade natural capital by: - Using renewable resources faster than they can regenerate - Overloading ecosystems with pollution and waste
+Humans degrade natural capital by: 
 
-Result: - Loss of ecosystem services - Reduced system resilience
+- Using renewable resources faster than they can regenerate 
+- Overloading ecosystems with pollution and waste
+
+Result: 
+
+- Loss of ecosystem services 
+- Reduced system resilience
 
 ## What Is a Resource?
 
-[**Natural resources**]{.keyword} - Useful materials and energy from nature
+[**Natural resources**]{.keyword} 
 
-Resources may be: - Readily available - Dependent on technology for extraction or use
+- Useful materials and energy from nature
+
+Resources may be: 
+
+- Readily available 
+- Dependent on technology for extraction or use
 
 ## Types of Resources
 
 ::::: columns
 ::: {.column width="50%"}
-[**Inexhaustible resources**]{.keyword} - Perpetually available (e.g., solar energy)
+[**Inexhaustible resources**]{.keyword} 
 
-[**Renewable resources**]{.keyword} - Replenished within their sustainable yield
+- Perpetually available (e.g., solar energy)
 
-[**Nonrenewable resources**]{.keyword} - Fixed quantities renewed only through long-term geologic processes
+[**Renewable resources**]{.keyword} 
+
+- Replenished within their sustainable yield
+
+[**Nonrenewable resources**]{.keyword} 
+
+- Fixed quantities renewed only through long-term geologic processes
 :::
 
 ::: {.column width="50%"}
@@ -326,7 +423,12 @@ Resources may be: - Readily available - Dependent on technology for extraction o
 
 ## Sustainable Resource Use
 
-Sustainable solutions prioritize: - Refuse - Reduce - Reuse - Recycle
+Sustainable solutions prioritize: 
+
+- Refuse 
+- Reduce 
+- Reuse 
+- Recycle
 
 Goal: - Lower demand before increasing supply
 
@@ -336,11 +438,11 @@ Goal: - Lower demand before increasing supply
 ::: {.column width="50%"}
 Key ideas from the social sciences:
 
-\- Ecosystem services are free benefits from nature
+- Ecosystem services are free benefits from nature
 
-\- Economies depend on healthy ecosystems
+- Economies depend on healthy ecosystems
 
-\- Sustainability requires slowing resource use to match replacement rates
+- Sustainability requires slowing resource use to match replacement rates
 :::
 
 ::: {.column width="50%"}
@@ -366,9 +468,15 @@ Effective solutions:
 ::: {.column width="50%"}
 Countries differ in environmental impact:
 
-**Industrialized countries** - \~17% of global population - Disproportionately high resource use
+**Industrialized countries** 
 
-**Developing countries** - \~83% of global population - Middle-income and low-income nations
+- \~17% of global population 
+- Disproportionately high resource use
+
+**Developing countries** 
+
+- \~83% of global population 
+- Middle-income and low-income nations
 :::
 
 ::: {.column width="50%"}
