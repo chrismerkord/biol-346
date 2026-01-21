@@ -3,24 +3,83 @@
 
 /*-- scss:rules --*/
 
-.reveal {
-  font-size: 32px; /* ~8% smaller than Quarto + Bootstrap default */
-}
-
-/* Ensure common text elements inherit the reduction cleanly */
-.reveal p,
-.reveal li,
-.reveal td,
-.reveal th,
-.reveal blockquote {
+.card-header > p,
+.card-title > p,
+.card-footer > p {
+  margin: 0;
+  padding: 0;
   font-size: inherit;
+  font-weight: inherit;
+  line-height: inherit;
 }
 
-/* Keep headings proportionally smaller as well */
-.reveal h1 { font-size: 2.2em; }
-.reveal h2 { font-size: 1.8em; }
-.reveal h3 { font-size: 1.4em; }
-.reveal h4 { font-size: 1.1em; }
+.card-title > h5 {
+  font-size: 1.25rem;
+  font-weight: 500;
+  margin-bottom: 0.5rem;
+  color: black;
+}
+
+.card-body > p {
+  margin-bottom: 1rem;
+}
+.card-body > p:last-child {
+  margin-bottom: 0;
+}
+
+/* Distinct styling for R output blocks */
+div.cell-output,
+div.cell-output-stdout,
+div.cell-output-stderr {
+  background-color: #f1f3f5;   /* slightly darker than code blocks */
+  border: 1px solid #dee2e6;
+  border-radius: 0.25rem;
+  padding: 0.75rem;
+  margin-top: 0.25rem;
+  margin-bottom: 1rem;
+}
+
+/* Big statement slide */
+.reveal .statement-slide {
+  display: flex;
+  align-items: center;     /* vertical centering */
+  justify-content: center; /* horizontal centering */
+  height: 100%;
+  text-align: center;
+}
+
+.reveal .statement-slide p {
+  font-size: 2.6em;        /* adjust as needed */
+  line-height: 1.25;
+  font-weight: 600;
+  color: var(--accent, #2b6cb0); /* fallback if no brand token */
+  margin: 0;
+}
+
+.reveal .keyword {
+  font-family: "Acumin Pro SemiCondensed", "Acumin Pro", sans-serif;
+  font-weight: 700;
+  background-color: color-mix(
+    in srgb,
+    #2e7d32 18%,
+    transparent
+  );
+  padding: 0.08em 0.35em;
+  border-radius: 0.3em;
+  color: #2e7d32;
+}
+
+.reveal strong {
+  font-weight: 700;
+  color: #CC5500;
+}
+
+.reveal .slides img.fit-vertical {
+  max-width: 100%;
+  max-height: 70vh;
+  height: auto;
+}
+
 
 .course-info {
   display: grid;
@@ -40,4 +99,8 @@
 .course-info dd {
   grid-column: 2;
   margin: 0;
+}
+
+.callout {
+  margin-left: 1em;
 }
