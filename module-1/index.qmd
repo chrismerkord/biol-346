@@ -31,28 +31,28 @@ editor: visual
 
 ::::: columns
 ::: {.column width="50%"}
-**Ecological foundations** 
+**Ecological foundations**
 
-- Structure, function, and processes of [ecosystems]{.keyword} 
-- Physical environment + biological communities (humans included)
+-   Structure, function, and processes of [ecosystems]{.keyword}
+-   Physical environment + biological communities (humans included)
 
-**Human–environment interactions** 
+**Human–environment interactions**
 
-- Environmental problems created by human activity 
-- Societal dependence on natural systems
+-   Environmental problems created by human activity
+-   Societal dependence on natural systems
 :::
 
 ::: {.column width="50%"}
-**Societal responses** 
+**Societal responses**
 
-- How social, legal, economic, political, cultural, and religious systems address [natural resource]{.keyword} challenges
+-   How social, legal, economic, political, cultural, and religious systems address [natural resource]{.keyword} challenges
 
-**Sustainability** 
+**Sustainability**
 
-- What it is 
-- Why it matters 
-- How it is pursued 
-- Ethical tradeoffs involved
+-   What it is
+-   Why it matters
+-   How it is pursued
+-   Ethical tradeoffs involved
 :::
 :::::
 
@@ -65,10 +65,10 @@ editor: visual
 -   Everyday decisions are ethical decisions
 -   Scientific and environmental decisions scale those choices up
 
-**Example** 
+**Example**
 
-- Would you park your car in this space? 
-- Why—or why not?
+-   Would you park your car in this space?
+-   Why—or why not?
 :::
 
 ::: {.column width="50%"}
@@ -80,88 +80,87 @@ editor: visual
 
 [**Bioethics**]{.keyword} - The study of ethical issues arising from advances in biology and medicine
 
-Bioethics examines relationships among: 
+Bioethics examines relationships among:
 
-- Life sciences 
-- Biotechnology 
-- Medicine 
-- Politics and law 
-- Philosophy
+-   Life sciences
+-   Biotechnology
+-   Medicine
+-   Politics and law
+-   Philosophy
 
 ## Bioethics: Ordinary and Emerging Issues
 
 Bioethics includes:
 
-- Everyday value-based decisions in medicine
-- The “ethics of the ordinary”
+-   Everyday value-based decisions in medicine
+-   The “ethics of the ordinary”
 
-It also addresses **emerging biotechnologies** that affect: 
+It also addresses **emerging biotechnologies** that affect:
 
-- Basic biology 
-- Future humans
+-   Basic biology
+-   Future humans
 
 ## Bioethics: Emerging Technologies
 
-Examples include: 
+Examples include:
 
-- Cloning 
-- Gene therapy 
-- Human genetic engineering 
-- Altered DNA and proteins 
-- Life beyond Earth (astro-ethics)
+-   Cloning
+-   Gene therapy
+-   Human genetic engineering
+-   Altered DNA and proteins
+-   Life beyond Earth (astro-ethics)
 
-These raise questions about: 
+These raise questions about:
 
-- What life is 
-- What kinds of life should exist 
-- Who gets to decide
+-   What life is
+-   What kinds of life should exist
+-   Who gets to decide
 
 ## Biotic Ethics
 
-Some ethical frameworks emphasize: 
+Some ethical frameworks emphasize:
 
-- The intrinsic value of [life]{.keyword} itself 
-- The responsibility to sustain and propagate life
+-   The intrinsic value of [life]{.keyword} itself
+-   The responsibility to sustain and propagate life
 
-These perspectives ask: 
+These perspectives ask:
 
-- Do humans have obligations beyond our own species? 
-- What responsibilities do we have to future life?
+-   Do humans have obligations beyond our own species?
+-   What responsibilities do we have to future life?
 
 ## Geoethics
 
-[**Geoethics**]{.keyword} 
+[**Geoethics**]{.keyword}
 
-- Ethical thinking about human interactions with the Earth as a system
+-   Ethical thinking about human interactions with the Earth as a system
 
-Includes scientific, technological, and social dimensions related to: 
+Includes scientific, technological, and social dimensions related to:
 
-- Sustainability and development 
-- Geodiversity and geoheritage 
-- Mineral and energy resource use 
-- Natural hazard prediction and mitigation 
-- Geoscience communication
+-   Sustainability and development
+-   Geodiversity and geoheritage
+-   Mineral and energy resource use
+-   Natural hazard prediction and mitigation
+-   Geoscience communication
 
 ## Why Ethics Matter in Science
 
-Ethical concepts are essential for: 
+Ethical concepts are essential for:
 
-- Any scientific study 
-- Designing and implementing policies of change
+-   Any scientific study
+-   Designing and implementing policies of change
 
-Science tells us *what is possible*
-Ethics helps decide *what should be done*
+Science tells us *what is possible* Ethics helps decide *what should be done*
 
 ## The Problem
 
-In an ideal world: 
+In an ideal world:
 
-- Ethical principles would guide decisions 
-- As scientific understanding increases, responsibility would increase
+-   Ethical principles would guide decisions
+-   As scientific understanding increases, responsibility would increase
 
-In reality: 
+In reality:
 
-- Scientific capability often advances faster than ethical consensus
+-   Scientific capability often advances faster than ethical consensus
 
 ## Example: DDT and pesticide use
 
@@ -173,15 +172,17 @@ In reality:
 
 -   **Scientific capability** - Efficient, inexpensive, large-scale pest control
 
--   **Ethical and ecological failure** 
+-   **Ethical and ecological failure**
 
-- Bioaccumulation in food webs 
-- Severe impacts on birds and other wildlife 
-- Long-term ecosystem damage
+-   Bioaccumulation in food webs
+
+-   Severe impacts on birds and other wildlife
+
+-   Long-term ecosystem damage
 
 -   **Lesson** - Technical success ≠ ethical or ecological success
 
-  -   Sustainability requires anticipating system-wide and long-term effects
+-   Sustainability requires anticipating system-wide and long-term effects
 :::
 
 ::: {.column width="30%"}
@@ -224,15 +225,15 @@ The Earth is a model of a long-term [sustainable system]{.keyword}.
 
 ## What the Earth Teaches Us
 
-Organisms persist by: 
+Organisms persist by:
 
-- Acquiring energy efficiently 
-- Minimizing waste 
-- Functioning within physical and chemical limits
+-   Acquiring energy efficiently
+-   Minimizing waste
+-   Functioning within physical and chemical limits
 
-Many scientists argue: 
+Many scientists argue:
 
-- Sustainability requires learning from *how natural systems work*
+-   Sustainability requires learning from *how natural systems work*
 
 ## Biomimicry
 
@@ -240,9 +241,9 @@ Many scientists argue:
 
 Coined by biologist **Janine Benyus (1997)**
 
-Core idea: 
+Core idea:
 
-- Nature is a model, measure, and mentor for sustainable solutions
+-   Nature is a model, measure, and mentor for sustainable solutions
 
 ## Biomimicry: A Concrete Example
 
@@ -283,15 +284,15 @@ Result:
 
 ## Why This Matters for Sustainability
 
-Geckos demonstrate: 
+Geckos demonstrate:
 
-- High performance without toxic chemicals 
-- Reversible attachment with minimal energy cost 
-- Functioning through structure, not consumption
+-   High performance without toxic chemicals
+-   Reversible attachment with minimal energy cost
+-   Functioning through structure, not consumption
 
-**Biomimicry asks:** 
+**Biomimicry asks:**
 
-- How can human technologies work *with* physical laws instead of against them?
+-   How can human technologies work *with* physical laws instead of against them?
 
 ## Sustainability: Big Picture
 
@@ -315,19 +316,19 @@ Life on Earth has persisted for billions of years.
 
 [**Environmentalism**]{.keyword} - A social movement focused on sustaining Earth’s life-support systems
 
-Distinction: 
+Distinction:
 
-- Environmental science → understanding 
-- Environmentalism → action
+-   Environmental science → understanding
+-   Environmentalism → action
 
 ## Goals of Environmental Science
 
-Environmental science aims to: 
+Environmental science aims to:
 
-- Understand how life on Earth has persisted 
-- Understand human–environment interactions 
-- Identify ways to address environmental problems 
-- Support more sustainable living
+-   Understand how life on Earth has persisted
+-   Understand human–environment interactions
+-   Identify ways to address environmental problems
+-   Support more sustainable living
 
 ## Three Scientific Principles of Sustainability
 
@@ -359,16 +360,16 @@ Life on Earth is sustained by:
 
 ::::: columns
 ::: {.column width="50%"}
-[**Natural capital**]{.keyword} 
+[**Natural capital**]{.keyword}
 
-- Natural resources 
-- Ecosystem services provided by healthy systems
+-   Natural resources
+-   Ecosystem services provided by healthy systems
 
-Examples: 
+Examples:
 
-- Clean air and water 
-- Pollination 
-- Climate regulation
+-   Clean air and water
+-   Pollination
+-   Climate regulation
 :::
 
 ::: {.column width="50%"}
@@ -378,42 +379,42 @@ Examples:
 
 ## Degrading Natural Capital
 
-Humans degrade natural capital by: 
+Humans degrade natural capital by:
 
-- Using renewable resources faster than they can regenerate 
-- Overloading ecosystems with pollution and waste
+-   Using renewable resources faster than they can regenerate
+-   Overloading ecosystems with pollution and waste
 
-Result: 
+Result:
 
-- Loss of ecosystem services 
-- Reduced system resilience
+-   Loss of ecosystem services
+-   Reduced system resilience
 
 ## What Is a Resource?
 
-[**Natural resources**]{.keyword} 
+[**Natural resources**]{.keyword}
 
-- Useful materials and energy from nature
+-   Useful materials and energy from nature
 
-Resources may be: 
+Resources may be:
 
-- Readily available 
-- Dependent on technology for extraction or use
+-   Readily available
+-   Dependent on technology for extraction or use
 
 ## Types of Resources
 
 ::::: columns
 ::: {.column width="50%"}
-[**Inexhaustible resources**]{.keyword} 
+[**Inexhaustible resources**]{.keyword}
 
-- Perpetually available (e.g., solar energy)
+-   Perpetually available (e.g., solar energy)
 
-[**Renewable resources**]{.keyword} 
+[**Renewable resources**]{.keyword}
 
-- Replenished within their sustainable yield
+-   Replenished within their sustainable yield
 
-[**Nonrenewable resources**]{.keyword} 
+[**Nonrenewable resources**]{.keyword}
 
-- Fixed quantities renewed only through long-term geologic processes
+-   Fixed quantities renewed only through long-term geologic processes
 :::
 
 ::: {.column width="50%"}
@@ -423,12 +424,12 @@ Resources may be:
 
 ## Sustainable Resource Use
 
-Sustainable solutions prioritize: 
+Sustainable solutions prioritize:
 
-- Refuse 
-- Reduce 
-- Reuse 
-- Recycle
+-   Refuse
+-   Reduce
+-   Reuse
+-   Recycle
 
 Goal: - Lower demand before increasing supply
 
@@ -438,11 +439,11 @@ Goal: - Lower demand before increasing supply
 ::: {.column width="50%"}
 Key ideas from the social sciences:
 
-- Ecosystem services are free benefits from nature
+-   Ecosystem services are free benefits from nature
 
-- Economies depend on healthy ecosystems
+-   Economies depend on healthy ecosystems
 
-- Sustainability requires slowing resource use to match replacement rates
+-   Sustainability requires slowing resource use to match replacement rates
 :::
 
 ::: {.column width="50%"}
@@ -468,21 +469,375 @@ Effective solutions:
 ::: {.column width="50%"}
 Countries differ in environmental impact:
 
-**Industrialized countries** 
+**Industrialized countries**
 
-- \~17% of global population 
-- Disproportionately high resource use
+-   \~17% of global population
+-   Disproportionately high resource use
 
-**Developing countries** 
+**Developing countries**
 
-- \~83% of global population 
-- Middle-income and low-income nations
+-   \~83% of global population
+-   Middle-income and low-income nations
 :::
 
 ::: {.column width="50%"}
 ![Natural Capital Use and Degradation: The human ecological footprint has an impact on about 83% of the earth’s total land surface. Used with permission from Wikimedia Commons](images/clipboard-3564280175.png)
 :::
 :::::
+
+## How Are We Affecting the Earth?
+
+::::: columns
+::: {.column width="50%"}
+Over time, growth of ecological footprints depletes and degrades earth’s natural capital (natural resources and ecosystem services)
+
+Environmental degradation
+
+Humans have the power to sustain, add to, or degrade natural capital
+:::
+
+::: {.column width="50%"}
+![Summary of natural capital degradation. Used with permission from Wikimedia Commons](images/clipboard-720315130.png)
+:::
+:::::
+
+## We Are Degrading Commonly Shared Renewable Resources
+
+::::: columns
+::: {.column width="50%"}
+Natural Capital Use and Degradation:
+
+-   The human ecological footprint in North America.
+
+-   Colors represent the percentage of each area influenced by human activities.
+
+Cumulative degradation due to the overuse of:
+
+-   Open access, renewable resources (atmosphere, open ocean, fish)
+
+-   Shared resources (grasslands, forests, streams)
+:::
+
+::: {.column width="50%"}
+![Used with permission from The Wildlife Conservation Society](images/clipboard-1284347343.png)
+:::
+:::::
+
+## What Is an Ecological Footprint?
+
+::::: columns
+::: {.column width="50%"}
+[Ecological footprint]{.keyword}
+
+-   The amount of land and water needed to supply a population or geographic area with renewable resources
+-   The ability to absorb/recycle wastes and pollution produced by resource usage
+
+The growth of ecological footprints
+
+-   Leads to degradation of natural capital
+-   Results in the creation of pollution and waste
+:::
+
+::: {.column width="50%"}
+![Source: WWF Japan and Global Footprint Network; Ecological Footprint for Sustainable Living in Japan; From https://overshoot.footprintnetwork.org/](images/clipboard-1083038370.png)
+:::
+:::::
+
+## Our Ecological Footprints Are Growing
+
+::::: columns
+::: {.column width="50%"}
+[Ecological deficit]{.keyword} - occurs when the ecological footprint is larger than the biological capacity to replenish resources and absorb wastes/pollution
+
+In an ecological deficit, people are living unsustainably
+
+-   This creates adverse environmental impacts, which can be mitigated by upcycling
+:::
+
+::: {.column width="50%"}
+![](images/clipboard-2529067046.png)
+:::
+:::::
+
+## IPAT - Environmental Impact Model
+
+In the early 1970s, a new environmental model called the IPAT model was developed
+
+Determines environmental impact of human activities
+
+Impact (**I**) = Population (**P**) × Affluence (**A**) × Technology (**T**)
+
+![Credit: Johnathan's Classroom https://www.jonathansclassroom.com/the-material-world.html](images/clipboard-3374492326.png)
+
+## Human Population Is Growing at a Rapid Rate
+
+::::: columns
+::: {.column width="50%"}
+Exponential growth:
+
+The J-shaped curve represents past exponential world population growth
+
+Projections to 2100 showing possible population stabilization as the J-shaped curve of growth changes to an S-shaped curve.
+:::
+
+::: {.column width="50%"}
+![](images/clipboard-2813590662.png)
+:::
+:::::
+
+## The Earth’s population is NOT evenly distributed
+
+::::: columns
+::: {.column width="50%"}
+More than half the world's population lives within the Yuxi ellipse.
+:::
+
+::: {.column width="50%"}
+![Credit: https://www.statsmapsnpix.com/2022/02/the-yuxi-circle.html](images/clipboard-2900627492.png)
+:::
+:::::
+
+## Poverty Can Have Harmful Environmental and Health Effects
+
+::::: columns
+::: {.column width="50%"}
+Harmful effects
+
+-   Short-term requirements for survival can lead to degraded forests, topsoil, grasslands, fisheries, and wildlife populations
+
+Health effects
+
+-   Malnutrition, limited access to sanitation/clean drinking water, outdoor and indoor air pollution
+
+-   One of every three children younger than age 5 in less-developed countries suffers from severe malnutrition caused by a lack of calories and protein.
+:::
+
+::: {.column width="50%"}
+![Credit: Steve Evans, Wikimedia Commons](images/clipboard-3885557760.png)
+:::
+:::::
+
+## We Are Increasingly Isolated from Nature
+
+::::: columns
+::: {.column width="50%"}
+More than half the world’s population lives in urban environments, technologically isolated from nature
+
+We are unaware of:
+
+-   The origins of our food, water, and other goods
+
+-   The pollution and waste generated by the production of these goods and services
+:::
+
+::: {.column width="50%"}
+![](images/clipboard-1340544978.png)
+:::
+:::::
+
+## Ecological Footprints Are Impacted By Cultural Changes
+
+::::: columns
+::: {.column width="50%"}
+Three major cultural changes
+
+-   Agricultural revolution
+
+-   Industrial–medical revolution
+
+-   Information–globalization revolution
+:::
+
+::: {.column width="50%"}
+Some technological leaps have enabled us to reduce our ecological footprint
+
+-   Energy-efficient LED light bulbs and cars
+
+-   Solar and wind energy
+
+*Sustainability revolution is an emerging fourth major cultural change*
+:::
+:::::
+
+## Affluence Has Harmful Environmental Effects
+
+::::: columns
+::: {.column width="50%"}
+-   High levels of consumption and waste of resources
+
+-   More air pollution, water pollution, and land degradation
+
+-   Acquisition of resources without regard for the environmental effects of their consumption
+:::
+
+::: {.column width="50%"}
+![It would take more than a million years for natural processes to replace the coal that was removed from this strip mine in the U.S. state of Wyoming within a couple of decades.](images/clipboard-3588107373.png){width="561"}
+
+![Small remaining area of once diverse Amazon rain forest surrounded by vast soybean fields in the Brazilian state of Mato Grosso. Images used with permission from Wikimedia Commons](images/clipboard-2175722909.png){width="544"}
+:::
+:::::
+
+## Affluence Has Beneficial Environmental Effects
+
+::::: columns
+::: {.column width="50%"}
+-   Better education
+
+-   Scientific research
+
+-   Technological solutions resulting in improvements in environmental quality (e.g., safe drinking water)
+:::
+
+::: {.column width="50%"}
+![](images/clipboard-1340544978.png)
+:::
+:::::
+
+## Prices of Goods/Services Rarely Include Their Harmful Environmental/Health Costs
+
+::::: columns
+::: {.column width="50%"}
+-   Consumers are unaware of the damage caused by their consumption
+
+-   Current government subsidies often increase environmental degradation
+
+-   To live sustainably, government subsidies must become beneficial to the environment by:
+
+    -   Taxing pollution and waste
+
+    -   Shifting from environmentally harmful to environmentally beneficial subsidies
+:::
+
+::: {.column width="50%"}
+![](images/clipboard-2903094212.png)
+:::
+:::::
+
+## What Is Your Environmental Worldview?
+
+::::: columns
+::: {.column width="50%"}
+Each individual has his or her own [environmental worldview]{.keyword}
+
+-   A set of assumptions and values reflecting how one thinks the world works and what one’s role in it should be
+:::
+
+::: {.column width="50%"}
+Your environmental worldview is partly determined by your [environmental ethics]{.keyword}
+
+-   A set of beliefs about what is right and wrong in your behavior toward the environment
+:::
+:::::
+
+## People Have Different Views About Environmental Problems/Solutions
+
+Three major types of worldviews:
+
+::::: columns
+::: {.column width="50%"}
+-   **Human-centered**
+
+    -   Sees the natural world primarily as a support system for human life.
+
+    -   Humans are separate from and in charge of nature and that society should manage the earth for the benefit of humans.
+
+-   **Life-centered**
+
+    -   All species have value in fulfilling their ecological roles, regardless of their potential or actual use to society
+:::
+
+::: {.column width="50%"}
+-   **Earth-centered**
+
+    -   People are part of and dependent on nature, and the earth's natural capital exists for all species, not just for humans
+:::
+:::::
+
+## The Rise of Environmental Conservation and Protection in the United States
+
+::::: columns
+::: {.column width="50%"}
+The **preservationist** school (John Muir)
+
+-   Leave wilderness areas on some public lands untouched
+
+The **conservationist** school (Theodore Roosevelt, Gifford Pinchot)
+
+-   Manage all public lands wisely and scientifically, primarily to provide resources for people
+:::
+
+::: {.column width="50%"}
+![](images/clipboard-597451322.png)
+:::
+:::::
+
+## Preservation of the Quality of the Planet’s Air, Water, Soil, and Wildlife
+
+::::: columns
+::: {.column width="50%"}
+[Silent Spring (1962)]{.keyword} by Rachel Carson
+
+-   Heightened public awareness to pollution problems and the widespread use of pesticides such as DDT
+
+![Image used with permission from Smithsonian Magazine](images/clipboard-790758509.png){width="235"}
+:::
+
+::: {.column width="50%"}
+First Earth Day was held on April 20, 1970
+
+In 1970, the U.S. government established the Environmental Protection Agency (EPA)
+
+"Decade of the environment"
+:::
+:::::
+
+## What Is an Environmentally Sustainable Society?
+
+::::: columns
+::: {.column width="60%"}
+-   In order to live sustainably, one must live off the natural resources without depleting or degrading the natural capital that supplies these natural resources
+
+-   Earth’s natural capital provides natural income
+
+    -   Renewable resources such as plants, animals, soil, and clean water and air
+
+-   By living only on the natural income and not depleting the natural capital, society moves from an unsustainable lifestyle to a sustainable one
+:::
+
+::: {.column width="40%"}
+![](images/clipboard-592918422.png)
+:::
+:::::
+
+## Is There Any Good News?
+
+Many have a better quality of life. The food supply is more abundant and safer.
+
+-   In many parts of the world, air and water are cleaner.
+
+-   Toxic chemical exposure is more avoidable.
+
+-   Endangered species and ecosystems are protected.
+
+-   Some grasslands and wetlands are restored.
+
+## A More Sustainable Future Is Possible
+
+Given enough time, most degraded environments can recover, but many will take hundreds and even thousands of years to recover
+
+-   Time is our most scarce resource
+
+-   However, 5–10% of a population that changes can make a difference
+
+-   Changes can occur in a shorter time than previously thought
+
+## A More Sustainable Future Is Possible
+
+-   **Create a more sustainable future.** Use natural capital and natural resources. Avoid disruption of the earth’s chemical cycles.
+
+-   **Utilize full-cost pricing.** Be aware of ecological footprints, and address cleanup and prevention.
+
+-   **Find win-win solutions.** Apply these solutions to other societies. Leave the planet in the same or better condition than we inherit.
 
 ## Key Takeaway
 
