@@ -1,11 +1,12 @@
 ---
-title: |
-  | Module 1
-  | The Environment and Sustainability
+title: "Module 1: The Environment and Sustainability"
 author: "Chris Merkord"
 tbl-cap-location: bottom
 format: 
   revealjs:
+    width: 1920
+    height: 1080
+    margin: 0.05
     fig-align: center
     cap-location: bottom
     slide-number: true
