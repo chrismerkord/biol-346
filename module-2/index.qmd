@@ -152,6 +152,13 @@ By the end of this module, you should be able to:
 :::
 
 ::: {.column width="50%"}
+![](images/clipboard-3903711219.png){width="40%"}
+
+![](images/clipboard-2723601058.png){width="40%"}
+
+![](images/clipboard-1671341658.png){width="40%"}
+
+![](images/clipboard-4139081240.png){width="40%"}
 :::
 :::::
 
@@ -169,6 +176,7 @@ By the end of this module, you should be able to:
 :::
 
 ::: {.column width="50%"}
+![](images/scientific-process.png){width="30%"}
 :::
 :::::
 
@@ -211,21 +219,21 @@ By the end of this module, you should be able to:
 
 ## Hypotheses vs. Theories vs. Laws
 
--   Hypothesis: tentative, testable idea\
--   Theory: well-supported explanation\
--   Law: consistent description of behavior\
+-   Hypothesis: tentative, testable idea
+-   Theory: well-supported explanation
+-   Law: consistent description of behavior
 -   Different roles, not levels of certainty
 
 ## Evaluating Scientific Knowledge
 
--   Peer review\
--   Replication of results\
--   Transparent methods\
+-   Peer review
+-   Replication of results
+-   Transparent methods
 -   Strength of evidence
 
 ## Limits of Science
 
--   No absolute proof\
--   Measurement uncertainty\
--   Potential for bias\
+-   No absolute proof
+-   Measurement uncertainty
+-   Potential for bias
 -   Peer review reduces bias
