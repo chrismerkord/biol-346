@@ -1,6 +1,33 @@
 ---
 title: "Module 2: Science, Matter, Energy, and Systems"
-format: html
+author: "Chris Merkord"
+tbl-cap-location: bottom
+format: 
+  revealjs:
+    width: 1920
+    height: 1080
+    margin: 0.05
+    fig-align: center
+    cap-location: bottom
+    slide-number: true
+    toc: false
+    controls: true
+    progress: true
+    hash: true
+    center: false
+    chalkboard: true
+    footer: "BIOL 346 An Ecological Perspective | Spring 2026"
+    theme:
+      - default
+      - ../tlm-styles/tlm-theme.scss
+      - ../styles.scss
+    include-in-header:
+      - text: |
+          <link rel="stylesheet" href="https://use.typekit.net/tag1lvz.css">
+lightbox: auto
+editor: visual
 ---
+
+
 
 Content not yet uploaded.
