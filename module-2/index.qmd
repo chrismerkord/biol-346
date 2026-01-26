@@ -28,6 +28,204 @@ lightbox: auto
 editor: visual
 ---
 
+## Module 2: Science, Matter, Energy, and Systems
 
+::::: columns
+::: {.column width="50%"}
+-   How scientists study the natural world
 
-Content not yet uploaded.
+-   Evidence, hypotheses, theories, and laws
+
+-   Matter, energy, and their transformations
+
+-   Systems thinking and feedbacks in nature
+
+-   Links to sustainability and environmental change
+:::
+
+::: {.column width="50%"}
+![Credit: [The Sourcebook for Teaching Science](https://www.csun.edu/science/books/sourcebook/chapters/8-organizing/files/earth-systems-interactions.html)](images/clipboard-3286897791.png)
+:::
+:::::
+
+## Learning Objectives
+
+::::: columns
+::: {.column width="50%"}
+By the end of this module, you should be able to:
+
+-   Describe how scientific knowledge is developed and evaluated
+
+-   Distinguish hypotheses, theories, and scientific laws
+
+-   Explain basic properties of matter and energy
+
+-   Apply the laws of conservation and thermodynamics
+
+-   Describe systems, feedback loops, and tipping points
+
+-   Connect physical and biological principles to environmental issues
+:::
+
+::: {.column width="50%"}
+![](images/clipboard-2831666711.png)
+:::
+:::::
+
+## How Do Scientists Learn About Nature?
+
+-   Explain how the natural world works
+-   Focus on cause-and-effect relationships
+-   Rely on observation, evidence, and testing
+-   Scientific knowledge develops over time
+
+------------------------------------------------------------------------
+
+## Science Starts with Questions
+
+::::: columns
+::: {.column width="50%"}
+-   Observations of nature
+-   Questions about patterns or changes
+-   Focus on measurable variables
+-   Common in environmental systems
+:::
+
+::: {.column width="50%"}
+![Copyright: OpenStax Biology for AP Courses, OpenStax, and Rice University](images/scientific-process.png){width="30%"}
+:::
+:::::
+
+## Using Experiments to Test Ideas
+
+::::: columns
+::: {.column width="50%"}
+-   Identify key variables
+-   Compare outcomes under different conditions
+-   Control group (no change)
+-   Experimental group (variable altered)
+:::
+
+::: {.column width="50%"}
+![Copyright: OpenStax Biology for AP Courses, OpenStax, and Rice University](images/scientific-process.png){width="30%"}
+:::
+:::::
+
+## Example: Forests and Water Loss
+
+::::: columns
+::: {.column width="50%"}
+-   Forested vs. deforested watersheds
+-   Water flow and nutrient loss measured
+-   Dams used to capture runoff
+-   Controlled field experiment
+:::
+
+::: {.column width="50%"}
+![](images/clipboard-1914289484.png)
+:::
+:::::
+
+## What the Experiment Showed
+
+::::: columns
+::: {.column width="50%"}
+-   Forests retain water efficiently
+-   Forest soils retain nutrients
+-   Deforestation increases runoff (30–40%)
+-   Increased erosion and nutrient loss
+:::
+
+::: {.column width="50%"}
+![](images/clipboard-1914289484.png)
+:::
+:::::
+
+## What Do Scientists Do?
+
+::::: columns
+::: {.column width="50%"}
+-   Collect data
+-   Identify patterns
+-   Develop explanations
+-   Test ideas with evidence
+:::
+
+::: {.column width="50%"}
+:::
+:::::
+
+## The Scientific Process (Simplified)
+
+::::: columns
+::: {.column width="50%"}
+-   Observation
+-   Question
+-   Hypothesis
+-   Prediction
+-   Test / experiment
+-   Analyze results
+-   Revise or repeat
+:::
+
+::: {.column width="50%"}
+:::
+:::::
+
+## Hypotheses
+
+::::: columns
+::: {.column width="50%"}
+-   Tentative explanations
+-   Testable and falsifiable
+-   Based on observations
+-   Supported or rejected by data
+:::
+
+::: {.column width="50%"}
+![](images/clipboard-2013537225.png)
+:::
+:::::
+
+## Scientific Theories
+
+::::: columns
+::: {.column width="50%"}
+-   Broad explanations of natural phenomena
+-   Supported by extensive evidence
+-   Repeatedly tested
+-   Widely accepted by scientists
+:::
+
+::: {.column width="50%"}
+![](images/clipboard-3417289828.png)
+:::
+:::::
+
+## Scientific Laws
+
+-   Describe consistent natural patterns
+-   Explain what happens, not why
+-   Highly reliable and repeatable
+-   Revised only with new evidence
+
+## Hypotheses vs. Theories vs. Laws
+
+-   Hypothesis: tentative, testable idea\
+-   Theory: well-supported explanation\
+-   Law: consistent description of behavior\
+-   Different roles, not levels of certainty
+
+## Evaluating Scientific Knowledge
+
+-   Peer review\
+-   Replication of results\
+-   Transparent methods\
+-   Strength of evidence
+
+## Limits of Science
+
+-   No absolute proof\
+-   Measurement uncertainty\
+-   Potential for bias\
+-   Peer review reduces bias
