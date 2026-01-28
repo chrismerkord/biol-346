@@ -92,7 +92,7 @@ By the end of this module, you should be able to:
 :::
 
 ::: {.column width="50%"}
-![Copyright: OpenStax Biology for AP Courses, OpenStax, and Rice University](images/scientific-process.png){width="30%"}
+![Copyright: OpenStax Biology for AP Courses, OpenStax, and Rice University](images/scientific-process.png){width="456"}
 :::
 :::::
 
@@ -107,7 +107,7 @@ By the end of this module, you should be able to:
 :::
 
 ::: {.column width="50%"}
-![Copyright: OpenStax Biology for AP Courses, OpenStax, and Rice University](images/scientific-process.png){width="30%"}
+![Copyright: OpenStax Biology for AP Courses, OpenStax, and Rice University](images/scientific-process.png){width="456"}
 :::
 :::::
 
@@ -143,7 +143,7 @@ By the end of this module, you should be able to:
 
 ## What Do Scientists Do?
 
-::::: columns
+:::::: columns
 ::: {.column width="50%"}
 -   Collect data
 -   Identify patterns
@@ -151,16 +151,20 @@ By the end of this module, you should be able to:
 -   Test ideas with evidence
 :::
 
-::: {.column width="50%"}
-![](images/clipboard-3903711219.png){width="40%"}
+:::: {.column width="50%"}
+::: {#fig-scientists layout-ncol="2"}
+![](images/clipboard-3903711219.png)
 
-![](images/clipboard-2723601058.png){width="40%"}
+![](images/clipboard-2723601058.png)
 
-![](images/clipboard-1671341658.png){width="40%"}
+![](images/clipboard-1671341658.png)
 
-![](images/clipboard-4139081240.png){width="40%"}
+![](images/clipboard-4139081240.png)
+
+Examples of scientists doings science.
 :::
-:::::
+::::
+::::::
 
 ## The Scientific Process (Simplified)
 
@@ -176,7 +180,7 @@ By the end of this module, you should be able to:
 :::
 
 ::: {.column width="50%"}
-![](images/scientific-process.png){width="30%"}
+![](images/scientific-process.png){width="456"}
 :::
 :::::
 
@@ -212,10 +216,32 @@ By the end of this module, you should be able to:
 
 ## Scientific Laws
 
--   Describe consistent natural patterns
--   Explain what happens, not why
+::::: columns
+::: {.column width="50%"}
+-   A description of a consistent pattern in nature
+-   Often expressed mathematically
+-   Describes **what happens**, not **why it happens**
 -   Highly reliable and repeatable
 -   Revised only with new evidence
+-   Laws are **not “proven theories”**
+-   Theories do not graduate into laws
+-   They answer different questions:
+    -   Laws: *What happens?*
+    -   Theories: *Why and how does it happen?*
+:::
+
+::: {.column width="50%"}
+Classic examples:
+
+-   Newton’s laws of motion
+-   Laws of thermodynamics
+-   Law of conservation of matter
+    -   Matter is neither created nor destroyed in physical or chemical changes
+    -   Atoms are rearranged, but the total amount of matter remains constant
+
+![](images/clipboard-653930662.png){fig-align="center" width="200"}
+:::
+:::::
 
 ## Hypotheses vs. Theories vs. Laws
 
@@ -226,14 +252,36 @@ By the end of this module, you should be able to:
 
 ## Evaluating Scientific Knowledge
 
--   Peer review
--   Replication of results
--   Transparent methods
--   Strength of evidence
+::::: columns
+::: {.column width="50%"}
+-   **Peer review**\
+    Independent evaluation by other scientists in the field
+
+-   **Replication of results**\
+    Findings can be reproduced using the same methods
+
+-   **Transparent methods**\
+    Clear description of data, methods, and analyses
+
+-   **Strength of evidence**\
+    Multiple lines of evidence support the same conclusion
+:::
+
+::: {.column width="50%"}
+![Manuscript peer review process. Source: [Understanding Peer Review in Science](https://sciencenotes.org/understanding-peer-review-in-science/), Anne Helmenstine / Science Notes.](images/clipboard-545229791.png)
+:::
+:::::
 
 ## Limits of Science
 
--   No absolute proof
--   Measurement uncertainty
--   Potential for bias
--   Peer review reduces bias
+-   **No absolute proof**\
+    Scientific conclusions are always open to revision
+
+-   **Measurement uncertainty**\
+    Observations and measurements contain inherent error
+
+-   **Potential for bias**\
+    Scientists are human and can be influenced by assumptions
+
+-   **Peer review reduces bias**\
+    Independent review helps identify errors and bias
