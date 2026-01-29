@@ -285,3 +285,114 @@ Classic examples:
 
 -   **Peer review reduces bias**\
     Independent review helps identify errors and bias
+
+## What Is Matter and What Happens When It Undergoes Change?
+
+::::: columns
+::: {.column width="50%"}
+-   Matter is anything that has mass and occupies space
+-   Composed of atoms, ions, and molecules
+-   Forms elements and compounds
+-   Exists in three physical states: solid, liquid, or gas
+-   Matter is rearranged during physical and chemical changes
+-   Cannot be created or destroyed (law of conservation of matter)
+:::
+
+::: {.column width="50%"}
+![](images/clipboard-653930662.png){fig-align="center"}
+:::
+:::::
+
+## Matter Consists of Elements and Compounds
+
+::::: columns
+::: {.column width="50%"}
+-   [Elements]{.keyword}\
+    Substances made of one type of atom
+-   [Compounds]{.keyword}\
+    Combinations of two or more different elements
+-   Elements cannot be chemically broken down
+-   Represented by chemical symbols (e.g., H, O, C)
+:::
+
+::: {.column width="50%"}
+![Copyright: OpenStax Biology for AP Courses, OpenStax, and Rice University](images/clipboard-704926746.png)
+:::
+:::::
+
+## An Atom Is the Basic Building Block of Matter
+
+::::: columns
+::: {.column width="50%"}
+-   Smallest unit of an element that retains its chemical properties
+-   Composed of protons, neutrons, and electrons
+-   Protons and neutrons form the nucleus
+-   Electrons occupy regions surrounding the nucleus
+:::
+
+::: {.column width="50%"}
+![Copyright: OpenStax Biology for AP Courses, OpenStax, and Rice University](images/clipboard-3713995749.png)
+:::
+:::::
+
+## Atomic Number, Atomic Mass, and Element
+
+::::: columns
+::: {.column width="50%"}
+Atoms differ in numbers of subatomic particles
+
+-   Atomic number determines the element
+
+    -   Number of protons in the atomic nucleus
+
+-   Mass number
+
+    -   Total number of protons and neutrons in the nucleus of an element’s atoms
+
+-   Element
+
+    -   A pure substance that consists only of atoms with the same number of protons
+:::
+
+::: {.column width="50%"}
+![Copyright: OpenStax Biology for AP Courses, OpenStax, and Rice University](images/clipboard-3526616632.png)
+:::
+:::::
+
+## Why Electrons Matter (shell model)
+
+::::: columns
+::: {.column width="50%"}
+-   Electrons occupy energy levels (shells) around the nucleus
+-   Outer-shell electrons determine how atoms interact
+-   Atoms with incomplete outer shells are chemically reactive
+-   Atoms gain, lose, or share electrons to become more stable
+-   Chemical reactivity controls nutrient availability, toxicity, and pollutant behavior in the environment
+:::
+
+::: {.column width="50%"}
+![Copyright: OpenStax Biology for AP Courses, OpenStax, and Rice University](images/clipboard-4277457725.png)
+:::
+:::::
+
+## Ions
+
+::::: columns
+::: {.column width="50%"}
+-   Atoms with a net electric charge
+
+-   Formed when atoms gain or lose electrons
+
+-   Loss of electrons → positively charged ion (cation)
+
+-   Gain of electrons → negatively charged ion (anion)
+
+-   Ionic form affects solubility, mobility, and biological availability in the environment
+:::
+
+::: {.column width="50%"}
+![](images/clipboard-932327320.png){width="70%"}
+
+![Copyright: adapted with permission from OpenStax Biology for AP Courses, OpenStax, and Rice University](images/clipboard-357202611.png){width="70%"}
+:::
+:::::
