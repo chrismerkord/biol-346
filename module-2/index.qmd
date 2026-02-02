@@ -676,13 +676,47 @@ A chemical equation: Coal –\> CO2
     Dispersed energy with limited ability to do work
     -   Example: heat lost to the environment
 
-## The Principle of Sustainability and Fossil Fuels
+## Solar Energy and Earth Systems
 
 ::::: columns
 ::: {.column width="50%"}
+-   Solar energy arrives as [electromagnetic radiation]{.keyword}
+-   Spans a range of wavelengths (the electromagnetic spectrum)
+-   Primary energy source for:
+    -   Climate and weather
+    -   Photosynthesis
+    -   Ecosystems and food webs
+-   Drives most natural processes on Earth
 :::
 
 ::: {.column width="50%"}
+![The electromagnetic spectrum showing the range of electromagnetic radiation by wavelength and energy, from radio waves to gamma rays, illustrating how solar energy reaches Earth across multiple wavelengths. Source: NASA, via Wikimedia Commons.](images/clipboard-4166380921.png){fig-alt="Diagram of the electromagnetic spectrum displaying different types of radiation arranged by wavelength and energy, including radio waves, microwaves, infrared, visible light, ultraviolet, X-rays, and gamma rays, with visible light highlighted as a small portion of the spectrum."}
+:::
+:::::
+
+## Human Energy Use: Commercial Energy
+
+::::: columns
+::: {.column width="50%"}
+-   [Commercial energy]{.keyword}\
+    Energy extracted, processed, and sold by humans
+
+-   Includes:
+
+    -   Fossil fuels (coal, oil, natural gas)
+    -   Electricity
+    -   Nuclear and renewable sources
+
+-   Most commercial energy currently comes from fossil fuels
+
+    -   Nonrenewable
+    -   Major environmental and climate impacts
+:::
+
+::: {.column width="50%"}
+![Classification of energy sources into conventional (nonrenewable) and nonconventional (renewable) categories, illustrating common examples of each type. Source: BYJU’S, Conventional and Nonconventional Sources of Energy.](images/clipboard-3349734730.png){fig-alt="Diagram showing energy sources divided into two groups: conventional sources such as coal, petroleum, natural gas, and nuclear energy, and nonconventional sources such as solar, wind, hydropower, geothermal, and biomass energy."}
+
+![ExxonMobil oil refinery in Baton Rouge, Louisiana, illustrating large-scale petroleum refining infrastructure used to process crude oil into fuels and other products. Source: Wikimedia Commons, Exxon Mobil oil refinery – Baton Rouge, Louisiana.](images/clipboard-397521692.png){fig-alt="Photograph of a large oil refinery complex with multiple industrial towers, pipes, and stacks releasing steam and emissions, surrounded by flat industrial land in Baton Rouge, Louisiana." width="485"}
 :::
 :::::
 
@@ -690,60 +724,112 @@ A chemical equation: Coal –\> CO2
 
 ::::: columns
 ::: {.column width="50%"}
+-   A [system]{.keyword} is a set of interacting components that function together
+
+-   Examples: cell, organism, forest, economy, car, Earth
+
+-   Most systems include:
+
+    -   **Inputs** of matter, energy, and information
+    -   **Flows (throughputs)** within the system
+    -   **Outputs** of products, wastes, and degraded energy (often heat)
 :::
 
 ::: {.column width="50%"}
+![](images/clipboard-2529430335.png)
 :::
 :::::
 
-## There are nonliving and living systems
+## Living and Nonliving Systems
 
 ::::: columns
 ::: {.column width="50%"}
+-   [Nonliving systems]{.keyword}
+    -   Do not grow or adapt to environmental change\
+    -   Function remains largely fixed
+-   [Living systems]{.keyword}
+    -   Respond to environmental change\
+    -   Adjust size, structure, and behavior
+-   Systems become [unsustainable]{.keyword} when:
+    -   Inputs are used faster than they are replenished\
+    -   Outputs exceed the environment’s capacity to absorb or dilute them
 :::
 
 ::: {.column width="50%"}
+![](images/clipboard-2529430335.png)
 :::
 :::::
 
-## Systems respond to change through feedback loops (1)
+## Ecological System Feedback Loops
 
 ::::: columns
 ::: {.column width="50%"}
+-   [Feedback loop]{.keyword}\
+    Occurs when a system output feeds back as an input, influencing future system behavior
+
+-   [Positive feedback]{.keyword}\
+    Amplifies change, pushing the system further in the same direction
+
+-   [Negative feedback]{.keyword}\
+    Dampens change, promoting stability
+
+-   Example of positive feedback:
+
+    -   Vegetation loss increases erosion and nutrient loss
+    -   Poor soil conditions cause further vegetation decline
+    -   System becomes increasingly degraded over time
 :::
 
 ::: {.column width="50%"}
+![Alternative ecosystem trajectories showing how compounding disturbances can push ecosystems toward different stable states (Amazonian forests). Source: Wikimedia Commons, Alternative ecosystem trajectories for Amazonian forests that transition due to compounding disturbances.](images/clipboard-3750056245.png)
 :::
 :::::
 
-## Systems respond to change through feedback loops (2)
+## Ecological Tipping Points
 
 ::::: columns
 ::: {.column width="50%"}
+-   [Tipping point]{.keyword}\
+    A threshold beyond which a system shifts rapidly to a new state
+
+-   Often triggered by sustained pressure or positive feedbacks
+
+-   After a tipping point:
+
+    -   Change can be difficult or impossible to reverse
+    -   System structure and function may fundamentally change
+
+-   Examples:
+
+    -   Forest to grassland transitions
+    -   Coral reef collapse
 :::
 
 ::: {.column width="50%"}
+![Alternative ecosystem trajectories showing how compounding disturbances can push ecosystems toward different stable states (Amazonian forests). Source: Wikimedia Commons, Alternative ecosystem trajectories for Amazonian forests that transition due to compounding disturbances.](images/clipboard-3750056245.png)
 :::
 :::::
 
-## Systems respond to change through feedback loops (3)
+## Negative (Corrective) Feedback Loops
 
 ::::: columns
 ::: {.column width="50%"}
+-   [Negative feedback loop]{.keyword}\
+    Counteracts change and promotes system stability
+
+-   Example: thermostat
+
+    -   Measures temperature\
+    -   Turns heating or cooling on or off to maintain a set point
+
+-   Environmental example: aluminum recycling
+
+    -   Used cans become inputs rather than waste\
+    -   Reduces mining and manufacturing demand\
+    -   Lowers energy use, pollution, and material extraction\
 :::
 
 ::: {.column width="50%"}
+![Illustration of an ecological feedback loop showing how changes in one part of an ecosystem feed back to influence other components, either amplifying or stabilizing system behavior over time. Credit: MyLearning.org, “Ecological Interactions: Closing the Loop.”](images/clipboard-1949719410.png)
 :::
 :::::
-
-## Additional Case Study: Powering up America's Waterways
-
-::::: columns
-::: {.column width="50%"}
-:::
-
-::: {.column width="50%"}
-:::
-:::::
-
-## Reflecting on Powering up America's Waterways
