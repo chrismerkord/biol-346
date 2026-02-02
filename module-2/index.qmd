@@ -396,3 +396,354 @@ Atoms differ in numbers of subatomic particles
 ![Copyright: adapted with permission from OpenStax Biology for AP Courses, OpenStax, and Rice University](images/clipboard-357202611.png){width="70%"}
 :::
 :::::
+
+## Ionic Bonds
+
+::::: columns
+::: {.column width="50%"}
+-   When an atom loses or gains electrons, it becomes electrically charged
+
+-   Charged atoms are called [ions]{.keyword}
+
+-   Ionic bonds are formed between oppositely charged ions (**transfer of electrons**)
+:::
+
+::: {.column width="50%"}
+![Copyright: adapted with permission from OpenStax Biology for AP Courses, OpenStax, and Rice University](images/clipboard-1108791331.png)
+:::
+:::::
+
+## Covalent Bonds
+
+::::: columns
+::: {.column width="50%"}
+-   Sharing of electrons between atoms to form [covalent bonds]{.keyword}.
+
+-   **Stronger and much more common than ionic bonds** in the molecules of living organisms.
+
+-   Commonly found in carbon-based organic molecules, such as our DNA and proteins.
+
+-   Also in inorganic molecules like H2O, CO2, and O2.
+
+-   One, two, or three pairs of electrons may be shared, making single, double, and triple bonds, respectively. More bonds = stronger; triple bonds are the strongest
+:::
+
+::: {.column width="50%"}
+![Copyright: OpenStax Biology for AP Courses, OpenStax, and Rice University](images/clipboard-4293289738.png)
+:::
+:::::
+
+## So, why care about ions and compounds?
+
+::::: columns
+::: {.column width="50%"}
+-   So, understanding the chemistry of ions and compounds allows us to measure them.
+
+Remember the trees in the valley?
+
+-   Scientists learned how to measure nitrate and nitrite ions in water to determine the concentration of these ions
+
+    -   Reduce nitrate with zinc and react with naphthylethylenediamine under acid conditions to produce a red compound - 550mn.
+
+-   Determined that lack of trees washed out nitrates from the soil, increasing in concentration in the water runoff.
+:::
+
+::: {.column width="50%"}
+![](images/clipboard-2833558368.png)
+:::
+:::::
+
+## Acids and Bases
+
+-   [Acid]{.keyword}
+
+    -   A chemical compound that donates H+ ions to solutions.
+
+    -   Aqueous solutions with a pH less than 7 are said to be acidic
+
+-   [Base]{.keyword}
+
+    -   A compound that accepts H+ ions and removes them from solution.
+
+    -   Aqueous solutions with a pH greater than 7 are basic or alkaline.
+
+-   Pure water has a pH very close to 7
+
+-   If an equal number of these ions are present in a solution the pH will not change as it is said to be buffered.
+
+## A pH Scale
+
+::::: columns
+::: {.column width="50%"}
+-   To describe the acidity of a solution, we use the pH scale.
+
+-   Bases have a high pH, so they have a low concentration of H+
+
+-   Acids have a low pH, so they have a high concentration of H+
+:::
+
+::: {.column width="50%"}
+![Copyright: OpenStax Biology for AP Courses, OpenStax, and Rice University](images/clipboard-2138943200.png){width="467"}
+:::
+:::::
+
+## Organic compounds are the chemicals of life
+
+-   [Organic compounds]{.keyword} have at least two carbon atoms and various other elements
+
+    -   **Hydrocarbons**: contain carbon and hydrogen atoms
+
+    -   **Simple carbohydrates**: contain carbon, hydrogen, and oxygen
+
+    -   **Polymers**: simple organic compounds (monomers) chemically bonded together
+
+## [Polymers]{.keyword} are essential to life
+
+-   What are the major types of polymers?
+
+    -   **Complex carbohydrates**: two or more monomers of simple sugars such as glucose
+
+    -   **Proteins**: formed by amino acids (that are monomers)
+
+    -   **Nucleic acids**: such as DNA and RNA that are formed by nucleotides (that are monomers)
+
+## The structure of DNA: The best known biomolecule
+
+::::: columns
+::: {.column width="50%"}
+-   [DNA]{.keyword} is composed of two helical strands of nucleotides
+-   Each nucleotide has three components:
+    -   **Phosphate group**
+    -   **Five-carbon sugar** (deoxyribose)
+    -   **Nitrogenous base** (A, T, C, or G)
+-   Base sequence stores genetic information
+:::
+
+::: {.column width="50%"}
+![Copyright: OpenStax Biology for AP Courses, OpenStax, and Rice University](images/clipboard-1222419246.png)
+:::
+:::::
+
+## Matter Comes to Life Through Cells, Genes, and Chromosomes
+
+::::: columns
+::: {.column width="50%"}
+-   [Cells]{.keyword}\
+    Smallest units of life in all organisms
+
+-   [Genes]{.keyword}\
+    DNA sequences that encode functional traits
+
+-   [Chromosomes]{.keyword}\
+    Long DNA molecules containing many genes
+:::
+
+::: {.column width="50%"}
+![Copyright: OpenStax Biology for AP Courses, OpenStax, and Rice University](images/clipboard-2195160445.png)
+:::
+:::::
+
+## Matter undergoes physical, chemical, and nuclear changes
+
+::::: columns
+::: {.column width="50%"}
+-   [Physical changes]{.keyword}\
+    Change form or state (e.g., ice to water) without changing chemical identity
+
+-   [Chemical changes]{.keyword}\
+    Rearrangement of atoms to form new substances
+
+-   [Chemical equations]{.keyword}\
+    Represent reactants, products, and conservation of atoms
+:::
+
+::: {.column width="50%"}
+A chemical equation: Coal –\> CO2
+
+![](images/clipboard-1101967910.png){fig-align="center"}
+
+![Copyright: OpenStax Biology for AP Courses, OpenStax, and Rice University](images/clipboard-2919071401.png){fig-align="center"}
+:::
+:::::
+
+## Cannot create or destroy atoms
+
+::::: columns
+::: {.column width="50%"}
+-   [Law of conservation of matter]{.keyword}\
+    Matter is neither created nor destroyed in physical or chemical changes
+
+-   Atoms are rearranged, not created or lost
+
+-   **Balanced chemical equations**\
+    Ensure the same number of each type of atom on both sides of a reaction
+:::
+
+::: {.column width="50%"}
+A chemical equation: Coal –\> CO2
+
+![](images/clipboard-1101967910.png){fig-align="center"}
+
+![Copyright: OpenStax Biology for AP Courses, OpenStax, and Rice University](images/clipboard-2919071401.png){fig-align="center"}
+:::
+:::::
+
+## What Is Energy and What Happens When It Undergoes Change?
+
+-   [Energy]{.keyword}\
+    The ability to do work or transfer heat
+
+-   [First law of thermodynamics]{.keyword}\
+    Energy is conserved; it changes form but is not created or destroyed
+
+-   [Second law of thermodynamics]{.keyword}\
+    Energy transformations result in lower-quality, less usable energy
+
+## Energy
+
+::::: columns
+::: {.column width="50%"}
+-   [Energy]{.keyword}\
+    Ability to do work or transfer heat
+
+-   [Work]{.keyword}\
+    Occurs when energy moves or changes form
+
+-   Work = force × distance
+
+-   Examples:
+
+    -   Moving an object
+    -   Heat transfer from a hot surface
+:::
+
+::: {.column width="50%"}
+![Source: Dr. Anne Marie Helmenstine, University of Tennessee at Knoxville](images/clipboard-2669121182.png)
+:::
+:::::
+
+## Energy Comes in Many Forms: Kinetic Energy
+
+::::: columns
+::: {.column width="50%"}
+-   [Kinetic energy]{.keyword}\
+    Energy associated with motion
+
+-   Includes:
+
+    -   [Thermal energy]{.keyword} — motion of particles that produces heat
+    -   [Electromagnetic energy]{.keyword} — energy carried by waves
+
+-   Example:
+
+    -   Wind kinetic energy turns turbines
+    -   Converted to electrical energy
+:::
+
+::: {.column width="50%"}
+![From Wikimedia Commons, a freely licensed media file repository](images/clipboard-3287689696.png){width="388"}
+:::
+:::::
+
+## Energy comes in many forms: potential energy
+
+::::: columns
+::: {.column width="50%"}
+-   [Potential energy]{.keyword}\
+    Stored energy that has the capacity to do work
+
+-   Example:
+
+    -   Water stored behind a dam
+
+-   Potential energy can be converted to [kinetic energy]{.keyword}
+
+    -   Flowing water spins turbines
+    -   Turbines generate electrical energy
+:::
+
+::: {.column width="50%"}
+![Aerial view of Cheoah Dam in North Carolina illustrating potential energy stored in reservoir water and its conversion to kinetic energy for hydroelectric power generation. Image credit: Wikimedia Commons, Cheoah Dam aerial – near Robbinsville, North Carolina.](images/clipboard-1816744903.png){width="450"}
+:::
+:::::
+
+## Some Types of Energy Are More Useful Than Others
+
+-   **High-quality energy**\
+    Concentrated energy with high capacity to do work
+    -   Examples: high-temperature heat, concentrated sunlight, strong wind
+-   **Low-quality energy**\
+    Dispersed energy with limited ability to do work
+    -   Example: heat lost to the environment
+
+## The Principle of Sustainability and Fossil Fuels
+
+::::: columns
+::: {.column width="50%"}
+:::
+
+::: {.column width="50%"}
+:::
+:::::
+
+## What Are Systems and How Do They Respond to Change?
+
+::::: columns
+::: {.column width="50%"}
+:::
+
+::: {.column width="50%"}
+:::
+:::::
+
+## There are nonliving and living systems
+
+::::: columns
+::: {.column width="50%"}
+:::
+
+::: {.column width="50%"}
+:::
+:::::
+
+## Systems respond to change through feedback loops (1)
+
+::::: columns
+::: {.column width="50%"}
+:::
+
+::: {.column width="50%"}
+:::
+:::::
+
+## Systems respond to change through feedback loops (2)
+
+::::: columns
+::: {.column width="50%"}
+:::
+
+::: {.column width="50%"}
+:::
+:::::
+
+## Systems respond to change through feedback loops (3)
+
+::::: columns
+::: {.column width="50%"}
+:::
+
+::: {.column width="50%"}
+:::
+:::::
+
+## Additional Case Study: Powering up America's Waterways
+
+::::: columns
+::: {.column width="50%"}
+:::
+
+::: {.column width="50%"}
+:::
+:::::
+
+## Reflecting on Powering up America's Waterways
