@@ -1,6 +1,181 @@
 ---
-title: "Module 3"
-format: html
+title: "Module 3: Ecosystems: What are they and how do they work?"
+author: "Chris Merkord"
+tbl-cap-location: bottom
+format: 
+  revealjs:
+    width: 1920
+    height: 1080
+    margin: 0.05
+    fig-align: center
+    cap-location: bottom
+    slide-number: true
+    toc: false
+    controls: true
+    progress: true
+    hash: true
+    center: false
+    chalkboard: true
+    footer: "BIOL 346 An Ecological Perspective | Spring 2026"
+    theme:
+      - default
+      - ../tlm-styles/tlm-theme.scss
+      - ../styles.scss
+    include-in-header:
+      - text: |
+          <link rel="stylesheet" href="https://use.typekit.net/tag1lvz.css">
+lightbox: auto
+editor: visual
 ---
 
-Content not yet uploaded.
+## Core Case Study: Tropical Rain Forests Are Disappearing
+
+::::: columns
+::: {.column width="50%"}
+-   Cover only 7% of the earth’s surface, but can contain up to half of the world’s terrestrial plant and animal species
+
+-   To date, human activities have destroyed or degraded more than half of the earth's tropical rain forests
+
+    -   logging, crop development, cattle grazing, and encroaching civilization
+
+-   Why should you be concerned about the disappearance of tropical rain forests?
+:::
+
+::: {.column width="50%"}
+![Used with permission from Peel, M. C et al., (2007) University of Melbourne from Wikimedia Commons. Blue areas denote Tropical Rainforest coverage](images/clipboard-2431809341.png)
+:::
+:::::
+
+## Core Case Study: Tropical Rain Forests Are Disappearing
+
+::::: columns
+::: {.column width="50%"}
+**Effect 1 - [Biodiversity Loss]{.keyword}**
+
+-   Clearing these forests causes the extinction of many of their plant and animal species
+
+<!-- -->
+
+-   Loss of key species in these forests can have a ripple effect that leads to the extinction of other species that they help support
+
+**Effect 2 - [Climate Change]{.keyword}**
+
+-   Warms the atmosphere and speeds up climate change.
+
+-   Fewer plants using photosynthesis to remove human-generated emissions of carbon dioxide (CO2)
+
+-   Resulting increased levels of CO2 in the atmosphere contributes to atmospheric warming and climate change,
+:::
+
+::: {.column width="50%"}
+![](images/clipboard-1836857978.png)
+:::
+:::::
+
+## Core Case Study: Tropical Rain Forests Are Disappearing
+
+::::: columns
+::: {.column width="50%"}
+Effect 3 - [System Change]{.keyword} and [Tipping Point]{.keyword}
+
+-   Large-scale losses of tropical rain forests can change regional weather pattern in ways that can prevent the forest from returning in cleared or degraded areas.
+
+-   When this irreversible ecological [tipping point]{.keyword} is reached, the tropical rain forests in such areas become drier and less-diverse tropical grasslands
+:::
+
+::: {.column width="50%"}
+![](images/clipboard-1836857978.png)
+:::
+:::::
+
+## Earth’s Life-Support System Has Four Major Components
+
+::::: columns
+::: {.column width="50%"}
+-   Earth’s life-support system has four spherical components that interact with each other.
+
+-   Life is sustained by the cycling of nutrients and energy between and through these systems.
+
+-   [Atmosphere]{.keyword}: composed of the troposphere and the stratosphere.
+
+-   [Hydrosphere]{.keyword}: water at or near the earth’s surface (ice, water, and water vapor).
+
+-   [Geosphere]{.keyword}: composed of a hot core, a thick, mostly rocky mantle, and a thin outer crust.
+
+-   [Biosphere]{.keyword}: wherever life is found within the other three spheres.
+:::
+
+::: {.column width="50%"}
+![Source: SciencePhoto.com](https://media.sciencephoto.com/image/c0573739/800wm/C0573739-Earth_s_climate_system,_illustration.jpg)
+:::
+:::::
+
+## Three Factors Sustain the Earth’s Life
+
+::::: columns
+::: {.column width="50%"}
+-   The one-way flow of high-quality energy Solar energy principle of sustainability Greenhouse effect
+
+-   The cycling of nutrients Chemical cycling principle of sustainability
+
+-   Gravity
+
+Greenhouse Earth. High-quality solar energy flows from the sun to the earth. It is degraded to lower-quality energy (mostly heat) as it interacts with the earth's air, water, soil, and life forms, and eventually some of it returns to space.
+
+Certain gases in the earth's atmosphere retain enough of the sun's incoming energy as heat to warm the planet in what is known as the greenhouse effect.
+:::
+
+::: {.column width="50%"}
+![From Wikimedia Commons, a freely licensed media file repository](images/clipboard-2440342699.png)
+:::
+:::::
+
+## Major Components of an Ecosystem
+
+::::: columns
+::: {.column width="50%"}
+[Ecology]{.keyword}
+
+-   Organisms interact with each other and with their nonliving environment
+
+-   Biotic (living) and abiotic (nonliving) parts of the environment exhibit sequential levels of organization Five of these levels: organisms, populations, communities, ecosystems, and the biosphere
+:::
+
+::: {.column width="50%"}
+![Copyright: OpenStax Biology for AP Courses, OpenStax, and Rice University](images/clipboard-3362104304.png){width="241"}
+:::
+:::::
+
+## Major Components of an Ecosystem
+
+-   Ecologists assign each organism in an ecosystem to a feeding level, or [trophic level]{.keyword}, depending on its source of nutrients.
+
+-   Organisms are classified as producers and consumers based on whether they make (produce) or find (consume) food.
+
+-   [Producers]{.keyword} Capture energy and make their own food from inorganic materials in the environment
+
+-   [Consumers]{.keyword} Eat other organisms or their remains
+
+-   [Detritivores]{.keyword} Consumers that feed on small bits of organic material (detritus)
+
+-   [Decomposers]{.keyword} Consumers that feed on remains and break them into their inorganic building blocks
+
+## Major Components of an Ecosystem
+
+::::: columns
+::: {.column width="50%"}
+[Producers]{.keyword}
+
+-   Organisms, such as green plants, that make the nutrients they need from compounds and energy obtained from their environment.
+
+[Photosynthesis]{.keyword}
+
+-   Plants capture solar energy that falls on their leaves and use it to combine carbon dioxide and water to form carbohydrates, such as glucose (C~6~H~12~0~6~), which they store as a source of the chemical energy.
+
+-   In the process, they emit oxygen (0~2~) gas into the atmosphere. Oxygen keeps us and most other animal species alive.
+:::
+
+::: {.column width="50%"}
+![From Wikimedia Commons, a freely licensed media file repository](images/clipboard-3195061762.png)
+:::
+:::::
