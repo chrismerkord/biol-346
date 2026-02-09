@@ -130,13 +130,23 @@ Certain gases in the earth's atmosphere retain enough of the sun's incoming ener
 :::
 :::::
 
-## Levels of Biological Organization in Ecology
+## Ecology
 
 ::::: columns
 ::: {.column width="50%"}
 [Ecology]{.keyword}: how living organisms ([biotic]{.keyword} components) interact with one another and with the nonliving (physical and chemical) environment ([abiotic]{.keyword} component).
+:::
 
-Biotic component consists of **nested levels of biological organization**, each building on the previous level:
+::: {.column width="50%"}
+![](images/clipboard-1456647110.png)
+:::
+:::::
+
+## Levels of Biological Organization
+
+::::: columns
+::: {.column width="65"}
+Biotic component consists of **nested levels of biological organization**:
 
 -   **Organelles** – specialized structures within cells that perform specific functions
 -   **Cells** – the basic units of life
@@ -149,7 +159,7 @@ Biotic component consists of **nested levels of biological organization**, each 
 -   **Biosphere** – the sum of all ecosystems on Earth
 :::
 
-::: {.column width="50%"}
+::: {.column width="35%"}
 ![Diagram illustrating levels of biological organization from organelles to the biosphere. Copyright: OpenStax Biology for AP Courses, OpenStax, and Rice University](images/clipboard-3362104304.png){fig-alt="A sequence of images showing increasing levels of biological organization, from cellular organelles and cells, to tissues, organs, organisms, populations, ecosystems, and the biosphere." width="241"}
 :::
 :::::
@@ -226,87 +236,126 @@ Through decomposition, these organisms convert organic matter into inorganic nut
 :::
 :::::
 
-## Major Components of an Ecosystem
+## Detritivores: Breaking Down Organic Matter
 
-### Detritivores:
+::::: columns
+::: {.column width="50%"}
+[Detritivores]{.keyword} obtain energy and nutrients by feeding directly on detritus—the wastes and dead bodies of other organisms.
 
--   Get their nutrients by feeding on the wastes or dead bodies (detritus) of other organisms.
+By physically fragmenting organic material, detritivores help convert large, complex remains (such as fallen tree trunks) into simpler forms that can be further decomposed into inorganic nutrients usable by plants.
 
--   Can transform a fallen tree trunk into simple inorganic molecules that plants can absorb as nutrients.
+In natural ecosystems, wastes and dead organisms are not discarded; they function as resources that support nutrient cycling, consistent with the chemical cycling principle of sustainability.
+:::
 
--   In natural ecosystems, the wastes and dead bodies of organisms are resources for other organisms
+::: {.column width="50%"}
+![Detritus feeders and decomposers acting on a fallen log over time, illustrating how insects, fungi, and other organisms break down dead wood and return nutrients to the soil.](images/detritivores.jpg){fig-alt="Illustration showing a fallen tree trunk progressively broken down by detritivores such as beetles, ants, and termites, followed by fungi and mushrooms that complete decomposition and release nutrients into the soil."}
+:::
+:::::
 
-    -   in keeping with the chemical cycling principle of sustainability.
+## Cellular Respiration: Releasing Stored Chemical Energy
 
-## Major Components of an Ecosystem
+::::: columns
+::: {.column width="50%"}
+Producers, consumers, and decomposers all rely on [cellular respiration]{.keyword} to release the chemical energy stored in glucose and other organic compounds.
 
--   Producers, consumers, and decomposers use the chemical energy stored in glucose and other organic compounds to fuel their life processes through [**cellular respiration**]{.underline}.
+In most organisms, this occurs through **aerobic respiration**, which uses oxygen to convert glucose back into carbon dioxide and water, releasing energy that fuels growth, maintenance, and reproduction.
+:::
 
--   In most cells, this energy is released by **aerobic respiration,** which uses oxygen to convert glucose and other organic compounds back into carbon dioxide and water.
+::: {.column width="50%"}
+![Aerobic cellular respiration, showing glucose and oxygen being converted into carbon dioxide, water, and usable chemical energy. From Wikimedia Commons, a freely licensed media file repository.](images/respiration.png){fig-alt="Diagram illustrating aerobic respiration with glucose and oxygen as inputs and carbon dioxide, water, and ATP energy as outputs."}
+:::
+:::::
 
-## Major Components of an Ecosystem
+## Anaerobic Respiration: Energy without Oxygen
 
--   Some decomposers, such as yeast and some bacteria get the energy they need by breaking down glucose (or other organic compounds) in the *absence* of oxygen.
+Some decomposers, including yeast and certain bacteria, obtain energy by breaking down glucose and other organic compounds **in the absence of oxygen**.
 
-    -   This form of cellular respiration is called [**anaerobic respiration**]{.underline}**,** or [**fermentation**]{.underline}**.**
+This process is known as [anaerobic respiration]{.keyword}, or **fermentation**.
 
--   Instead of carbon dioxide and water, the products of this process are compounds such as:
+Rather than producing carbon dioxide and water, anaerobic respiration generates a variety of end products, depending on the organism and pathway involved, including:
 
-    -   methane gas (CH~4~)
+-   methane gas (CH₄)
+-   ethyl alcohol (C₂H₆O)
+-   acetic acid (C₂H₄O₂), the main component of vinegar
+-   hydrogen sulfide (H₂S), a toxic gas with a characteristic rotten-egg odor
 
-    -   ethyl alcohol (C~2~H~6~O)
+All organisms obtain energy through aerobic or anaerobic respiration, but **only producers (plants, algae, and some bacteria) carry out photosynthesis**.
 
-    -   acetic acid (C~2~H~4~O~2~, the key component of vinegar)
+## Energy Flow and Nutrient Cycling Sustain Ecosystems
 
-    -   hydrogen sulfide (H~2~S, a highly poisonous gas that smells like rotten eggs).
+::::: columns
+::: {.column width="50%"}
+Ecosystems—and the biosphere as a whole—are sustained by two fundamental processes:
 
-## All organisms get their energy from aerobic or anaerobic respiration but only [plants carry out photosynthesis]{.underline}.
+-   **One-way energy flow**: Energy enters ecosystems as sunlight, is captured by producers, transferred through trophic levels, and is ultimately lost as heat.
+-   **Nutrient cycling**: Matter such as carbon, nitrogen, and water is continuously recycled between organisms and the physical environment.
 
-## Main Components of an Ecosystem Summary
+Together, these processes reflect two core scientific principles of sustainability: energy flows through ecosystems, while nutrients cycle within them.
+:::
 
-## Soil Is the Foundation of Life on Land
+::: {.column width="50%"}
+![Energy flow through an ecosystem showing sunlight captured by producers, transfer to herbivores and carnivores, losses through respiration as heat, and the role of detritivores in recycling matter. From Wikimedia Commons, a freely licensed media file repository.](images/energy-and-nutrients.gif){fig-alt="Diagram illustrating one-way energy flow from the sun through plants, herbivores, carnivores, and detritivores, with energy lost as heat during respiration and nutrients cycling back through the ecosystem." fig-align="center"}
+:::
+:::::
 
--   Soil is a complex mixture of:
+## Soil: The Foundation of Life on Land
 
-    -   Rock pieces and particles
+::::: columns
+::: {.column width="50%"}
+Soil is a complex, living system composed of:
 
-    -   Mineral nutrients
+-   rock fragments and mineral particles
+-   essential mineral nutrients
+-   decaying organic matter
+-   water, air, and a diverse community of organisms
 
-    -   Decaying organic matter
+Soil is one of Earth’s most important forms of **natural capital**.
 
-    -   Water, air, and living organisms
+Although it is technically renewable, soil forms extremely slowly, making the protection and renewal of **topsoil** critical for long-term sustainability.
+:::
 
--   One of earth’s most important natural capital
+::: {.column width="50%"}
+![](images/clipboard-487574365.png)
+:::
+:::::
 
--   A renewable resource that is renewed very slowly
+## Soil Profiles and Horizons
 
-    -   protecting and renewing topsoil is a key to sustainability.
+::::: columns
+::: {.column width="50%"}
+-   Soils store organic carbon, helping regulate Earth’s climate
+-   Soil structure is organized into horizontal layers called [horizons]{.keyword}
+-   A vertical cross-section of these layers is a [soil profile]{.keyword}
+-   **Major horizons in a mature soil:**
+    -   **O** – organic layer (leaf litter)
+    -   **A** – topsoil
+    -   **B** – subsoil
+    -   **C** – weathered parent material
+:::
 
-## Soil Is the Foundation of Life on Land
+::: {.column width="50%"}
+![Soil profile showing distinct horizons (O, A, B, C, and R) and illustrating how soil structure supports plant growth and nutrient storage. From Wikimedia Commons, a freely licensed media file repository.](images/soil-horizons.gif){fig-alt="Diagram of a soil profile with labeled horizons, including organic litter at the surface, topsoil, subsoil, weathered parent material, and underlying bedrock." fig-align="center" width="520"}
+:::
+:::::
 
--   Through aerobic respiration, organisms living in soil remove some of the carbon dioxide from the atmosphere and store it as organic carbon compounds
+## Ecologically Active Soil Layers
 
-    -   thereby helping to control the earth's climate
+::::: columns
+::: {.column width="50%"}
+-   Most plant roots and the majority of soil organic matter are concentrated in:
+    -   the **O horizon** (leaf litter)
+    -   the **A horizon** (topsoil)
+-   These layers support dense communities of: bacteria, fungi, earthworms, insects and other soil invertebrates
+-   Through feeding and decomposition, soil organisms:
+    -   break down complex organic compounds
+    -   produce [humus]{.keyword}, a stable mixture of partially decomposed plant and animal material
+        -   Improves soil structure, nutrient availability, and water retention, supporting plant growth and ecosystem productivity.
+:::
 
--   Contain several horizontal layers or *horizons.* A cross-sectional view of the horizons of a soil is called a [**soil profile**]{.underline}
-
-## Soil Is the Foundation of Life on Land
-
--   The major horizons in a mature soil are:
-
-    -   (leaf litter)
-
-    -   **A** (topsoil)
-
-    -   **B** (subsoil)
-
-    -   **C** (weathered parent material), which build up over the parent material.
-
--   The roots of most plants and the majority of a soil’s organic matter are found in the soil's two upper layers:
-
-    -   the **O** horizon of leaf litter
-
-    -   the **A** horizon of topsoil.
+::: {.column width="50%"}
+![Soil profile showing distinct horizons (O, A, B, C, and R) and illustrating how soil structure supports plant growth and nutrient storage. From Wikimedia Commons, a freely licensed media file repository.](images/soil-horizons.gif){fig-alt="Diagram of a soil profile with labeled horizons, including organic litter at the surface, topsoil, subsoil, weathered parent material, and underlying bedrock." fig-align="center" width="520"}
+:::
+:::::
 
 ## Soil Is the Foundation of Life on Land
 
