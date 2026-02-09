@@ -179,3 +179,371 @@ Certain gases in the earth's atmosphere retain enough of the sun's incoming ener
 ![From Wikimedia Commons, a freely licensed media file repository](images/clipboard-3195061762.png)
 :::
 :::::
+
+## Major Components of an Ecosystem
+
+### Ecology:
+
+-   Organisms interact with each other and with their nonliving environment
+
+-   Biotic (living) and abiotic (nonliving) parts of the environment exhibit sequential levels of organization
+
+    -   Five of these levels: organisms, populations, communities, ecosystems, and the biosphere
+
+## Major Components of an Ecosystem
+
+-   Ecologists assign each organism in an ecosystem to a *feeding level,* or **trophic level,** depending on its source of nutrients.
+
+-   Organisms are classified as producers and consumers based on whether they make (produce) or find (consume) food.
+
+-   Producers
+
+    -   Capture energy and make their own food from inorganic materials in the environment
+
+-   Consumers
+
+    -   Eat other organisms or their remains
+
+-   Detritivores
+
+    -   Consumers that feed on small bits of organic material (detritus)
+
+-   Decomposers
+
+    -   Consumers that feed on remains and break them into their inorganic building blocks
+
+## Major Components of an Ecosystem
+
+-   Producers:
+
+    -   Organisms, such as green plants, that make the nutrients they need from compounds and energy obtained from their environment.
+
+### Photosynthesis:
+
+-   Plants capture solar energy that falls on their leaves and use it to combine carbon dioxide and water to form carbohydrates, such as glucose (C~6~H~12~0~6~), which they store as a source of the chemical energy.
+
+    -   In the process, they emit oxygen (0~2~) gas into the atmosphere. Oxygen keeps us and most other animal species alive.
+
+## Major Components of an Ecosystem
+
+-   Consumers:
+
+    -   Cannot produce their own food. Get the nutrients they need by feeding on other producers or other consumers, or on the wastes and remains of producers and consumers. There are several types of consumers.
+
+-   **Primary consumers,** or **herbivores** (plant eaters), are animals that eat mostly green plants or algae.
+
+-   **Carnivores** (meat eaters) are animals that feed on the flesh of other animals.
+
+## Major Components of an Ecosystem
+
+### Decomposers:
+
+-   Consumers that get their nutrients by breaking down ( decomposing) the wastes or remains of plants and animals.
+
+    -   Also known as [heterotrophs]{.underline}.
+
+-   Decomposition returns these nutrients to the soil, water, and air for reuse by producers.
+
+## Major Components of an Ecosystem
+
+### Detritivores:
+
+-   Get their nutrients by feeding on the wastes or dead bodies (detritus) of other organisms.
+
+-   Can transform a fallen tree trunk into simple inorganic molecules that plants can absorb as nutrients.
+
+-   In natural ecosystems, the wastes and dead bodies of organisms are resources for other organisms
+
+    -   in keeping with the chemical cycling principle of sustainability.
+
+## Major Components of an Ecosystem
+
+-   Producers, consumers, and decomposers use the chemical energy stored in glucose and other organic compounds to fuel their life processes through [**cellular respiration**]{.underline}.
+
+-   In most cells, this energy is released by **aerobic respiration,** which uses oxygen to convert glucose and other organic compounds back into carbon dioxide and water.
+
+## Major Components of an Ecosystem
+
+-   Some decomposers, such as yeast and some bacteria get the energy they need by breaking down glucose (or other organic compounds) in the *absence* of oxygen.
+
+    -   This form of cellular respiration is called [**anaerobic respiration**]{.underline}**,** or [**fermentation**]{.underline}**.**
+
+-   Instead of carbon dioxide and water, the products of this process are compounds such as:
+
+    -   methane gas (CH~4~)
+
+    -   ethyl alcohol (C~2~H~6~O)
+
+    -   acetic acid (C~2~H~4~O~2~, the key component of vinegar)
+
+    -   hydrogen sulfide (H~2~S, a highly poisonous gas that smells like rotten eggs).
+
+## All organisms get their energy from aerobic or anaerobic respiration but only [plants carry out photosynthesis]{.underline}.
+
+## Main Components of an Ecosystem Summary
+
+## Soil Is the Foundation of Life on Land
+
+-   Soil is a complex mixture of:
+
+    -   Rock pieces and particles
+
+    -   Mineral nutrients
+
+    -   Decaying organic matter
+
+    -   Water, air, and living organisms
+
+-   One of earth’s most important natural capital
+
+-   A renewable resource that is renewed very slowly
+
+    -   protecting and renewing topsoil is a key to sustainability.
+
+## Soil Is the Foundation of Life on Land
+
+-   Through aerobic respiration, organisms living in soil remove some of the carbon dioxide from the atmosphere and store it as organic carbon compounds
+
+    -   thereby helping to control the earth's climate
+
+-   Contain several horizontal layers or *horizons.* A cross-sectional view of the horizons of a soil is called a [**soil profile**]{.underline}
+
+## Soil Is the Foundation of Life on Land
+
+-   The major horizons in a mature soil are:
+
+    -   (leaf litter)
+
+    -   **A** (topsoil)
+
+    -   **B** (subsoil)
+
+    -   **C** (weathered parent material), which build up over the parent material.
+
+-   The roots of most plants and the majority of a soil’s organic matter are found in the soil's two upper layers:
+
+    -   the **O** horizon of leaf litter
+
+    -   the **A** horizon of topsoil.
+
+## Soil Is the Foundation of Life on Land
+
+-   In a fertile soil, these two layers teem with bacteria, fungi, earthworms, and numerous small insects, all interacting by feeding on and decomposing one another.
+
+-   Break down soil's complex organic compounds into a mixture of the partially decomposed plant and animal remains, called \[humus\]{.keyword}
+
+## What Happens to Energy in an Ecosystem?
+
+-   Chemical energy stored as nutrients in the bodies and wastes of organisms.
+
+-   Energy flows through ecosystems via movement between trophic levels through food chains and food webs.
+
+-   The quality of energy available to organisms decreases as each successive trophic level is reached, because so much energy (heat) is lost moving from one level to the next.
+
+## Energy Flows through Ecosystems in Food Chains and Food Webs
+
+-   In natural ecosystems, most consumers feed on more than one type of organism, and most organisms are eaten or decomposed by more than one type of consumer.
+
+-   Because of this, organisms in most ecosystems form a complex network of interconnected food chains called a \[food web\] {.keyword}**.**
+
+-   Food chains and food webs show how producers, consumers, and decomposers are connected to one another as energy flows through trophic levels in an ecosystem.
+
+## A Generalized Pyramid of Energy Flow
+
+## Simplified Aquatic Food Web
+
+-   This is a greatly simplified aquatic food web found in the southern hemisphere.
+
+-   Many more participants in the web, including an array of decomposer and detritus feeder organisms, are not shown here.
+
+## Some Ecosystems Produce Plant Matter Faster than Others Do
+
+-   Scientists measure the rates at which ecosystems produce chemical energy to compare ecosystems and understand how they interact.
+
+### GPP (gross primary productivity)
+
+-   The rate that an ecosystem’s producers convert energy into biomass
+
+-   To stay alive, grow, and reproduce, producers must use some of their stored chemical energy for their own aerobic respiration
+
+### NPP (net primary productivity)
+
+-   The rate that producers use photosynthesis to produce and store chemical energy minus the rate at which they use energy for aerobic respiration
+
+## Some Ecosystems Produce Plant Matter Faster than Others Do
+
+-   Terrestrial and aquatic ecosystems differ in their NPP (net primary productivity).
+
+-   Despite low NPP, oceans produce most of the world’s biomass because of their vast size.
+
+-   Tropical rainforests have high NPP—much is lost through natural capital degradation.
+
+-   Only plant matter represented by NPP is available as nutrients for consumers.
+
+## What Happens to Matter in an Ecosystem?
+
+-   Matter in the form of nutrients and energy are naturally cycled and recycled through ecosystems and the biosphere.
+
+    -   However, these chemical cycles are being altered by human activities.
+
+-   Biogeochemical cycling, driven by incoming solar radiation and earth’s gravity continually, moves nutrients and energy through air, water, soils, rocks, and living organisms
+
+    -   Supports the chemical cycling principle of sustainability
+
+## The Water Cycle—Evaporation and Transpiration
+
+-   The hydrologic cycle or water cycle collects, purifies, and distributes the earth’s fixed supply of water
+
+    -   The cycle of natural water quality renewal
+
+-   Incoming solar radiation moves water at the surface into the atmosphere through evaporation
+
+    -   Mainly via transpiration (evaporation from the surface of plants)
+
+## The Water Cycle—Precipitation and Surface Runoff
+
+-   Condensation in the atmosphere and effects of gravity create precipitation, which returns water to the earth’s surface
+
+    -   Surface runoff
+
+    -   Aquifers and ground water
+
+-   Only a very small portion of earth’s water is fresh water
+
+    -   The rest is in oceans, stored as ice or is too deep to access
+
+## How Do Humans Alter the Water Cycle?
+
+-   By withdrawing freshwater resources faster than natural processes replenish it
+
+-   By replacing forests & vegetation with urban development—reducing transpiration and increasing runoff
+
+-   By draining and filling in wetlands, which disturbs the renewal abilities of the hydrologic cycle
+
+## The Carbon Cycle
+
+-   Atmospheric carbon dioxide, a key component of the carbon cycle, has a significant temperature effect (greenhouse effect)
+
+-   How does carbon cycle through the biosphere?
+
+-   Photosynthesis by producers
+
+-   Aerobic respiration by producers, consumers, and decomposers
+
+## How Do Humans Alter the Carbon Cycle?
+
+-   By extracting and burning fossil fuels at a much higher rate than they are naturally formed
+
+    -   This adds carbon dioxide to the atmosphere
+
+-   By clearing forests faster than they regrow
+
+    -   This destroys carbon-absorbing vegetation
+
+## The Nitrogen Cycle: Bacteria in Action
+
+-   How does nitrogen cycle through the biosphere?
+
+-   Atmospheric nitrogen cannot be absorbed or used directly by most organisms.
+
+-   Bacteria convert the nitrogen into a usable form, so it becomes a useful plant nutrient.
+
+-   Consumers (herbivores) and decomposers convert the nitrogen back into nitrogen gas, which is then released into the atmosphere.
+
+## Nitrogen fixing bacteria
+
+-   Excreted to the aqueous phase as ammonia nitrogen.
+
+-   [**Ammonia  (NH~4~)**]{.underline}is firstly oxidized to [**nitrite (NO~2~^-^)**]{.underline}by ammonia oxidizing bacteria and
+
+-   Further converted to [**nitrate (NO~3~^-^)**]{.underline}by nitrite oxidizing bacteria, which are taken up and metabolized by plants.
+
+-   Plants reduce nitrate back to [**ammonium (NH~4~^+^)**]{.underline}before incorporating the nitrogen into organic compounds
+
+## How Do Humans Alter the Nitrogen Cycle?
+
+-   By burning fossil fuels that adds nitric oxide to the atmosphere
+
+    -   Nitrogen dioxide gas/nitric acid vapor causes acid rain
+
+-   By removing atmospheric nitrogen to make fertilizer
+
+    -   Agricultural runoff from fields into the water supply leads to algal overgrowth that disrupts the oxygen balance in aquatic systems
+
+## Acid Rain
+
+-   Occurs when Sulphur dioxide and nitrogen oxides are emitted into the atmosphere, undergo chemical transformations and are absorbed by water droplets in clouds.
+
+-   The droplets then fall to earth as rain, snow, mist, dry dust, hail, or sleet.
+
+-   This can increase the acidity of the soil, and affect the chemical balance of lakes and streams
+
+## Algal blooms
+
+-   A relatively rapid increase in the population of (usually) phytoplankton algae in an aquatic system.
+
+-   Causes the death of fish and disruption to the whole ecosystem of the lake.
+
+-   International regulations has led to a reduction in the occurrences of these blooms.
+
+## The Phosphorus Cycle
+
+-   How does phosphorus cycle through the biosphere?
+
+-   Cycles through soils, rocks, water, and plants but not through the atmosphere
+
+-   Can be temporarily removed from natural cycling when washed into oceans and trapped in marine sediments
+
+-   As with nitrogen, contributes to agricultural runoff
+
+## How Do Humans Alter the Phosphorus Cycle?
+
+-   By mining phosphorus deposits to make fertilizer
+
+-   Through clearing of tropical forests, which reduces phosphorus in the topsoil
+
+-   Through agricultural runoff and topsoil erosion, which disturbs biogeochemical cycling
+
+## How Do Scientists Study Ecosystems?
+
+-   Make direct observations and take measurements of ecosystems in the field (field research).
+
+-   Fly over ecosystems to photograph them.
+
+-   Carry out controlled experiments.
+
+-   Use radio transmitters and remote sensing to track organisms.
+
+-   Run mathematical models for issues that cannot be studied in the lab or field.
+
+## Some Ecologists Use Laboratory Experiments or Modeling
+
+-   How do scientists model ecosystems in the lab?
+
+    -   With culture tubes, aquariums, and greenhouses and in indoor/outdoor chambers with controlled variables (light, temperature, etc.)
+
+-   [**Pros:**]{.underline}small, controlled lab experiments save money and are faster to carry out
+
+-   [**Con:**]{.underline}these experiments may not reflect reality well enough
+
+## We Need to Learn More about the Health of the World’s Ecosystems
+
+-   The 2005 ecosystem assessment shows that more baseline ecologic data is needed to:
+
+    -   Evaluate the status of the world’s ecosystems
+
+    -   Develop effective strategies for preventing and slowing ecosystem degradation
+
+    -   Identify planetary boundaries that lead to irreversible changes if passed and help us to avoid reaching or passing them
+
+## Ecosystems: Final Thoughts
+
+-   Life is sustained by the flow of energy and nutrients through ecosystems, which are continually recycled.
+
+-   Ecosystems are characterized by producers, consumers, and decomposers—all aid in the cycling process.
+
+-   Human activities impact ecosystem cycling, sometimes negatively, sometimes positively
+
+## Ecosystems: Final Thoughts
+
+-   It would be easier if every ecosystems could be studied in a single cave.
