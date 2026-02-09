@@ -130,119 +130,101 @@ Certain gases in the earth's atmosphere retain enough of the sun's incoming ener
 :::
 :::::
 
-## Major Components of an Ecosystem
+## Levels of Biological Organization in Ecology
 
 ::::: columns
 ::: {.column width="50%"}
-[Ecology]{.keyword}
+[Ecology]{.keyword}: how living organisms ([biotic]{.keyword} components) interact with one another and with the nonliving (physical and chemical) environment ([abiotic]{.keyword} component).
 
--   Organisms interact with each other and with their nonliving environment
+Biotic component consists of **nested levels of biological organization**, each building on the previous level:
 
--   Biotic (living) and abiotic (nonliving) parts of the environment exhibit sequential levels of organization Five of these levels: organisms, populations, communities, ecosystems, and the biosphere
+-   **Organelles** – specialized structures within cells that perform specific functions
+-   **Cells** – the basic units of life
+-   **Tissues** – groups of similar cells working together
+-   **Organs and organ systems** – structures composed of multiple tissues with coordinated functions
+-   **Organisms** – individual living entities
+-   **Populations** – members of the same species living in the same area
+-   **Communities** – all interacting populations of different species in an area
+-   **Ecosystems** – communities plus the abiotic environment they interact with
+-   **Biosphere** – the sum of all ecosystems on Earth
 :::
 
 ::: {.column width="50%"}
-![Copyright: OpenStax Biology for AP Courses, OpenStax, and Rice University](images/clipboard-3362104304.png){width="241"}
+![Diagram illustrating levels of biological organization from organelles to the biosphere. Copyright: OpenStax Biology for AP Courses, OpenStax, and Rice University](images/clipboard-3362104304.png){fig-alt="A sequence of images showing increasing levels of biological organization, from cellular organelles and cells, to tissues, organs, organisms, populations, ecosystems, and the biosphere." width="241"}
 :::
 :::::
 
-## Major Components of an Ecosystem
+## Trophic Structure: Who Eats Whom in an Ecosystem
 
--   Ecologists assign each organism in an ecosystem to a feeding level, or [trophic level]{.keyword}, depending on its source of nutrients.
+-   Ecologists describe the flow of energy and matter in ecosystems using [trophic levels]{.keyword}, which group organisms based on how they obtain nutrients and energy.
 
--   Organisms are classified as producers and consumers based on whether they make (produce) or find (consume) food.
+    Organisms fall into a small number of functional roles:
 
--   [Producers]{.keyword} Capture energy and make their own food from inorganic materials in the environment
+    -   [Producers]{.keyword}: Capture energy (usually sunlight) and manufacture organic molecules from inorganic materials such as carbon dioxide, water, and nutrients.
+    -   [Consumers]{.keyword}: Obtain energy by eating producers, other consumers, or organic remains.
+    -   [Detritivores]{.keyword}: Consumers that feed on detritus—small fragments of dead organisms and organic waste.
+    -   [Decomposers]{.keyword}: Specialized consumers (primarily bacteria and fungi) that chemically break down organic matter into inorganic nutrients, returning them to the environment for reuse by producers.
 
--   [Consumers]{.keyword} Eat other organisms or their remains
+    Together, these groups define how energy enters ecosystems and how nutrients are recycled through living and nonliving components.
 
--   [Detritivores]{.keyword} Consumers that feed on small bits of organic material (detritus)
-
--   [Decomposers]{.keyword} Consumers that feed on remains and break them into their inorganic building blocks
-
-## Major Components of an Ecosystem
+## Producers: The Entry Point of Energy into Ecosystems
 
 ::::: columns
 ::: {.column width="50%"}
 [Producers]{.keyword}
 
--   Organisms, such as green plants, that make the nutrients they need from compounds and energy obtained from their environment.
+-   organisms (plants, algae, and some bacteria)
+-   manufacture the organic nutrients they need using energy and inorganic materials from their environment
 
 [Photosynthesis]{.keyword}
 
--   Plants capture solar energy that falls on their leaves and use it to combine carbon dioxide and water to form carbohydrates, such as glucose (C~6~H~12~0~6~), which they store as a source of the chemical energy.
+-   Producers capture solar energy and use it
 
--   In the process, they emit oxygen (0~2~) gas into the atmosphere. Oxygen keeps us and most other animal species alive.
+-   Convert carbon dioxide (CO₂) and water (H₂O) into carbohydrates such as glucose (C₆H₁₂O₆), which store chemical energy
+
+-   Oxygen (O₂) released as a byproduct of this process accumulates in the atmosphere, **making aerobic life possible** for most organisms
 :::
 
 ::: {.column width="50%"}
-![From Wikimedia Commons, a freely licensed media file repository](images/clipboard-3195061762.png)
+![Photosynthesis converts carbon dioxide and water into glucose and oxygen using light energy. From Wikimedia Commons, a freely licensed media file repository](images/clipboard-3195061762.png){fig-alt="Diagram of photosynthesis showing carbon dioxide and water entering a leaf, light energy driving the reaction, and glucose and oxygen being produced."}
 :::
 :::::
 
-## Major Components of an Ecosystem
+## Consumers: Obtaining Energy from Other Organisms
 
-### Ecology:
+::::: columns
+::: {.column width="50%"}
+[Consumers]{.keyword}
 
--   Organisms interact with each other and with their nonliving environment
+-   Cannot produce their own food
+-   Obtain energy and nutrients by feeding on producers, other consumers, or the wastes and remains of organisms
 
--   Biotic (living) and abiotic (nonliving) parts of the environment exhibit sequential levels of organization
+Several major consumer types are commonly recognized:
 
-    -   Five of these levels: organisms, populations, communities, ecosystems, and the biosphere
+-   [Primary consumers (herbivores)]{.keyword}: Animals that feed primarily on plants or algae
+-   [Carnivores]{.keyword}: Animals that obtain energy by feeding on the tissues of other animals
+:::
 
-## Major Components of an Ecosystem
+::: {.column width="50%"}
+![An ecosystem diagram illustrating producers, consumers, and decomposers, and the movement of energy and matter among them, including sunlight, carbon dioxide, oxygen, water, and soil nutrients. From Wikimedia Commons, a freely licensed media file repository.](images/trophic-structure.png){fig-alt="Diagram of an ecosystem showing a tree as a producer using sunlight, carbon dioxide, and water; a primary consumer and secondary consumer feeding on plant material; decomposers in the soil breaking down organic matter; and the cycling of water, nutrients, and gases between organisms and the environment."}
+:::
+:::::
 
--   Ecologists assign each organism in an ecosystem to a *feeding level,* or **trophic level,** depending on its source of nutrients.
+## Decomposers: Recycling Matter in Ecosystems
 
--   Organisms are classified as producers and consumers based on whether they make (produce) or find (consume) food.
+::::: columns
+::: {.column width="50%"}
+[Decomposers]{.keyword} are consumers that obtain energy and nutrients by breaking down the wastes and remains of plants and animals.
 
--   Producers
+They are a subset of **heterotrophs** and are primarily bacteria and fungi.
 
-    -   Capture energy and make their own food from inorganic materials in the environment
+Through decomposition, these organisms convert organic matter into inorganic nutrients that are returned to the soil, water, and air, where they can be reused by producers.
+:::
 
--   Consumers
-
-    -   Eat other organisms or their remains
-
--   Detritivores
-
-    -   Consumers that feed on small bits of organic material (detritus)
-
--   Decomposers
-
-    -   Consumers that feed on remains and break them into their inorganic building blocks
-
-## Major Components of an Ecosystem
-
--   Producers:
-
-    -   Organisms, such as green plants, that make the nutrients they need from compounds and energy obtained from their environment.
-
-### Photosynthesis:
-
--   Plants capture solar energy that falls on their leaves and use it to combine carbon dioxide and water to form carbohydrates, such as glucose (C~6~H~12~0~6~), which they store as a source of the chemical energy.
-
-    -   In the process, they emit oxygen (0~2~) gas into the atmosphere. Oxygen keeps us and most other animal species alive.
-
-## Major Components of an Ecosystem
-
--   Consumers:
-
-    -   Cannot produce their own food. Get the nutrients they need by feeding on other producers or other consumers, or on the wastes and remains of producers and consumers. There are several types of consumers.
-
--   **Primary consumers,** or **herbivores** (plant eaters), are animals that eat mostly green plants or algae.
-
--   **Carnivores** (meat eaters) are animals that feed on the flesh of other animals.
-
-## Major Components of an Ecosystem
-
-### Decomposers:
-
--   Consumers that get their nutrients by breaking down ( decomposing) the wastes or remains of plants and animals.
-
-    -   Also known as [heterotrophs]{.underline}.
-
--   Decomposition returns these nutrients to the soil, water, and air for reuse by producers.
+::: {.column width="50%"}
+![An ecosystem diagram illustrating producers, consumers, and decomposers, and the movement of energy and matter among them, including sunlight, carbon dioxide, oxygen, water, and soil nutrients. From Wikimedia Commons, a freely licensed media file repository.](images/trophic-structure.png){fig-alt="Diagram of an ecosystem showing a tree as a producer using sunlight, carbon dioxide, and water; a primary consumer and secondary consumer feeding on plant material; decomposers in the soil breaking down organic matter; and the cycling of water, nutrients, and gases between organisms and the environment."}
+:::
+:::::
 
 ## Major Components of an Ecosystem
 
