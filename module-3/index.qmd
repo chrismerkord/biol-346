@@ -130,6 +130,8 @@ Certain gases in the earth's atmosphere retain enough of the sun's incoming ener
 :::
 :::::
 
+# Ecology
+
 ## Ecology
 
 ::::: columns
@@ -363,63 +365,200 @@ Although it is technically renewable, soil forms extremely slowly, making the pr
 
 -   Break down soil's complex organic compounds into a mixture of the partially decomposed plant and animal remains, called \[humus\]{.keyword}
 
-## What Happens to Energy in an Ecosystem?
+# Energy
 
--   Chemical energy stored as nutrients in the bodies and wastes of organisms.
+## Energy Flow in Ecosystems: The Big Picture
 
--   Energy flows through ecosystems via movement between trophic levels through food chains and food webs.
+::::: columns
+::: {.column width="50%"}
+-   Energy enters ecosystems as **sunlight**.
+-   Producers convert solar energy into **chemical energy** through photosynthesis.
+-   Energy moves upward through trophic levels as organisms consume one another.
+-   Energy flow is **one-way** — it does not cycle.
+:::
 
--   The quality of energy available to organisms decreases as each successive trophic level is reached, because so much energy (heat) is lost moving from one level to the next.
+::: {.column width="50%"}
+![Source: [mrgscience.com](https://www.mrgscience.com/42-energy-flow.html)](images/clipboard-3480663989.png)
+:::
+:::::
 
-## Energy Flows through Ecosystems in Food Chains and Food Webs
+## Energy Transfer Between Trophic Levels
 
--   In natural ecosystems, most consumers feed on more than one type of organism, and most organisms are eaten or decomposed by more than one type of consumer.
+::::: columns
+::: {.column width="50%"}
+-   Energy stored in organic molecules passes from:
+    -   **Producers → Primary consumers → Secondary consumers → Tertiary consumers**
+-   At each transfer, organisms use most of the energy for:
+    -   metabolism
+    -   movement
+    -   growth
+    -   reproduction
+-   Only a **small fraction** (about 10%) of energy becomes biomass available to the next level.
+:::
 
--   Because of this, organisms in most ecosystems form a complex network of interconnected food chains called a \[food web\] {.keyword}**.**
+::: {.column width="50%"}
+![Source: [mrgscience.com](https://www.mrgscience.com/42-energy-flow.html)](images/clipboard-3573391660.png)
+:::
+:::::
 
--   Food chains and food webs show how producers, consumers, and decomposers are connected to one another as energy flows through trophic levels in an ecosystem.
+## The Energy Pyramid
 
-## A Generalized Pyramid of Energy Flow
+::::: columns
+::: {.column width="50%"}
+-   Energy availability decreases at higher trophic levels.
+-   With each transfer, much energy is lost as **heat** through respiration.
+-   Because energy diminishes at each step:
+    -   Food chains are short.
+    -   Top predators are few in number.
+-   This pattern is represented by an **energy pyramid**.
+:::
 
-## Simplified Aquatic Food Web
+::: {.column width="50%"}
+![Source: [mrgscience.com](https://www.mrgscience.com/42-energy-flow.html)](images/clipboard-3584179075.png)
+:::
+:::::
 
--   This is a greatly simplified aquatic food web found in the southern hemisphere.
+## Food Chains: Linear Energy Pathways
 
--   Many more participants in the web, including an array of decomposer and detritus feeder organisms, are not shown here.
+::::: columns
+::: {.column width="50%"}
+-   A **food chain** shows a single pathway of energy flow.
+-   Example:
+    -   Grass → Rabbit → Fox
+-   Food chains are simplified representations of feeding relationships.
+:::
 
-## Some Ecosystems Produce Plant Matter Faster than Others Do
+::: {.column width="50%"}
+![Example food chain. Source: [brittanica.com](https://www.britannica.com/science/food-chain)](images/clipboard-3584149889.png)
+:::
+:::::
 
--   Scientists measure the rates at which ecosystems produce chemical energy to compare ecosystems and understand how they interact.
+## Food Webs: Real Ecosystem Complexity
 
-### GPP (gross primary productivity)
+::::: columns
+::: {.column width="50%"}
+-   In natural ecosystems:
+    -   Most consumers eat more than one species.
+    -   Most organisms are eaten by multiple predators.
+-   These interconnected feeding relationships form a [food web]{.keyword}.
+-   Food webs more accurately represent how energy moves through ecosystems.
+:::
 
--   The rate that an ecosystem’s producers convert energy into biomass
+::: {.column width="50%"}
+![Example food web Source: [brittanica.com](https://www.britannica.com/science/food-web)](images/clipboard-186437074.png)
+:::
+:::::
 
--   To stay alive, grow, and reproduce, producers must use some of their stored chemical energy for their own aerobic respiration
+## From Energy Flow to Nutrient Cycling
 
-### NPP (net primary productivity)
+::::: columns
+::: {.column width="50%"}
+Energy and matter behave differently in ecosystems:
 
--   The rate that producers use photosynthesis to produce and store chemical energy minus the rate at which they use energy for aerobic respiration
+-   **Energy flows**:
+    -   Enters as sunlight
+    -   Moves through trophic levels
+    -   Is lost as heat
+    -   Does **not** get recycled
+-   **Nutrients cycle**:
+    -   Atoms (C, N, P, H₂O) are reused
+    -   Move between organisms and the physical environment
+    -   Are conserved and continuously recycled
 
-## Some Ecosystems Produce Plant Matter Faster than Others Do
+Energy flows through ecosystems.\
+Matter cycles within them.
+:::
 
--   Terrestrial and aquatic ecosystems differ in their NPP (net primary productivity).
+::: {.column width="50%"}
+![Source: [bio1152.nicerweb.com](https://bio1152.nicerweb.com/Locked/media/ch55/energy_flow.html)](images/clipboard-2160019566.png)
+:::
+:::::
 
--   Despite low NPP, oceans produce most of the world’s biomass because of their vast size.
+## Primary Productivity
 
--   Tropical rainforests have high NPP—much is lost through natural capital degradation.
+::::: columns
+::: {.column width="50%"}
+[Gross Primary Productivity (GPP)]{.keyword}
 
--   Only plant matter represented by NPP is available as nutrients for consumers.
+-   Total rate at which producers capture solar energy through photosynthesis
+-   Represents total carbon fixed into organic molecules
 
-## What Happens to Matter in an Ecosystem?
+[Net Primary Productivity (NPP)]{.keyword}
 
--   Matter in the form of nutrients and energy are naturally cycled and recycled through ecosystems and the biosphere.
+-   Energy remaining after producers use some for respiration
 
-    -   However, these chemical cycles are being altered by human activities.
+    $$\text{NPP} = \text{GPP} - \text{Respiration by producers}$$
 
--   Biogeochemical cycling, driven by incoming solar radiation and earth’s gravity continually, moves nutrients and energy through air, water, soils, rocks, and living organisms
+-   Represents biomass available to consumers
+:::
 
-    -   Supports the chemical cycling principle of sustainability
+::: {.column width="50%"}
+![Source: sciencesauceonline.com](images/clipboard-1585943939.png)
+:::
+:::::
+
+## Ecosystem Productivity
+
+::::: columns
+::: {.column width="50%"}
+[Net Ecosystem Productivity (NEP)]{.keyword}
+
+-   Net carbon accumulation in an ecosystem
+-   $$\text{NEP} = \text{GPP} - \text{Total ecosystem respiration}$$ (includes respiration by producers, consumers, and decomposers)
+-   Indicates whether an ecosystem is a **carbon sink** (positive NEP) or **carbon source** (negative NEP)
+:::
+
+::: {.column width="50%"}
+:::
+:::::
+
+## Net Primary Productivity Varies Among Ecosystems
+
+::::: columns
+::: {.column width="50%"}
+-   **Net primary productivity (NPP)** differs dramatically across terrestrial and aquatic ecosystems.
+
+-   Ecosystems with warm temperatures, ample sunlight, and sufficient water (e.g., tropical rainforests, swamps, marshes, coral reefs) tend to have high NPP.
+
+-   Deserts, tundra, and open ocean regions generally have low NPP per unit area.
+
+-   Although the **open ocean** has low NPP per square meter, its enormous area makes it a major contributor to global primary production.
+
+-   Only energy stored as **NPP** (not GPP) is available to support consumers and higher trophic levels.
+:::
+
+::: {.column width="50%"}
+![Net primary productivity (g C/m²/year) across major terrestrial and aquatic ecosystems, illustrating large variation in biomass production per unit area. Source. Ap Environmental https://mhsapes.weebly.co-m/18-reading.html](images/clipboard-1725384839.png){fig-alt="Bar chart comparing net primary productivity of different terrestrial and aquatic ecosystems, showing highest values in swamps, marshes, and tropical rainforests, and lowest values in deserts and open ocean." fig-align="center" width="70%"}
+:::
+:::::
+
+## What Happens to Matter in Ecosystems?
+
+::::: columns
+::: {.column width="50%"}
+Energy flows.\
+Matter cycles.
+
+-   Nutrients (C, N, P, H₂O) move repeatedly between:
+    -   atmosphere
+    -   hydrosphere
+    -   geosphere
+    -   biosphere
+-   These pathways are called [biogeochemical cycles]{.keyword}.
+:::
+
+::: {.column width="50%"}
+Biogeochemical cycles are driven by:
+
+-   Solar energy
+
+-   Gravity
+
+-   Biological processes
+
+Human activities now alter these cycles at global scales.
+:::
+:::::
 
 ## The Water Cycle—Evaporation and Transpiration
 
