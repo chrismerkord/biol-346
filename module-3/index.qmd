@@ -449,6 +449,8 @@ Although it is technically renewable, soil forms extremely slowly, making the pr
 :::
 :::::
 
+# Matter / Nutrients
+
 ## From Energy Flow to Nutrient Cycling
 
 ::::: columns
@@ -528,7 +530,7 @@ Matter cycles within them.
 :::
 
 ::: {.column width="50%"}
-![Net primary productivity (g C/m²/year) across major terrestrial and aquatic ecosystems, illustrating large variation in biomass production per unit area. Source. Ap Environmental https://mhsapes.weebly.co-m/18-reading.html](images/clipboard-1725384839.png){fig-alt="Bar chart comparing net primary productivity of different terrestrial and aquatic ecosystems, showing highest values in swamps, marshes, and tropical rainforests, and lowest values in deserts and open ocean." fig-align="center" width="70%"}
+![Net primary productivity (g C/m²/year) across major terrestrial and aquatic ecosystems, illustrating large variation in biomass production per unit area. Source. Ap Environmental https://mhsapes.weebly.co-m/18-reading.html](images/clipboard-3892220239.png){fig-alt="Bar chart comparing net primary productivity of different terrestrial and aquatic ecosystems, showing highest values in swamps, marshes, and tropical rainforests, and lowest values in deserts and open ocean." fig-align="center" width="70%"}
 :::
 :::::
 
@@ -560,160 +562,260 @@ Human activities now alter these cycles at global scales.
 :::
 :::::
 
-## The Water Cycle—Evaporation and Transpiration
+## The Water Cycle: Movement of Water Through Earth Systems
 
--   The hydrologic cycle or water cycle collects, purifies, and distributes the earth’s fixed supply of water
+::::: columns
+::: {.column width="50%"}
+The **hydrologic cycle** moves water continuously among the atmosphere, land, and oceans.
 
-    -   The cycle of natural water quality renewal
+### Key processes
 
--   Incoming solar radiation moves water at the surface into the atmosphere through evaporation
+-   **Evaporation** – Solar energy converts liquid water to vapor.
+-   **Transpiration** – Plants release water vapor to the atmosphere.
+-   **Condensation** – Water vapor cools and forms clouds.
+-   **Precipitation** – Water returns to Earth as rain, snow, or ice.
+-   **Runoff and infiltration** – Water flows over land or enters soil.
+-   **Groundwater storage and discharge** – Water is stored in aquifers and slowly returns to surface waters.
 
-    -   Mainly via transpiration (evaporation from the surface of plants)
+Although water is continuously recycled, **only a small fraction is accessible freshwater**; most is in oceans, ice, or deep underground.
+:::
 
-## The Water Cycle—Precipitation and Surface Runoff
+::: {.column width="50%"}
+![](images/clipboard-4215324875.png)
+:::
+:::::
 
--   Condensation in the atmosphere and effects of gravity create precipitation, which returns water to the earth’s surface
+## Human Impacts on the Water Cycle
 
-    -   Surface runoff
+Human activities alter both the quantity and movement of water:
 
-    -   Aquifers and ground water
+-   **Freshwater withdrawal** faster than natural recharge
+-   **Urbanization** that reduces infiltration and increases runoff
+-   **Deforestation** that lowers transpiration
+-   **Wetland drainage** that disrupts natural water storage and filtration
 
--   Only a very small portion of earth’s water is fresh water
+Changes to the water cycle affect water availability, water quality, and ecosystem stability.
 
-    -   The rest is in oceans, stored as ice or is too deep to access
+## The Carbon Cycle: Movement of Carbon Through Earth Systems
 
-## How Do Humans Alter the Water Cycle?
+::::: columns
+::: {.column width="50%"}
+Carbon cycles among the atmosphere, biosphere, oceans, and geosphere.
 
--   By withdrawing freshwater resources faster than natural processes replenish it
+### Major biological processes
 
--   By replacing forests & vegetation with urban development—reducing transpiration and increasing runoff
+-   **Photosynthesis** – Producers remove CO₂ from the atmosphere and convert it into organic carbon.
+-   **Respiration** – Producers, consumers, and decomposers return CO₂ to the atmosphere.
+-   **Decomposition** – Breaks down organic matter, releasing carbon back to air or soil.
+-   **Long-term storage** – Carbon can be stored in oceans, soils, sediments, and fossil fuels.
 
--   By draining and filling in wetlands, which disturbs the renewal abilities of the hydrologic cycle
+Atmospheric CO₂ is a greenhouse gas and plays a central role in regulating Earth’s climate.
+:::
 
-## The Carbon Cycle
+::: {.column width="50%"}
+![](images/clipboard-122124513.png)
+:::
+:::::
 
--   Atmospheric carbon dioxide, a key component of the carbon cycle, has a significant temperature effect (greenhouse effect)
+## Human Impacts on the Carbon Cycle
 
--   How does carbon cycle through the biosphere?
+Human activities are increasing atmospheric CO₂ by:
 
--   Photosynthesis by producers
+-   **Burning fossil fuels** faster than they form
+-   **Deforestation**, reducing carbon uptake by plants
 
--   Aerobic respiration by producers, consumers, and decomposers
+These changes shift the balance of the carbon cycle and contribute to climate change.
 
-## How Do Humans Alter the Carbon Cycle?
+## The Nitrogen Cycle: Transformations Driven by Microbes
 
--   By extracting and burning fossil fuels at a much higher rate than they are naturally formed
+::::: columns
+::: {.column width="50%"}
+Nitrogen is essential for proteins and DNA, but most organisms cannot use atmospheric nitrogen (N₂) directly.
 
-    -   This adds carbon dioxide to the atmosphere
+### Key processes
 
--   By clearing forests faster than they regrow
+-   **Nitrogen fixation** – Specialized bacteria convert N₂ into ammonia (NH₄⁺).
+-   **Nitrification** – Bacteria convert:
+    -   NH₄⁺ → NO₂⁻ → NO₃⁻
+-   **Assimilation** – Plants take up NH₄⁺ or NO₃⁻ and incorporate nitrogen into organic molecules.
+-   **Consumption** – Animals obtain nitrogen by eating plants or other animals.
+-   **Decomposition and denitrification** – Decomposers return nitrogen to the soil, and some bacteria convert it back to N₂ gas.
 
-    -   This destroys carbon-absorbing vegetation
+Microorganisms drive most nitrogen transformations.
+:::
 
-## The Nitrogen Cycle: Bacteria in Action
+::: {.column width="50%"}
+![](images/clipboard-1289668803.png){width="500"}
 
--   How does nitrogen cycle through the biosphere?
+![](images/clipboard-376561458.png){width="500"}
+:::
+:::::
 
--   Atmospheric nitrogen cannot be absorbed or used directly by most organisms.
+## Human Impacts on the Nitrogen Cycle
 
--   Bacteria convert the nitrogen into a usable form, so it becomes a useful plant nutrient.
+Humans have greatly accelerated nitrogen movement through ecosystems by:
 
--   Consumers (herbivores) and decomposers convert the nitrogen back into nitrogen gas, which is then released into the atmosphere.
+-   **Industrial fertilizer production** (fixing atmospheric N₂ at large scales)
+-   **Fossil fuel combustion**, releasing nitrogen oxides (NOₓ)
+-   **Agricultural runoff**, increasing nitrate in waterways
 
-## Nitrogen fixing bacteria
+Consequences include:
 
--   Excreted to the aqueous phase as ammonia nitrogen.
-
--   [**Ammonia  (NH~4~)**]{.underline}is firstly oxidized to [**nitrite (NO~2~^-^)**]{.underline}by ammonia oxidizing bacteria and
-
--   Further converted to [**nitrate (NO~3~^-^)**]{.underline}by nitrite oxidizing bacteria, which are taken up and metabolized by plants.
-
--   Plants reduce nitrate back to [**ammonium (NH~4~^+^)**]{.underline}before incorporating the nitrogen into organic compounds
-
-## How Do Humans Alter the Nitrogen Cycle?
-
--   By burning fossil fuels that adds nitric oxide to the atmosphere
-
-    -   Nitrogen dioxide gas/nitric acid vapor causes acid rain
-
--   By removing atmospheric nitrogen to make fertilizer
-
-    -   Agricultural runoff from fields into the water supply leads to algal overgrowth that disrupts the oxygen balance in aquatic systems
+-   Eutrophication and algal blooms
+-   Oxygen depletion in aquatic systems
+-   Acid rain formation
 
 ## Acid Rain
 
--   Occurs when Sulphur dioxide and nitrogen oxides are emitted into the atmosphere, undergo chemical transformations and are absorbed by water droplets in clouds.
+::::: columns
+::: {.column width="50%"}
+[Acid rain]{.keyword} forms when **sulfur dioxide (SO₂)** and **nitrogen oxides (NOₓ)** are released into the atmosphere and react with water vapor to form sulfuric and nitric acids.
 
--   The droplets then fall to earth as rain, snow, mist, dry dust, hail, or sleet.
+These acids return to Earth through precipitation (rain, snow, sleet, or dry deposition).
 
--   This can increase the acidity of the soil, and affect the chemical balance of lakes and streams
+Impacts include:
 
-## Algal blooms
+-   Increased soil acidity
+-   Leaching of essential nutrients
+-   Altered chemistry of lakes and streams
+-   Harm to aquatic organisms and forests
+:::
 
--   A relatively rapid increase in the population of (usually) phytoplankton algae in an aquatic system.
+::: {.column width="50%"}
+![](images/clipboard-39973742.png){fig-align="center" width="80%"}
+:::
+:::::
 
--   Causes the death of fish and disruption to the whole ecosystem of the lake.
+## Algal Blooms and Eutrophication
 
--   International regulations has led to a reduction in the occurrences of these blooms.
+::::: columns
+::: {.column width="50%"}
+-   An [algal bloom]{.keyword} is a rapid increase in algae, usually triggered by excess nutrients (especially nitrogen and phosphorus).
 
-## The Phosphorus Cycle
+-   When blooms die and decompose: - Oxygen is depleted - Fish and other aquatic organisms may die - Ecosystem structure is disrupted
 
--   How does phosphorus cycle through the biosphere?
+-   Regulation of nutrient pollution in some regions has reduced the frequency and severity of blooms, but they remain a widespread issue.
+:::
 
--   Cycles through soils, rocks, water, and plants but not through the atmosphere
+::: {.column width="50%"}
+![](images/clipboard-3952440703.png)
+:::
+:::::
 
--   Can be temporarily removed from natural cycling when washed into oceans and trapped in marine sediments
+## The Phosphorus Cycle: A Sedimentary Cycle
 
--   As with nitrogen, contributes to agricultural runoff
+::::: columns
+::: {.column width="50%"}
+Phosphorus is an essential nutrient for DNA, ATP, and cell membranes.
 
-## How Do Humans Alter the Phosphorus Cycle?
+Unlike carbon and nitrogen, phosphorus: - **Does not have a major atmospheric phase** - Cycles primarily through **rocks, soils, water, and living organisms**
 
--   By mining phosphorus deposits to make fertilizer
+Key processes
 
--   Through clearing of tropical forests, which reduces phosphorus in the topsoil
+-   **Weathering** releases phosphate (PO₄³⁻) from rocks.
+-   **Plant uptake** incorporates phosphorus into organic molecules.
+-   **Consumption and decomposition** return phosphorus to soils and sediments.
+-   Some phosphorus is transported to oceans and can become buried in marine sediments, removing it from short-term cycling.
+:::
 
--   Through agricultural runoff and topsoil erosion, which disturbs biogeochemical cycling
+::: {.column width="50%"}
+![](images/clipboard-3080473185.png)
+:::
+:::::
+
+## Human Impacts on the Phosphorus Cycle
+
+Humans accelerate phosphorus movement by:
+
+-   **Mining phosphate rock** to produce fertilizers
+-   **Deforestation**, which reduces phosphorus retained in topsoil
+-   **Agricultural runoff and soil erosion**, which carry phosphorus into waterways
+
+Excess phosphorus in aquatic systems contributes to: - Eutrophication - Algal blooms - Oxygen depletion
+
+# Ecosystem Final Thoughts
 
 ## How Do Scientists Study Ecosystems?
 
--   Make direct observations and take measurements of ecosystems in the field (field research).
+Ecologists use multiple complementary approaches:
 
--   Fly over ecosystems to photograph them.
+::::: columns
+::: {.column width="50%"}
+1.  Field research
 
--   Carry out controlled experiments.
+    -   Direct observation and measurement
+    -   Long-term monitoring
+    -   Tagging and tracking organisms
+    -   Remote sensing (satellites, drones)
 
--   Use radio transmitters and remote sensing to track organisms.
+2.  Controlled experiments
 
--   Run mathematical models for issues that cannot be studied in the lab or field.
+    -   Manipulate variables in field or lab settings
+    -   Test specific causal hypotheses
 
-## Some Ecologists Use Laboratory Experiments or Modeling
+3.  Modeling
 
--   How do scientists model ecosystems in the lab?
+    -   Mathematical and computational models
 
-    -   With culture tubes, aquariums, and greenhouses and in indoor/outdoor chambers with controlled variables (light, temperature, etc.)
+    -   Used when systems are too large, slow, or complex to manipulate directly
+:::
 
--   [**Pros:**]{.underline}small, controlled lab experiments save money and are faster to carry out
+::: {.column width="50%"}
+![](images/clipboard-1379320430.png){width="590"}
 
--   [**Con:**]{.underline}these experiments may not reflect reality well enough
+![](images/clipboard-1684402141.png){width="590"}
+:::
+:::::
 
-## We Need to Learn More about the Health of the World’s Ecosystems
+## Laboratory Experiments and Models: Strengths and Limits
 
--   The 2005 ecosystem assessment shows that more baseline ecologic data is needed to:
+::::: columns
+::: {.column width="50%"}
+Laboratory systems may include:
 
-    -   Evaluate the status of the world’s ecosystems
+-   Culture tubes
+-   Aquaria
+-   Greenhouses
+-   Environmental chambers
 
-    -   Develop effective strategies for preventing and slowing ecosystem degradation
+![Example of aquaria experimental setup. Credit: ELI IMADALI/AMERICAN-STATESMAN](images/clipboard-3146578856.png){width="600"}
+:::
 
-    -   Identify planetary boundaries that lead to irreversible changes if passed and help us to avoid reaching or passing them
+::: {.column width="50%"}
+**Advantages**
 
-## Ecosystems: Final Thoughts
+-   High control over variables
+-   Replicable
+-   Cost-effective
+-   Faster results
 
--   Life is sustained by the flow of energy and nutrients through ecosystems, which are continually recycled.
+**Limitations**
 
--   Ecosystems are characterized by producers, consumers, and decomposers—all aid in the cycling process.
+-   May oversimplify real ecosystems
+-   Hard to capture full ecological complexity
+:::
+:::::
 
--   Human activities impact ecosystem cycling, sometimes negatively, sometimes positively
+## Why Ecosystem Monitoring Matters
 
-## Ecosystems: Final Thoughts
+Understanding ecosystem health requires:
 
--   It would be easier if every ecosystems could be studied in a single cave.
+-   Long-term baseline data
+-   Global assessments
+-   Integration across climate, biodiversity, and nutrient cycles
+
+Scientific monitoring helps us:
+
+-   Detect ecosystem degradation
+-   Develop management strategies
+-   Identify ecological tipping points
+-   Avoid crossing planetary boundaries
+
+## Ecosystems: Key Takeaways
+
+-   Energy flows through ecosystems.
+-   Matter cycles within ecosystems.
+-   Producers, consumers, and decomposers structure energy flow and nutrient cycling.
+-   Human activities now alter ecosystem processes at local and global scales.
+
+Ecosystem sustainability depends on maintaining both energy flow and nutrient cycling.
