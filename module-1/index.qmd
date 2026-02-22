@@ -582,7 +582,7 @@ Projections to 2100 showing possible population stabilization as the J-shaped cu
 :::
 
 ::: {.column width="50%"}
-![](images/clipboard-2813590662.png)
+![](images/world-population-growth.png)
 :::
 :::::
 
