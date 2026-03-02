@@ -341,3 +341,344 @@ Important distinction:
 -   Population structure and momentum still matter
 
 Next: Age structure and demographic momentum.
+
+# Age Structure
+
+## What Is Age Structure?
+
+::::: columns
+::: {.column width="55%"}
+-   **Age structure:** distribution of a population across age groups\
+-   Often divided into:
+    -   Pre-reproductive (0–14)
+    -   Reproductive (15–44)
+    -   Post-reproductive (45+)
+    -   Male vs. female (left/right)
+-   Strong predictor of future population growth or decline
+-   Even if fertility changes, age structure shapes future trajectory
+:::
+
+::: {.column width="45%"}
+![A population pyramid, with each bar representing an age class and the width of the bar representing the population size in that age class. Source: [flexbooks.ck12.org](https://flexbooks.ck12.org/cbook/ck-12-biology-flexbook-2.0/section/6.18/primary/lesson/population-structure-bio/) / Douglass Wilkin and Jean Brainard](images/clipboard-2282892022.png)
+:::
+:::::
+
+------------------------------------------------------------------------
+
+## Population Pyramids: Expanding, Stable, Contracting
+
+::::: columns
+::: {.column width="55%"}
+-   **Expanding structure**
+    -   Wide base
+    -   Large youth population
+    -   Future growth likely
+-   **Stable structure**
+    -   Rectangular shape
+    -   Similar numbers across age groups
+-   **Contracting structure**
+    -   Narrow base
+    -   Larger older population
+    -   Likely decline
+:::
+
+::: {.column width="45%"}
+![[2travellingacrosstime.com](https://2travellingacrosstime.com/2023/08/19/types-of-population-pyramids/)](images/types-of-population-pyramids.png)
+:::
+:::::
+
+------------------------------------------------------------------------
+
+## How to Read a Population Pyramid
+
+::::: columns
+::: {.column width="55%"}
+-   Horizontal axis → population size (male / female)
+-   Vertical axis → age groups
+-   Wide base → high fertility
+-   Bulge in middle → large working-age cohort
+-   Wide top → aging population
+-   Shape indicates long-term demographic direction
+:::
+
+::: {.column width="45%"}
+![[skikshabhumi.blogspot.com](https://shikshabhumi.blogspot.com/2020/05/concept-of-population-structureage-sex.html)](images/clipboard-1010679472.png)
+:::
+:::::
+
+------------------------------------------------------------------------
+
+## Youth Bulge vs. Aging Population
+
+::::: columns
+::: {.column width="55%"}
+-   **Youth bulge**
+    -   Large proportion under age 15
+    -   Strong future population momentum
+    -   High demand for education and jobs
+-   **Aging population**
+    -   Large proportion over age 65
+    -   Rising dependency ratios
+    -   Increased healthcare and pension pressures
+
+Age structure influences economic and social systems.
+:::
+
+::: {.column width="45%"}
+![[weforum.org](https://www.weforum.org/stories/2023/06/visual-guide-global-population-pyramids-demographics/)](images/clipboard-68205917.png)
+:::
+:::::
+
+## The Demographic Transition Model
+
+::::: columns
+::: {.column width="55%"}
+-   Describes how population changes as societies develop economically
+
+**Stage 1 — Preindustrial** - High birth rates, high death rates\
+- Slow population growth
+
+**Stage 2 — Transitional** - Death rates decline (sanitation, medicine, food supply)\
+- Birth rates remain high\
+- Rapid population growth
+
+**Stage 3 — Industrial** - Birth rates decline\
+- Growth slows
+
+**Stage 4-5 — Postindustrial** - Low birth and death rates\
+- Stable or declining population
+
+Many countries are now in Stages 3–5.
+:::
+
+::: {.column width="45%"}
+![OWID](images/Demographic-Transition.png)
+:::
+:::::
+
+------------------------------------------------------------------------
+
+## Global Patterns in Age Structure
+
+::::: columns
+::: {.column width="55%"}
+-   Sub-Saharan Africa → youthful age structure
+-   Europe and East Asia → aging populations
+-   North America → moderate aging
+-   India and parts of South Asia → large working-age cohorts
+
+Future growth concentrated in regions with youthful structures.
+:::
+
+::: {.column width="45%"}
+![The age structure of populations varies widely across countries. [OWID](https://ourworldindata.org/data-insights/the-age-structure-of-populations-varies-widely-across-countries) / Fiona Spooner](images/age-group-with-the-largest-population-mobile.png)
+:::
+:::::
+
+------------------------------------------------------------------------
+
+## The world is aging as fertility declines and life expectancy increases
+
+::::: columns
+::: {.column width="50%"}
+-   1950: world population characterized by a **wide base** (high fertility, many children)
+-   Share of children (0–14) has **declined substantially** since mid-20th century
+-   Share of working-age population (15–64) increased through late 20th century
+-   Share of older adults (65+) has **risen steadily and continues to rise**
+-   Median global age increased from \~24 years (1950) to \~30+ years today
+-   Many countries transitioning from expanding to **more rectangular or contracting** structures
+-   **Turning point:** the global share of children has peaked and is declining, while the share of older adults is rising — marking a structural shift toward global population aging
+:::
+
+::: {.column width="50%"}
+![[OWID](https://ourworldindata.org/age-structure)](images/Population-Pyramid-1950-to-2100.jpg)
+:::
+:::::
+
+## Economic and Social Implications of Age Structure
+
+::::: columns
+::: {.column width="55%"}
+-   Workforce size depends on working-age population
+-   Youthful populations → potential demographic dividend
+-   Aging populations → shrinking labor force
+-   [Dependency ratio]{.keyword}: Number of dependents relative to working-age adults
+
+Demography shapes economic growth and policy decisions. For example:
+
+-   Pronatalist incentives: cash allowances, childcare subsidies (China, South Korea)
+
+-   Policy reversal: removal of child limits as fertility declines (Vietnam)
+
+-   Immigration emphasis: labor force and demographic stabilization (Singapore)
+
+-   Family-friendly social policy: parental leave, tax benefits (France, Italy)
+:::
+
+::: {.column width="45%"}
+![Old-age dependency ratio, 1950 to 2023. [OWID](https://ourworldindata.org/grapher/age-dependency-ratio-old?tab=line&country=JPN~OWID_WRL~FIN~OWID_AFR~USA~CHN~IND).](images/age-dependency-ratio-old.png)
+:::
+:::::
+
+------------------------------------------------------------------------
+
+## Case Example: Japan — Rapid Aging
+
+:::::::: columns
+::: {.column width="55%"}
+-   Fertility well below replacement
+-   High life expectancy
+-   Population declining
+-   Median age among highest globally
+-   Economic and social challenges:
+    -   Labor shortages
+    -   Rising healthcare costs
+
+A clear example of a contracting age structure.
+:::
+
+:::::: {.column width="45%"}
+![[Wikipedia](https://en.wikipedia.org/wiki/Demographics_of_Japan)](images/Japan_population_pyramid_10.01.2019.png){width="682"}
+
+::::: columns
+::: {.column width="50%"}
+![[OWID](!%5BOWID%5D(images/age-dependency-ratio-old-mobile.png)%7Bfig-align=%22center%22%20width=%22300%22%7D)](images/japan-deaths-double-births.png){fig-align="center" width="300"}
+:::
+
+::: {.column width="50%"}
+![[OWID](https://ourworldindata.org/data-insights/japan-has-the-highest-ratio-of-elderly-people-relative-to-working-age-people-globally)](images/age-dependency-ratio-old-mobile.png){fig-align="center" width="300"}
+:::
+:::::
+::::::
+::::::::
+
+## Case Example: Sub-Saharan Africa — Youthful Populations
+
+::::: columns
+::: {.column width="55%"}
+-   High proportion under age 15
+-   Fertility above replacement in several countries
+-   Rapid urbanization underway
+-   Large future workforce potential
+-   Significant demand for education, infrastructure, and jobs
+
+Youthful structure → strong demographic momentum.
+:::
+
+::: {.column width="45%"}
+![](images/clipboard-1316730974.png){fig-align="center" width="445"}
+
+![Source: [Africa’s Urbanisation Dynamics 2025](https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/03/africa-s-urbanisation-dynamics-2025_005a8aa0/2a47845c-en.pdf)](images/clipboard-843275789.png){fig-align="center" width="448"}
+:::
+:::::
+
+## Demographic Momentum
+
+::::: columns
+::: {.column width="55%"}
+-   [Demographic momentum]{.keyword}: continued population growth after fertility declines
+-   Caused by a **large cohort of young people** entering reproductive age
+-   Replacement-level fertility (\~2.1) does **not** immediately stabilize population
+-   Youthful age structures → continued growth
+-   Aging age structures → stabilization or decline
+-   Population change unfolds over decades — demography has inertia
+:::
+
+::: {.column width="45%"}
+![](images/Population-momentum.png){width="487"}
+:::
+:::::
+
+## India: Growth Continuing — But a Turning Point Reached
+
+::::: columns
+::: {.column width="55%"}
+-   India is now the **world’s most populous country**
+-   Total population still growing and projected to peak later this century
+-   However:
+    -   **Number of children has already peaked** (around 2011)
+    -   Fertility has declined to **near replacement level (\~2.0)**
+-   Future growth driven largely by **demographic momentum**, not rising fertility
+-   India is transitioning from rapid expansion toward stabilization
+-   Even in fast-growing countries, the demographic transition is already well underway.
+:::
+
+::: {.column width="45%"}
+![](images/population-by-age-group-with-projections.png)
+:::
+:::::
+
+# Population vs Consumption
+
+## Population vs. Consumption
+
+-   Environmental impact depends on:
+    -   **How many people**
+    -   **How much each person consumes**
+-   High-income countries:
+    -   Lower population growth
+    -   Much higher per-capita energy and resource use
+-   Low-income countries:
+    -   Faster population growth
+    -   Much lower per-capita consumption
+
+**Key distinction:**\
+A smaller population with high consumption can have greater impact than a larger population with low consumption.
+
+## Per Capita Resource Use
+
+::::: columns
+::: {.column width="55%"}
+-   Large differences in:
+    -   Energy use per person
+    -   Carbon emissions per person
+    -   Material consumption per person
+-   The highest-income countries account for a disproportionate share of global emissions
+-   Future environmental pressures depend on both:
+    -   Population growth
+    -   Rising affluence
+
+Environmental impact is unevenly distributed.
+:::
+
+::: {.column width="45%"}
+![[Wikipedia](https://en.wikipedia.org/wiki/List_of_countries_by_energy_consumption_per_capita)](images/clipboard-2713514748.png)
+:::
+:::::
+
+## Inequality and Environmental Burden
+
+::::: columns
+::: {.column width="55%"}
+-   Those who contribute least to emissions often experience the greatest impacts
+-   Rapid population growth often occurs in lower-emitting regions
+-   High-consumption lifestyles drive:
+    -   Energy demand
+    -   Waste production
+    -   Land-use change
+-   Population and consumption interact — neither alone explains environmental change.
+
+![](images/clipboard-356259384.png){width="498"}
+:::
+
+::: {.column width="45%"}
+![](images/share-global-cumulative-co2-including-land.png)
+:::
+:::::
+
+## Synthesis: What Drives Environmental Pressure?
+
+::::: columns
+::: {.column width="55%"}
+-   Population size matters
+-   Per-capita consumption matters
+-   Age structure and urbanization matter
+-   Institutional and economic systems shape all three
+
+**Core takeaway:**\
+Future environmental outcomes depend on demographic trends *and* consumption patterns.
+:::
+
+::: {.column width="45%"}
+:::
+:::::
