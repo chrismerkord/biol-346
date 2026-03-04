@@ -1,6 +1,424 @@
 ---
-title: "Module 5"
-format: html
+title: "Module 4: Climate and Biodiversity — Saving Species and Ecosystems"
+description: "This module explores how climate shapes global ecosystems and biodiversity. It introduces the physical drivers of climate, examines the distribution of major terrestrial and aquatic ecosystems, and discusses how human activities are accelerating biodiversity loss through habitat destruction, invasive species, pollution, climate change, and overexploitation. The module concludes with strategies for conserving species and sustaining ecosystems through protected areas, restoration, and improved environmental management."
+author: "Chris Merkord"
+tbl-cap-location: bottom
+format: 
+  revealjs:
+    width: 1920
+    height: 1080
+    margin: 0.05
+    fig-align: center
+    cap-location: bottom
+    slide-number: true
+    toc: false
+    controls: true
+    progress: true
+    hash: true
+    center: false
+    chalkboard: true
+    footer: "BIOL 346 An Ecological Perspective | Spring 2026"
+    theme:
+      - default
+      - ../tlm-styles/tlm-theme.scss
+      - ../styles.scss
+    include-in-header:
+      - text: |
+          <link rel="stylesheet" href="https://use.typekit.net/tag1lvz.css">
+lightbox: auto
+editor: visual
 ---
 
-Content not yet uploaded.
+# Climate as a Driver of Ecosystems
+
+## Climate and the Distribution of Ecosystems
+
+::::: columns
+::: {.column width="50%"}
+-   Great diversity of terrestrial and aquatic habitats
+-   Climate differences shape global ecosystem patterns
+-   Distribution of [biomes]{.keyword} linked to temperature and precipitation
+-   Human activities increasingly affect these systems
+:::
+
+::: {.column width="50%"}
+![Examples of diverse ecosystems shaped by climate and environmental conditions, including desert, alpine tundra, coniferous forest, and coral reef ecosystems. Source: [USGS Western Ecological Research Center (WERC)](https://www.usgs.gov/media/images/wercs-diverse-range-ecosystems).](images/clipboard-34563444.png){fig-alt="A four-panel image showing different ecosystems: a desert landscape with Joshua trees, an alpine tundra with sparse vegetation and rocky terrain, a dense coniferous forest on a mountain slope, and an underwater coral reef with fish and coral colonies."}
+:::
+:::::
+
+------------------------------------------------------------------------
+
+## Factors That Influence Climate
+
+::::: columns
+::: {.column width="50%"}
+-   Incoming [solar radiation]{.keyword} drives global energy balance
+-   Earth’s [rotation]{.keyword} influences atmospheric movement
+-   Global patterns of air and water circulation
+-   Atmospheric gases influence heat retention
+-   Surface features and [topography]{.keyword} shape regional climates
+:::
+
+::: {.column width="50%"}
+![A simplified diagram of Earth’s energy balance showing incoming shortwave solar radiation, reflection by the atmosphere, heat emitted from the surface, and longwave radiation re-emitted by the atmosphere. These processes illustrate how solar energy enters the climate system and how atmospheric gases influence heat retention. Source: [renkeer.com](https://www.renkeer.com/solar-radiation-need-to-know/)](images/clipboard-2451285485.png){fig-alt="Diagram showing solar radiation entering Earth’s atmosphere as shortwave energy, some reflected back to space, and some absorbed by the surface. The surface emits longwave radiation, part of which escapes to space while part is absorbed and re-emitted by the atmosphere."}
+:::
+:::::
+
+------------------------------------------------------------------------
+
+## Weather vs Climate
+
+::::: columns
+::: {.column width="50%"}
+-   [Weather]{.keyword}: short-term atmospheric conditions
+-   Daily variation in temperature, precipitation, wind
+-   [Climate]{.keyword}: long-term atmospheric patterns
+-   Climate measured over decades to centuries
+-   Climate differences produce distinct ecosystems
+:::
+
+::: {.column width="50%"}
+![Weather versus climate illustration Copyright : normaals.](images/clipboard-1241464680.png)
+:::
+:::::
+
+## Solar Radiation and Latitude
+
+::::: columns
+::: {.column width="50%"}
+-   Uneven distribution of solar energy across latitudes
+-   Equatorial regions receive concentrated sunlight
+-   High latitudes receive less direct energy
+-   Sunlight passes through more atmosphere at high latitudes
+-   Energy spreads across larger surface area
+:::
+
+::: {.column width="50%"}
+![](images/clipboard-557912091.png)
+:::
+:::::
+
+------------------------------------------------------------------------
+
+## Atmospheric Convection
+
+::::: columns
+::: {.column width="50%"}
+-   Solar heating drives atmospheric [convection]{.keyword}
+-   Warm moist air rises and cools
+-   Cooling air releases precipitation
+-   Cooler dry air sinks and flows across surface
+-   Continuous circulation redistributes heat and moisture
+:::
+
+::: {.column width="50%"}
+![A simplified diagram of atmospheric convection showing how solar heating causes warm air to rise, cool, and sink, creating a continuous circulation that redistributes heat in the atmosphere. Adapted from: [Michigan Science Center](https://www.mi-sci.org/wp-content/uploads/2020/07/Convection-Currents.pdf)](images/clipboard-2859786614.png){fig-alt="Diagram showing a circular convection cycle in the atmosphere: red arrows show hot air rising and cooling, blue arrows show cool air sinking, and near the surface cool air flows horizontally to replace rising warm air." fig-align="center" width="60%"}
+:::
+:::::
+
+## Global Air Circulation
+
+::::: columns
+::: {.column width="50%"}
+-   Large-scale atmospheric circulation patterns
+-   Rising and sinking air form [Hadley cells]{.keyword}
+-   Earth’s rotation creates the [Coriolis effect]{.keyword}
+-   Produces global [prevailing winds]{.keyword}
+-   Winds redistribute heat and precipitation
+:::
+
+::: {.column width="50%"}
+![](images/clipboard-2493110934.png)
+:::
+:::::
+
+## Ocean Currents and Climate
+
+::::: columns
+::: {.column width="50%"}
+-   Ocean currents redistribute heat across the planet
+-   Movement of warm and cold water regulates climate
+-   Circulation connects deep and surface waters
+-   Example: North Atlantic currents warm Europe
+-   Ocean circulation influences regional ecosystems
+:::
+
+::: {.column width="50%"}
+![](images/clipboard-1672122590.png)
+:::
+:::::
+
+------------------------------------------------------------------------
+
+## Ocean–Atmosphere Interactions
+
+::::: columns
+::: {.column width="50%"}
+-   Atmosphere and oceans tightly linked
+-   Wind patterns drive surface ocean currents
+-   [El Niño–Southern Oscillation]{.keyword} alters Pacific circulation
+-   Changes global temperature and precipitation
+-   Climate impacts occur across much of the planet
+
+![](images/clipboard-2814880367.png){width="212"}
+:::
+
+::: {.column width="50%"}
+![Neutral, El Niño and La Niña conditions in the equatorial Pacific. The illustrations show how the coupled ocean-atmosphere system typically behaves during each event. Images from the Australian Bureau of Meteorology.](images/clipboard-2288807612.png){width="450"}
+:::
+:::::
+
+------------------------------------------------------------------------
+
+## Topography and Local Climate
+
+:::: columns
+::: {.column width="50%"}
+-   Mountains influence regional precipitation patterns
+-   Moist air rises and cools along slopes
+-   Precipitation falls on windward side
+-   Dry conditions develop on leeward side
+-   Known as the [rain shadow effect]{.keyword}
+:::
+::::
+
+------------------------------------------------------------------------
+
+## Urban Microclimates
+
+::::: columns
+::: {.column width="50%"}
+-   Cities create distinct local climates
+-   Buildings and pavement absorb and retain heat
+-   Reduced airflow and increased pollution
+-   Higher temperatures compared to rural areas
+-   Creates [urban heat islands]{.keyword}
+:::
+
+::: {.column width="50%"}
+![](images/clipboard-2016764477.png)
+:::
+:::::
+
+------------------------------------------------------------------------
+
+# Global Biomes and Ecosystems
+
+## Climate Shapes Global Ecosystems
+
+::::: columns
+::: {.column width="50%"}
+-   Climate determines the distribution of major ecosystems
+-   Temperature and precipitation are the primary controls
+-   Regions with similar climates support similar ecosystems
+-   These large ecosystem regions are called [biomes]{.keyword}
+:::
+
+::: {.column width="50%"}
+![](images/clipboard-1606147387.png)
+:::
+:::::
+
+------------------------------------------------------------------------
+
+## Major Terrestrial Biomes
+
+::::: columns
+::: {.column width="50%"}
+-   Large ecological regions defined by climate and vegetation
+-   Characterized by dominant **plant growth forms**
+-   Plants determine habitat structure for animals
+-   Climate limits which plants can survive
+
+Major terrestrial biomes include:
+
+-   [deserts]{.keyword}
+-   [grasslands]{.keyword}
+-   [forests]{.keyword}
+-   [tundra]{.keyword}
+:::
+
+::: {.column width="50%"}
+![https://humanidades.com/en/biomes/](images/clipboard-2655334777.png)
+:::
+:::::
+
+------------------------------------------------------------------------
+
+## Deserts
+
+::::: columns
+::: {.column width="50%"}
+-   Defined by extremely low precipitation
+-   Often receive less than 25 cm of rain annually
+-   Vegetation is sparse and adapted to water scarcity
+-   Plants show [drought adaptations]{.keyword} such as deep roots and water storage
+-   Large temperature variation between day and night
+
+Types of deserts:
+
+-   [tropical deserts]{.keyword}
+-   [temperate deserts]{.keyword}
+-   [cold deserts]{.keyword}
+:::
+
+::: {.column width="50%"}
+![Credit: George Andrejko, AZGFD https://awcs.azgfd.com/habitats/chihuahuan-desertscrub](images/clipboard-273329953.png)
+:::
+:::::
+
+## Grasslands
+
+::::: columns
+::: {.column width="50%"}
+-   Moderate precipitation but too dry for forests
+-   Dominated by grasses rather than trees
+-   Fire and grazing help maintain grass dominance
+-   Highly productive soils in many regions
+
+Two major types:
+
+-   [tropical grasslands (savannas)]{.keyword} - large grazers
+-   [temperate grasslands]{.keyword} - cold winters
+:::
+
+::: {.column width="50%"}
+![[study.com](https://study.com/academy/lesson/the-grassland-food-web-temperate-african-tropical.html)](images/clipboard-3757645035.png)
+:::
+:::::
+
+## Forest Ecosystems
+
+::::: columns
+::: {.column width="50%"}
+-   Dominated by trees and woody vegetation
+-   Occur where precipitation is sufficient to support forests
+-   Often have layered vegetation structure
+-   Support extremely high biodiversity
+
+Major forest types:
+
+-   [tropical forests]{.keyword}
+-   [temperate forests]{.keyword}
+-   [boreal forests]{.keyword}
+:::
+
+::: {.column width="50%"}
+![https://cid-inc.com/blog/the-forest-canopy-structure-roles-measurement/](images/clipboard-2204200449.png)
+:::
+:::::
+
+## Mountain Ecosystems
+
+::::: columns
+::: {.column width="50%"}
+-   Climate changes rapidly with elevation
+-   Temperature decreases with increasing altitude
+-   Mountains contain multiple ecological zones
+-   Often support high biodiversity and endemism
+-   Provide important freshwater resources
+:::
+
+::: {.column width="50%"}
+![Vegetation zones on the west slope of the Sierra Nevada, from the oak woodlands and chaparral shrubland in the low-elevation foothills, to mid-elevation montane forests, subalpine forests that extend to the upper limit of tree growth, and the alpine zone that includes perennial herbs and shrubs. Illustration by: Justin Hofman and Meryl Goldin Rose](images/clipboard-468476275.png)
+:::
+:::::
+
+------------------------------------------------------------------------
+
+## Aquatic Ecosystems
+
+::::: columns
+::: {.column width="50%"}
+-   Water covers about 71% of Earth's surface
+
+-   Aquatic ecosystems support enormous biodiversity
+
+-   Important ecosystem services: food, climate regulation, nutrient cycling
+
+-   Two major categories:
+
+-   [marine ecosystems]{.keyword}
+
+-   [freshwater ecosystems]{.keyword}
+:::
+
+::: {.column width="50%"}
+:::
+:::::
+
+## Marine Ecosystems
+
+::::: columns
+::: {.column width="50%"}
+-   Oceans contain the majority of Earth's water
+
+-   Marine systems regulate global climate
+
+-   Major marine zones include:
+
+-   [coastal zones]{.keyword}
+
+-   [open ocean]{.keyword}
+
+-   [ocean floor]{.keyword}
+
+-   Sunlight availability creates vertical zones such as the [photic zone]{.keyword}
+:::
+
+::: {.column width="50%"}
+![](images/clipboard-716426714.png)
+:::
+:::::
+
+------------------------------------------------------------------------
+
+## Freshwater Ecosystems
+
+::::: columns
+::: {.column width="50%"}
+-   Includes lakes, rivers, streams, and wetlands
+-   Freshwater systems contain a small fraction of global water
+-   Extremely important for human use and biodiversity
+-   Water flow strongly influences ecosystem structure
+
+Major freshwater systems:
+
+-   [lakes and ponds]{.keyword}
+-   [rivers and streams]{.keyword}
+-   [wetlands]{.keyword}
+:::
+
+::: {.column width="50%"}
+![](images/clipboard-2260446428.png)
+:::
+:::::
+
+------------------------------------------------------------------------
+
+## Nutrient Levels in Lakes
+
+::::: columns
+::: {.column width="50%"}
+-   Lakes differ in nutrient availability
+
+-   Nutrients influence primary productivity
+
+-   Two common lake types:
+
+-   [oligotrophic lakes]{.keyword} – low nutrients, clear water
+
+-   [eutrophic lakes]{.keyword} – high nutrients, high productivity
+
+-   Nutrient inputs from human activities can cause [eutrophication]{.keyword}
+:::
+
+::: {.column width="50%"}
+:::
+:::::
+
+------------------------------------------------------------------------
+
+# Human Impacts on Biodiversity
+
+# Conservation Strategies
