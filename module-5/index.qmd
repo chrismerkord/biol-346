@@ -1,5 +1,5 @@
 ---
-title: "Module 4: Climate and Biodiversity — Saving Species and Ecosystems"
+title: "Module 5: Climate and Biodiversity — Saving Species and Ecosystems"
 description: "This module explores how climate shapes global ecosystems and biodiversity. It introduces the physical drivers of climate, examines the distribution of major terrestrial and aquatic ecosystems, and discusses how human activities are accelerating biodiversity loss through habitat destruction, invasive species, pollution, climate change, and overexploitation. The module concludes with strategies for conserving species and sustaining ecosystems through protected areas, restoration, and improved environmental management."
 author: "Chris Merkord"
 tbl-cap-location: bottom
@@ -338,40 +338,100 @@ Major forest types:
 
 -   Two major categories:
 
--   [marine ecosystems]{.keyword}
+    -   [marine ecosystems]{.keyword}
 
--   [freshwater ecosystems]{.keyword}
+    -   [freshwater ecosystems]{.keyword}
 :::
 
 ::: {.column width="50%"}
+![]()
+
+![Source: [USGS](https://www.usgs.gov/media/images/distribution-water-and-above-earth).](https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/styles/full_width/public/thumbnails/image/EarthsWater-BarChart.png)
 :::
 :::::
 
 ## Marine Ecosystems
 
-::::: columns
-::: {.column width="50%"}
--   Oceans contain the majority of Earth's water
-
--   Marine systems regulate global climate
-
--   Major marine zones include:
-
--   [coastal zones]{.keyword}
-
--   [open ocean]{.keyword}
-
--   [ocean floor]{.keyword}
-
--   Sunlight availability creates vertical zones such as the [photic zone]{.keyword}
+:::::: columns
+::: {.column width="60%"}
+-   Oceans contain about **97% of Earth's water**
+-   Marine ecosystems play a major role in **global climate regulation**
+-   Ocean circulation redistributes heat and influences weather patterns
+-   Marine primary producers generate a large share of Earth’s oxygen
 :::
 
-::: {.column width="50%"}
+:::: {.column width="40%"}
+::: {layout="[[1,1,1], [1], [1]]"}
+![Estuary](images/estuary.jpg)
+
+![Coastal marshes](images/coastal-marshes.jpg)
+
+![Mangrove forest](images/mangrove-forest.jpg)
+
+![Open ocean](images/open-ocean.jpg)
+
+![Ocean bottom](images/ocean-bottom.jpg)
+:::
+::::
+::::::
+
+## Major marine zones
+
+:::::: columns
+::: {.column width="60%"}
+-   [coastal zone]{.keyword} – shallow waters along continents; high nutrient input and some of the **most productive ecosystems** (estuaries, coral reefs, mangroves)
+-   [open ocean]{.keyword} – vast offshore waters with lower nutrient concentrations; dominated by **plankton-based food webs**
+-   [ocean floor]{.keyword} – benthic habitats ranging from shallow shelves to deep-sea trenches; organisms adapted to **low light, high pressure, and limited food**
+:::
+
+:::: {.column width="40%"}
+::: {layout="[[1,1,1], [1], [1]]"}
+![Estuary](images/estuary.jpg)
+
+![Coastal marshes](images/coastal-marshes.jpg)
+
+![Mangrove forest](images/mangrove-forest.jpg)
+
+![Open ocean](images/open-ocean.jpg)
+
+![Ocean bottom](images/ocean-bottom.jpg)
+:::
+::::
+::::::
+
+## Open Ocean
+
+::::: columns
+::: {.column width="60%"}
+-   [Pelagic zone]{.keyword} includes open-water habitats where organisms live in the water column, not seafloor
+-   Pelagic ecosystems are dominated by **plankton-based food webs**; support fish, marine mammals, seabirds
+-   Productivity depends on sunlight, nutrients, and vertical mixing of ocean waters
+-   Vertical light zones structure marine ecosystems:
+    -   [photic zone]{.keyword} (\~0–200 m): enough sunlight for photosynthesis; phytoplankton drive primary production
+    -   [aphotic zone]{.keyword} (\>200 m): little or no light; no photosynthesis; organisms depend on organic matter from surface waters
+    -   [abyssal zone]{.keyword} (\~4,000–6,000 m): dark, cold, high pressure; specialized deep-sea organisms
+:::
+
+::: {.column width="40%"}
 ![](images/clipboard-716426714.png)
 :::
 :::::
 
-------------------------------------------------------------------------
+## Ecosystem Services provided by oceans
+
+::::: columns
+::: {.column width="60%"}
+-   Oceans dominate the planet and provide essential [ecosystem services]{.keyword} that support life and economies
+    -   [Provisioning services]{.keyword}: seafood, genetic resources, and raw materials from marine organisms
+    -   [Supporting services]{.keyword}: marine food webs, habitat for biodiversity, nutrient and water cycling
+    -   [Maintaining services]{.keyword}: climate regulation, carbon storage, coastal protection, and water purification
+    -   [Cultural services]{.keyword}: recreation, tourism, education, wildlife watching, and artistic inspiration
+:::
+
+::: {.column width="40%"}
+![Diagram of ecosystem services provided by oceans, illustrating provisioning, supporting, maintaining, and cultural ecosystem services. Graphic created by NatureScot.](https://www.seafish.org/media/sn0ig4ab/naturescot_ecosystems_graphic.jpg?v=1dade829d05d1d0){width="90%"}
+:::
+:::::
 
 ## Freshwater Ecosystems
 
@@ -394,7 +454,20 @@ Major freshwater systems:
 :::
 :::::
 
-------------------------------------------------------------------------
+## Lakes
+
+::::: columns
+::: {.column width="50%"}
+-   [Lakes]{.keyword} are large bodies of **standing freshwater** formed when depressions fill with water
+-   Lake basins can form through **glacial activity**, crustal movement, or **volcanic processes**
+-   Lakes vary in **depth and nutrient levels**, shaping productivity and biodiversity
+-   Typical deep lakes have distinct ecological zones
+:::
+
+::: {.column width="50%"}
+![](images/clipboard-2282274142.png)
+:::
+:::::
 
 ## Nutrient Levels in Lakes
 
@@ -406,14 +479,22 @@ Major freshwater systems:
 
 -   Two common lake types:
 
--   [oligotrophic lakes]{.keyword} – low nutrients, clear water
+    -   [oligotrophic lakes]{.keyword} – low nutrients, clear water
 
--   [eutrophic lakes]{.keyword} – high nutrients, high productivity
+    -   [eutrophic lakes]{.keyword} – high nutrients, high productivity
 
 -   Nutrient inputs from human activities can cause [eutrophication]{.keyword}
 :::
 
 ::: {.column width="50%"}
+::: {#fig-elephants layout-ncol=2}
+
+![Oligotropic](images/oligotrophic-lake.jpg)
+
+![Eutrophic lakes](images/eutrophic-lake.jpg)
+
+Two common lake types
+:::
 :::
 :::::
 
