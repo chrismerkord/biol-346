@@ -471,7 +471,7 @@ Major freshwater systems:
 
 ## Nutrient Levels in Lakes
 
-::::: columns
+:::::: columns
 ::: {.column width="50%"}
 -   Lakes differ in nutrient availability
 
@@ -486,19 +486,47 @@ Major freshwater systems:
 -   Nutrient inputs from human activities can cause [eutrophication]{.keyword}
 :::
 
-::: {.column width="50%"}
-::: {#fig-elephants layout-ncol=2}
-
+:::: {.column width="50%"}
+::: {#fig-elephants layout-ncol="2"}
 ![Oligotropic](images/oligotrophic-lake.jpg)
 
 ![Eutrophic lakes](images/eutrophic-lake.jpg)
 
 Two common lake types
 :::
+::::
+::::::
+
+## Freshwater streams and rivers
+
+::::: columns
+::: {.column width="50%"}
+-   [streams and rivers]{.keyword} transport large volumes of freshwater from upland areas to lakes and oceans
+-   Flowing water shapes landscapes through [erosion]{.keyword}, carving valleys and moving sediment
+-   Most rivers pass through three zones: source zone, transition zone, and floodplain zone
+-   Sediment deposited at the river mouth can form a [delta]{.keyword}
+:::
+
+::: {.column width="50%"}
+![](images/clipboard-55120411.png)
 :::
 :::::
 
-------------------------------------------------------------------------
+## Freshwater inland wetlands
+
+::::: columns
+::: {.column width="50%"}
+-   [Freshwater inland wetlands]{.keyword} act as natural **sponges**, storing and slowly releasing water
+-   Wetlands filter pollutants and help **improve water quality**
+-   They reduce flooding and erosion and help **maintain stream flow during drought**
+-   Wetlands also **recharge groundwater aquifers**
+-   These habitats support high **biodiversity** and provide recreation for people
+:::
+
+::: {.column width="50%"}
+![](images/clipboard-3505378177.png)
+:::
+:::::
 
 # Human Impacts on Biodiversity
 
