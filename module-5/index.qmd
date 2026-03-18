@@ -326,6 +326,64 @@ Major forest types:
 
 ------------------------------------------------------------------------
 
+## Human Disturbance to Terrestrial Ecosystems
+
+::::: columns
+::: {.column width="50%"}
+-   Humans have altered \~**75% of Earth’s land surface** through agriculture, forestry, mining, and urban development (UNEP)
+-   \~**60% of global ecosystem services** are degraded or used unsustainably (Millennium Ecosystem Assessment)
+-   Major drivers include **land conversion, resource extraction, and infrastructure development**
+-   Global analyses show **conversion pressure is still increasing**, especially in parts of Africa, Central America, and Southeast Asia
+-   Many of these areas contain **intact ecosystems and high biodiversity**, creating growing conservation risks
+:::
+
+::: {.column width="50%"}
+![Global map of the human modification of terrestrial ecosystems, showing the cumulative impact of agriculture, infrastructure, energy production, and urban development on natural landscapes. Darker colors indicate higher levels of human modification. Source: [Kennedy et al. 2020](https://essd.copernicus.org/articles/12/1953/2020/), Earth System Science Data (Fig. 3).](images/clipboard-2653614171.png){#fig-global-human-modification fig-alt="World map showing the degree of human modification of land ecosystems, with darker colors indicating higher levels of impact from agriculture, cities, roads, and energy infrastructure."}
+:::
+:::::
+
+## Major human disturbances by ecosystem
+
+::::::: columns
+::: {.column width="25%"}
+### [Deserts]{.keyword}
+
+![](images/clipboard-3709689440.png){width="100%"}
+
+-   groundwater depletion from irrigation
+-   soil damage from off-road vehicles and mineral extraction
+:::
+
+::: {.column width="25%"}
+### [Grasslands]{.keyword}
+
+![](images/clipboard-449591965.png){width="100%"}
+
+-   conversion to cropland
+-   overgrazing by livestock
+:::
+
+::: {.column width="25%"}
+### [Forests]{.keyword}
+
+![](images/clipboard-2508400484.png){width="100%"}
+
+-   deforestation for agriculture and livestock
+-   logging for timber and paper
+:::
+
+::: {.column width="25%"}
+### [Mountains]{.keyword}
+
+![](images/clipboard-3584730487.png){width="100%"}
+
+-   mining and mineral extraction
+-   dams and reservoirs altering river systems
+:::
+:::::::
+
+All figures used with permission from sciencefacts.net
+
 ## Aquatic Ecosystems
 
 ::::: columns
@@ -528,6 +586,780 @@ Two common lake types
 :::
 :::::
 
-# Human Impacts on Biodiversity
+# The Biodiversity Crisis
 
-# Conservation Strategies
+## Core Case Study: Where Have all the European Honeybees Gone?
+
+::::: columns
+::: {.column width="50%"}
+-   Honeybees provide one of the most important ecosystem services: pollination.
+-   European honeybees are used by farmers almost exclusively in the United States for pollinating crops.
+    -   This dependence on one species is a violation of the principle of sustainability.
+-   Since 2006, the honeybees have been in massive decline.
+    -   This is called colony collapse disorder (CCD).
+-   What can we learn from their collapse?
+:::
+
+::: {.column width="50%"}
+![European honey bee (Apis mellifera) on a flower; honey bees are among the most important pollinators of agricultural crops and wild plants. Photo by Charles J. Sharp, taken at Cumnor Hill, Oxford (2014), via Wikimedia Commons (CC BY-SA).](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Honey_bee_%28Apis_mellifera%29.jpg/1280px-Honey_bee_%28Apis_mellifera%29.jpg){fig-alt="Close-up photograph of a European honey bee (Apis mellifera) perched on a flower while collecting nectar and pollen."}
+:::
+:::::
+
+## Biodiversity hotspot
+
+::::: columns
+::: {.column width="50%"}
+-   There are 34 recognized biodiversity hotspots around the world.
+-   Although these cover only 2.3 percent of the Earth’s surface, 42 percent of the terrestrial vertebrate species and 50 percent of the world’s plants are endemic to those hotspots.
+:::
+
+::: {.column width="50%"}
+![Global map of biodiversity hotspots identified by Conservation International, highlighting regions with exceptionally high endemism that are under severe threat from habitat loss. Image by Conservation International, 2014, via Wikimedia Commons (CC BY-SA 4.0).](https://upload.wikimedia.org/wikipedia/commons/d/d9/Biodiversity_Hotspots_Map.jpg){fig-alt="World map highlighting major biodiversity hotspots, with shaded regions across tropical forests, Mediterranean climates, and island regions where exceptionally high numbers of endemic plant and animal species occur but are threatened by habitat loss."}
+:::
+:::::
+
+## What Role Do Humans Play in the Loss of Species and Ecosystem Services?
+
+::::: columns
+::: {.column width="50%"}
+-   As the human population has grown exponentially, the rate of species extinction has also increased manyfold.
+-   By the end of this century, the extinction rate is predicted to be 10,000 times higher than before human exponential growth began.
+-   Species that can no longer be found on Earth have suffered biological extinction.
+-   Mass extinction: the extinction of many species in a relatively short period of geologic time.
+    -   The earth has had five mass extinctions.
+    -   After each mass extinction, biodiversity returned and often was higher than before.
+-   Recovery took millions of years.
+:::
+
+::: {.column width="50%"}
+![Background extinction rates versus modern extinction rates for vertebrates. The figure compares the number of species expected to go extinct under natural background extinction rates with the number of extinctions observed since 1500, showing that recent extinction rates are dramatically higher than historical baselines. Source: \*\*International Union for Conservation of Nature (IUCN) Red List data, visualized by Our World in Data.](https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/f7f035a8-0f89-4e8d-a64e-417ff602cd00/w=2690){fig-alt="Bar chart comparing expected background extinction rates with observed vertebrate extinctions since 1500, showing that many more species have gone extinct in the modern era than would be expected under natural extinction rates."}
+:::
+:::::
+
+## Scientists Use Background Extinction Rates to Study Populations
+
+::::: columns
+::: {.column width="50%"}
+-   Current annual rate of species extinction is between 100 and 1,000 times the background extinction rate.
+-   At today’s rates, we are losing between 1,000 and 10,000 species per year.
+-   During the next 100 years, the background extinction rate is estimated to rise to at least 10,000 times its current rate.
+-   A dramatic rise in extinction rates will result from:
+    -   Habitat loss and degradation
+    -   Climate change
+    -   Ocean acidification
+    -   Human activity
+:::
+
+::: {.column width="50%"}
+![Observed vertebrate extinctions greatly exceed natural background rates. The graph compares the cumulative percentage of vertebrate species recorded as extinct (based on IUCN data) with expected extinctions under estimated natural background extinction rates, illustrating the unusually rapid biodiversity losses occurring in the modern era. From Ceballos et al. (2015), Accelerated modern human-induced species losses: Entering the sixth mass extinction, Science Advances 1:e1400253, Fig. 1.](https://www.science.org/cms/10.1126/sciadv.1400253/asset/0e397fd8-81cc-492b-af8e-90cd035b3aff/assets/graphic/1400253-f1.jpeg){fig-alt="Line graph showing cumulative percentage of vertebrate species extinctions over time. The observed extinction curve rises far above curves representing expected background extinction rates, indicating that modern extinction rates are much higher than natural levels."}
+:::
+:::::
+
+## Endangered and Threatened Species Are Ecological Smoke Alarms
+
+::::: columns
+::: {.column width="50%"}
+-   Species heading toward biological extinction are classified as:
+    -   Endangered: so few individual survivors that the species could soon become extinct.
+    -   Threatened: enough individuals to survive in the short term but not the long term.
+-   Some species have characteristics that increase extinction risk:
+    -   Low reproductive rate
+    -   Rare species
+    -   Narrow geographic distribution
+:::
+
+::: {.column width="50%"}
+![Examples of species that depend on wetland ecosystems in North America, including birds, amphibians, reptiles, fish, and mammals that rely on wetlands for breeding, feeding, or shelter. Image collage by the U.S. Fish and Wildlife Service (USFWS), via USFWS media library.](https://www.fws.gov/sites/default/files/styles/scale_width_1200/public/2023-04/9ImageCollageSpeciesCombined.png.webp?itok=DiqGz007){fig-alt="Collage of several wetland-dependent species, including birds, amphibians, reptiles, fish, and mammals that live in or rely on wetland habitats such as marshes and swamps." width="70%"}
+:::
+:::::
+
+## Why Species Extinction Matters for Ecosystems
+
+::::: columns
+::: {.column width="50%"}
+-   Species interact in complex ecological networks.
+-   The loss of one species can disrupt these interactions.
+-   Some species play key ecological roles, such as:
+    -   Pollination
+    -   Seed dispersal
+    -   Nutrient cycling
+    -   Predation and population control
+-   When man species disappear, ecosystems can lose important functions.
+-   In some cases, the loss of a single keystone species can cause large changes in ecosystem structure and biodiversity.
+:::
+
+::: {.column width="50%"}
+![Trophic cascade in a coastal kelp forest ecosystem: sea otters prey on sea urchins, which graze on kelp. When otter populations decline, sea urchin numbers increase and kelp forests are heavily grazed. Illustration of species abundance changes in a temperate rocky reef ecosystem. Source: Wikimedia Commons.](https://upload.wikimedia.org/wikipedia/commons/8/84/Changes_in_abundance_in_a_temperate_rocky_reef_ecosystem.png){fig-alt="Diagram of a kelp forest trophic cascade showing sea otters controlling sea urchin populations, which allows kelp forests to persist; when otters are absent, sea urchins increase and kelp declines." width="80%"}
+:::
+:::::
+
+## Why Should We Work to Prevent Extinction Possibilities?
+
+::::: columns
+::: {.column width="50%"}
+-   We depend on many ecosystem services, including provisioning (e.g. fish) and maintenance services (e.g. carbon sequestration)
+-   Many species contribute to economic services such as the discovery of medicinal drugs.
+-   “Eliminating species that make up an essential part of the world’s biodiversity is like burning millions of books that we have never read.”
+-   Sharp reductions in biodiversity result in reduced speciation.
+:::
+
+::: {.column width="50%"}
+![Sea otter (\*Enhydra lutris\*) floating among kelp in a coastal kelp forest ecosystem. Sea otters help maintain healthy kelp forests by preying on sea urchins that would otherwise overgraze kelp, illustrating the role of a keystone predator in ecosystem stability. Photo by Doug Anderson for the World Wildlife Fund (WWF).](https://assets.worldwildlife.org/www-prd/images/wwfcmsprodimagesSea_.2e16d0ba.format-webp.fill-1600x900.webp){fig-alt="Photograph of a sea otter floating on its back in coastal water while surrounded by strands of kelp at the ocean surface."}
+:::
+:::::
+
+## HIPPCO: Loss of Habitat Is the Single Greatest Threat to Species
+
+::::: columns
+::: {.column width="50%"}
+-   [HIPPCO]{.keyword}
+    -   Habitat destruction, degradation, and fragmentation (greatest threat to species)
+    -   Invasive (nonnative species)
+    -   Population growth and increasing use of resources
+    -   Pollution
+    -   Climate change
+    -   Overexploitation
+:::
+
+::: {.column width="50%"}
+![Conceptual diagram illustrating habitat fragmentation, where continuous habitat is divided into smaller isolated patches by human activities such as roads, agriculture, and urban development. Source: original creator unknown (image embedded in FlowVella presentation).](https://media.goboard.io/contentItem-11169580-103569621-ia5ym0iy3u9ar-or.jpg){fig-alt="Diagram showing a landscape divided into smaller isolated habitat patches by roads and human development, illustrating the concept of habitat fragmentation."}
+:::
+:::::
+
+## Habitat Fragmentation
+
+::::: columns
+::: {.column width="50%"}
+-   [Habitat fragmentation]{.keyword} occurs when large, continuous habitats are divided into smaller, isolated patches.
+
+-   Human activities such as roads, logging, agriculture, and urban development commonly cause fragmentation.
+
+-   Fragmentation increases **edge habitat** and reduces **core interior habitat**, which can negatively affect species that require large, undisturbed areas.
+
+-   Isolated habitat patches can restrict movement between populations.
+
+-   Limited movement makes species more vulnerable to predators, disturbance, and local extinction.
+:::
+
+::: {.column width="50%"}
+![Habitat fragmentation diagram showing how continuous habitat becomes divided into smaller patches by human development such as roads and agriculture. Fragmentation increases edge habitat and reduces the amount of interior (core) habitat, which can negatively affect species that depend on large undisturbed areas. Wildlife corridors can reconnect patches and allow organisms to move between habitats. Illustration by Deb Rylands, via Wild Ideas (wild-ideas.org.uk).](https://www.wild-ideas.org.uk/wp-content/uploads/2024/04/Fragmentation-1-768x432.png){fig-alt="Diagram showing a large continuous habitat broken into smaller isolated patches by development, illustrating increased edge habitat, reduced core interior habitat, and corridors connecting some patches to allow wildlife movement."}
+:::
+:::::
+
+## We Have Moved Disruptive Species into Some Ecosystems
+
+::::: columns
+::: {.column width="50%"}
+-   [Nonnative species]{.keyword} (also called introduced or exotic species) are organisms that humans move outside their natural geographic range.
+
+-   Species may be introduced:
+
+    -   **Intentionally** (agriculture, horticulture, pest control, pets)
+    -   **Accidentally** (shipping, trade, travel)
+
+-   Many introduced species survive only briefly.
+
+-   Some become [invasive species]{.keyword} when they establish, spread rapidly, and disrupt native ecosystems.
+:::
+
+::: {.column width="50%"}
+![Global distribution of established alien species across major taxonomic groups worldwide. Source: Seebens et al. (2017), Global Ecology and Biogeography.](https://onlinelibrary.wiley.com/cms/asset/032b5816-5d37-4b49-b95c-48d0280d1d0e/geb12517-fig-0001-m.jpg){fig-alt="World maps showing the number of established alien species across regions for several taxonomic groups, with darker colors indicating higher numbers of nonnative species."}
+:::
+:::::
+
+## Harmful Effects of Nonnative Species
+
+::::: columns
+::: {.column width="50%"}
+-   Invasive species can harm ecosystems by:
+
+    -   Competing with native species for resources
+    -   Preying on native species
+    -   Spreading disease
+    -   Altering habitats or ecosystem processes
+
+-   In the United States, invasive species are a major contributor to species endangerment:
+
+    -   **Zebra mussels** in North America clog water systems and outcompete native mussels.
+    -   **Kudzu vine** spreads rapidly and smothers native vegetation in the southeastern United States.
+    -   **Burmese pythons** in Florida prey on native mammals and birds in the Everglades.
+:::
+
+::: {.column width="50%"}
+![Burmese python consuming a white-tailed deer in the Florida Everglades, illustrating the ecological impact of this invasive predator on native wildlife. Source: Everglades Safari Park (evergladessafaripark.com).](https://cdn.prod.website-files.com/5ea36489dddc5f65eb82d1d4/60b495b05c518245bad710ba_01.jpeg){fig-alt="Photograph of a large Burmese python in a wetland area swallowing a deer, demonstrating the predatory impact of this invasive snake in the Florida Everglades."}
+:::
+:::::
+
+## Prevention Is the Best Way to Reduce Threats from Invasive Species
+
+::::: columns
+::: {.column width="50%"}
+-   Once nonnative species become established, they are almost impossible to remove.
+-   Prevention is the best way to limit threats:
+    -   Funding research to identify bioinvader characteristics
+    -   Using satellite observations and ground surveys to model dispersal
+-   Establish international treaties banning species transfer.
+-   Increase inspection on imported goods.
+-   Educate the public about harmful effects of releasing nonnative species.
+:::
+
+::: {.column width="50%"}
+![A lake inspector for the Department of Natural Resources inpsects a watercraft for invasive species. Photo: MN DNR.](https://www.sctimes.com/gcdn/-mm-/c92df813867b1bf26386881817237ea9a0c26c08/c=0-154-3008-1846/local/-/media/StCloud/2014/05/31/inspector06.jpg)
+:::
+:::::
+
+## Human Population and Ecological Footprint
+
+::::: columns
+::: {.column width="50%"}
+-   As the human population grows, the **ecological footprint** of human activities expands.
+
+-   More land and resources are required for:
+
+    -   Agriculture
+    -   Cities and infrastructure
+    -   Energy and materials
+
+-   Expanding human land use reduces and fragments wildlife habitat.
+
+-   Increasing human population and resource use can drive species toward extinction.
+:::
+
+::: {.column width="50%"}
+-   Example: **Passenger pigeon**
+
+    -   Once one of the most abundant birds in North America
+    -   Extensive deforestation and commercial hunting in the 1800s caused rapid population collapse
+    -   The last individual died in captivity in 1914
+
+![Illustration of passenger pigeons in a large flock. Image from Revive & Restore (reviverestore.org). Credit: [Tim Hough](http://www.timhough.com/)](https://i0.wp.com/reviverestore.org/wp-content/uploads/2017/11/flock2.png){fig-align="center" width="50%"}
+:::
+:::::
+
+## The Biodiversity Crisis
+
+::::: columns
+::: {.column width="50%"}
+-   Biodiversity is declining at an unusually rapid rate.
+
+-   Current extinction rates are estimated to be **tens to hundreds of times higher** than natural background rates.
+
+-   Some scientists describe the current period as a possible **sixth mass extinction**.
+
+-   Human activities are the primary drivers of modern biodiversity loss.
+:::
+
+::: {.column width="50%"}
+-   Major causes are often summarized as **HIPPCO**:
+
+    -   Habitat loss and fragmentation
+    -   Invasive species
+    -   Pollution
+    -   Population growth and resource use
+    -   Climate change
+    -   Overexploitation
+:::
+:::::
+
+# Protecting Species and Biodiversity
+
+## International Treaties and National Laws Can Help Protect Species
+
+::::: columns
+::: {.column width="50%"}
+-   1975 Convention on International Trade in Endangered Species (CITES)
+    -   Signed by 178 countries
+    -   Bans hunting, capturing, and selling threatened and endangered species
+-   Enforcement varies among countries.
+-   Countries can exempt themselves from particular species.
+-   Convention on Biological Diversity (CBD)
+    -   Signed by 193 countries
+    -   Commits to reducing biodiversity loss and sharing genetic resources
+    -   Focuses on ecosystems rather than individual species.
+:::
+
+::: {.column width="50%"}
+:::
+:::::
+
+## Wildlife Refuges Can Help Protect Species
+
+::::: columns
+::: {.column width="50%"}
+-   Establish wildlife refuges and protected areas.
+-   The National Wildlife Refuge System was established by President Theodore Roosevelt.
+-   By 2013 there were more than 560 refuges in the system.
+-   Wetlands are protected in three-fourths of these refuges.
+-   At least one-fourth of all U.S. endangered and threatened species have habitats in these refuges.
+-   Pelican Island National Wildlife Refuge in Florida was America’s first refuge.
+:::
+
+::: {.column width="50%"}
+![Pelican Island National Wildlife Refuge. Wikipedia / George Gentry / USFWS](https://upload.wikimedia.org/wikipedia/commons/4/49/PelicanIslandNWR.jpg)
+:::
+:::::
+
+## Seed Banks, Botanical Gardens, and Wildlife Farms
+
+::::: columns
+::: {.column width="50%"}
+-   Plant genetic information preserved in climate-controlled seed banks.
+-   Example: Svalbard Global Seed Vault.
+-   Botanical gardens help preserve species, but only about 3% of the world’s plants are preserved.
+-   Some farms raise endangered species for sale, reducing pressure on wild populations.
+:::
+
+::: {.column width="50%"}
+![Svalbard Global Seed Vault https://en.visitsvalbard.com/](https://eu-assets.simpleview-europe.com/svalbard/imageresizer/?image=%2Fdbimgs%2FFr%C3%B8hvelvet%20nordgen%20gallery%20image.jpg&action=MediaGallery)
+
+![Samples at Svalbard Global Seed Vault](https://eu-assets.simpleview-europe.com/svalbard/imageresizer/?image=%2Fdbimgs%2FRiccardo%20Gangale%203.jpg&action=ContentImageLimitSize){fig-align="center" width="60%"}
+:::
+:::::
+
+## Zoos and Aquariums Protect Some Species
+
+::::: columns
+::: {.column width="50%"}
+-   Some endangered species preserved using:
+    -   Egg pulling
+    -   Captive breeding
+-   Other techniques include:
+    -   Artificial insemination
+    -   Embryo transfer
+    -   Incubators
+    -   Cross-fostering
+:::
+
+::: {.column width="50%"}
+![White-naped Cranes at the Red River Zoo in Fargo are part of the AZA Species Survival Plan.](https://wordpress-assets-clients2.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/18/2022/11/featured-photo-ssp-crane.jpg)
+:::
+:::::
+
+## Captive Breeding and Genetic Variation
+
+::::: columns
+::: {.column width="50%"}
+-   The major issue is genetic variation.
+-   Scientists estimate that 10,000 or more individuals are needed to maintain evolutionary potential.
+-   Zoos do not have space or resources to maintain such populations.
+-   Aquariums serve mainly educational roles and cannot act as gene banks.
+:::
+
+::: {.column width="50%"}
+![](images/clipboard-890869652.png){fig-align="center" width="80%"}
+:::
+:::::
+
+## Limitations of Financial and Human Resources Raise Additional Questions
+
+-   Conservation resources are limited.
+
+-   Decisions must be made about which species and ecosystems to prioritize.
+
+-   Should conservation focus on species humans find appealing or those with the greatest ecological importance?
+
+-   How do scientists determine which habitats most need protection?
+
+-   How should limited conservation resources be allocated among biodiversity hotspots?
+
+# Conserving Ecosystems
+
+## What Are the Major Threats to Forest Ecosystems?
+
+::::: columns
+::: {.column width="50%"}
+-   Forests provide highly valuable economic and ecosystem services.
+-   Support biodiversity by providing habitats for about two-thirds of the earth's terrestrial species.
+-   They are also home to more than 300 million people.
+-   About 1 billion people living in extreme poverty depend on forests for their survival.
+-   Forests also play a role in maintaining human health.
+-   Certain chemicals found in tropical forest plants are used as blueprints for making most of the world's prescription drugs.
+:::
+
+::: {.column width="50%"}
+:::
+:::::
+
+## What Are the Major Threats to Forest Ecosystems?
+
+::::: columns
+::: {.column width="50%"}
+-   Forests have tremendous economic value.
+-   Scientists and economists have estimated the economic value of major ecosystem services that the world’s forests and other ecosystems provide.
+-   Forests are most threatened by:
+    -   Unsustainable cutting and burning of vegetation
+    -   The effects of climate change
+:::
+
+::: {.column width="50%"}
+:::
+:::::
+
+## Forests Vary in Age and Composition
+
+::::: columns
+::: {.column width="50%"}
+**Old-growth forest, or primary forest** - An uncut or regrown forest that has not been seriously disturbed by human activities or natural disasters for 200 years or more. - Reservoirs of biodiversity because they provide ecological niches for many wildlife species.
+
+**Second-growth forest** - A stand of trees resulting from secondary ecological succession. - Develops after trees in an area have been removed by human activities such as clear-cutting for timber or conversion to cropland, or by natural forces such as fires and hurricanes.
+:::
+
+::: {.column width="50%"}
+:::
+:::::
+
+## Tree Plantation
+
+::::: columns
+::: {.column width="50%"}
+-   A managed forest that contains only one or two species of trees that are all the same age.
+-   Also known as a tree farm or commercial forest.
+-   Old-growth or second-growth forests are often cleared for timber and replaced by tree plantations.
+-   Trees grown in plantations are usually harvested by clear-cutting as soon as they become commercially valuable.
+-   The land is then replanted and clear-cut again in a regular cycle.
+:::
+
+::: {.column width="50%"}
+:::
+:::::
+
+## There Are Several Ways to Harvest Trees
+
+::::: columns
+::: {.column width="50%"}
+**Selective cutting** - Intermediate-aged or mature trees are cut singly or in small groups.
+
+**Clear cutting** - All trees are removed from a geographic area. - Most efficient and least costly but harms ecosystems.
+
+**Shelterwood cutting** - Trees are removed in sections. - Seed-bearing trees are left so the area will regenerate.
+:::
+
+::: {.column width="50%"}
+:::
+:::::
+
+## Fires and Forest Ecosystems
+
+::::: columns
+::: {.column width="50%"}
+-   Fires can affect ecosystems.
+
+**Surface fires** - Usually burn only undergrowth and leaf litter on the forest floor. - Burn away flammable material, free valuable nutrients, release seeds and stimulate germination, and help control destructive insects and tree diseases.
+
+**Crown fires** - Extremely hot fires that leap from treetop to treetop. - Destroy most vegetation, kill wildlife, and increase topsoil erosion.
+:::
+
+::: {.column width="50%"}
+:::
+:::::
+
+## Half of the World’s Old-Growth Forests Have Been Cut Down
+
+::::: columns
+::: {.column width="50%"}
+**Deforestation** - Removal of large areas of forest for human use. - Eliminated almost half of the earth’s old-growth forests.
+
+-   If current deforestation rates continue, 40% of the world’s remaining intact forests will be logged or converted.
+
+-   Leads to severe erosion and loss of topsoil.
+:::
+
+::: {.column width="50%"}
+:::
+:::::
+
+## Many Cleared Forests in the United States Have Grown Back
+
+::::: columns
+::: {.column width="50%"}
+-   Forests cover about 30% of the United States.
+
+    -   Habitat for more than 80% of wildlife species.
+    -   Contains about two-thirds of the nation’s surface water.
+
+-   In 1620, forests covered more than half of the current land area of the continental United States.
+
+-   By 1920, most of these forests had been decimated.
+
+-   In 2006, secondary and commercial forests covered about a third of U.S. land in the lower 48 states.
+
+-   Many old-growth forests cleared between 1620 and 1920 have grown back naturally.
+:::
+
+::: {.column width="50%"}
+:::
+:::::
+
+## Strategies for Sustaining Terrestrial Biodiversity
+
+::::: columns
+::: {.column width="50%"}
+Some strategies include:
+
+-   Protecting species from extinction
+-   Establishing protected wilderness areas, parks, and nature reserves
+-   Identifying and protecting biodiversity hotspots
+-   Avoiding the destruction of forests and grasslands
+-   Rehabilitating and partially restoring damaged ecosystems
+:::
+
+::: {.column width="50%"}
+:::
+:::::
+
+## Protecting Global Biodiversity Hotspots Is an Urgent Priority
+
+::::: columns
+::: {.column width="50%"}
+-   Take emergency measures to rapidly protect terrestrial biodiversity hotspots.
+
+-   These areas cover little more than 2% of the earth’s surface but contain most of the world’s flowering plants and terrestrial vertebrates.
+
+-   Only about 5% of hotspot areas are currently protected with government funding and law enforcement.
+:::
+
+::: {.column width="50%"}
+:::
+:::::
+
+## We Can Rehabilitate and Partially Restore Ecosystems That We Have Damaged
+
+::::: columns
+::: {.column width="50%"}
+Repair ecosystem damage and enhance ecological succession by:
+
+-   **Ecological restoration**
+    -   Returning degraded habitats and ecosystems as close as possible to their natural state.
+-   **Rehabilitation**
+    -   Improving ecosystems without trying to restore their original condition.
+-   **Replacement**
+    -   Replacing degraded ecosystems with productive systems such as pastureland.
+-   **Creating artificial ecosystems**
+:::
+
+::: {.column width="50%"}
+:::
+:::::
+
+## Human Activities Are Threatening Aquatic Biodiversity
+
+::::: columns
+::: {.column width="50%"}
+-   Human activities have destroyed or degraded large portions of coastal wetlands, coral reefs, mangroves, and even the ocean floor.
+-   Freshwater ecosystems have also been disrupted.
+-   Sea-bottom habitats are degraded by dredging operations and trawler fishing boats.
+-   Trawler boats drag large weighted nets across the ocean floor to harvest a few species of bottom fish and shellfish.
+:::
+
+::: {.column width="50%"}
+:::
+:::::
+
+## Ocean Acidification
+
+::::: columns
+::: {.column width="50%"}
+-   Oceans absorb about one-fourth of the excess CO₂ released by human activities.
+
+-   When CO₂ dissolves in seawater, it forms carbonic acid (H₂CO₃) and releases hydrogen ions (H⁺).
+
+-   This decreases pH and makes ocean water more acidic.
+
+-   Ocean pH varies across regions.
+
+-   Upwelling of deeper CO₂-rich waters may contribute to low pH in some regions.
+
+-   Marine biologists warn that many species and ecosystems face an uncertain future.
+:::
+
+::: {.column width="50%"}
+:::
+:::::
+
+## Ocean Acidification
+
+::::: columns
+::: {.column width="50%"}
+-   Increasing hydrogen ion concentration lowers pH and increases acidity.
+
+-   This reduces carbonate ions (CO₃²⁻) needed by many marine organisms.
+
+-   Many species use carbonate ions to build calcium carbonate (CaCO₃) shells and skeletons.
+
+-   These include:
+
+    -   Phytoplankton
+    -   Corals
+    -   Sea snails
+    -   Crabs
+    -   Oysters
+
+-   Acidic water slows shell growth and may dissolve shells and coral structures.
+:::
+
+::: {.column width="50%"}
+:::
+:::::
+
+## The Effects of Ocean Acidification
+
+::::: columns
+::: {.column width="50%"}
+-   Ocean acidification affects many marine taxonomic groups.
+-   Effects can include positive or negative changes in growth, survival, and reproduction.
+-   Many organisms show declines under increased acidity.
+:::
+
+::: {.column width="50%"}
+:::
+:::::
+
+## Problems That Threaten Aquatic Biodiversity
+
+::::: columns
+::: {.column width="50%"}
+-   Introduction of invasive species can threaten aquatic ecosystems.
+
+-   Lionfish consume many reef fish species, including parrotfish that normally control algae on reefs.
+
+-   Where lionfish dominate, coral reefs may be severely threatened.
+
+-   Lionfish have invaded eastern coastal waters of North America and have few natural predators.
+:::
+
+::: {.column width="50%"}
+:::
+:::::
+
+## Overfishing: Gone Fishing, Fish Gone
+
+::::: columns
+::: {.column width="50%"}
+-   Fish provide about 20% of the world’s animal protein.
+
+-   A **fishery** is a concentration of wild aquatic species suitable for commercial harvesting.
+
+-   Industrial fishing fleets use GPS, sonar, huge nets, long fishing lines, aircraft, and factory ships.
+
+-   Overfishing:
+
+    -   Reduces marine biodiversity
+    -   Degrades ecosystem services
+:::
+
+::: {.column width="50%"}
+:::
+:::::
+
+## Overfishing: Gone Fishing, Fish Gone
+
+::::: columns
+::: {.column width="50%"}
+-   About 4.4 million fishing boats harvest fish worldwide.
+
+-   Approximately:
+
+    -   57% of fisheries are fully exploited
+    -   30% are overexploited or depleted
+
+-   Overharvesting has caused collapse of several major fisheries.
+
+-   Large commercially valuable fish such as cod, marlin, swordfish, and tuna are becoming scarce.
+:::
+
+::: {.column width="50%"}
+:::
+:::::
+
+## Overfishing: Gone Fishing, Fish Gone
+
+::::: columns
+::: {.column width="50%"}
+-   Fishing industries are increasingly targeting smaller species lower in the food web.
+
+-   Examples include:
+
+    -   Anchovies
+    -   Herring
+    -   Sardines
+    -   Krill
+
+-   Much of this catch becomes fishmeal for aquaculture.
+
+-   This reduces food availability for larger marine species and disrupts marine ecosystems.
+:::
+
+::: {.column width="50%"}
+:::
+:::::
+
+## Fish Prints: Similar in Nature to Ecological Footprints
+
+::::: columns
+::: {.column width="50%"}
+-   A **fish print** is the ocean area required to sustain fish consumption for a person, nation, or the world.
+
+-   Overfishing has caused the collapse of some fisheries.
+
+-   Loss of predators allows invasive species to disrupt marine food webs.
+:::
+
+::: {.column width="50%"}
+:::
+:::::
+
+## Case Study: Upsetting Marine Ecosystems—Jellyfish Invasions
+
+::::: columns
+::: {.column width="50%"}
+-   Jellyfish blooms can cause:
+    -   Beach closures
+    -   Disruption of fishing operations
+    -   Damage to coastal fish farms
+-   Human activities that promote jellyfish growth include:
+    -   Removing their predators
+    -   Reducing competitors
+    -   Ocean acidification
+:::
+
+::: {.column width="50%"}
+:::
+:::::
+
+## How Can We Sustain Aquatic Biodiversity?
+
+::::: columns
+::: {.column width="50%"}
+-   Strategies include:
+    -   Establishing marine protected areas
+    -   Managing coastal development
+    -   Reducing water pollution
+    -   Preventing overfishing
+-   Protection is difficult because:
+    -   Fish prints and ecological footprints are expanding
+    -   Ocean damage is often not visible
+    -   The ocean is often viewed as an inexhaustible resource
+    -   Much of the ocean lies outside national jurisdiction
+:::
+
+::: {.column width="50%"}
+:::
+:::::
+
+## Taking an Ecosystem Approach to Sustaining Aquatic Biodiversity
+
+::::: columns
+::: {.column width="50%"}
+Some proposals include:
+
+-   Mapping global aquatic biodiversity
+-   Identifying aquatic biodiversity hotspots
+-   Creating large fully protected marine reserves
+-   Restoring damaged coral reefs
+-   Initiating global ecological restoration projects
+-   Reducing poverty in communities near protected waters
+:::
+
+::: {.column width="50%"}
+:::
+:::::
