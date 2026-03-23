@@ -964,19 +964,19 @@ Two common lake types
 
 # Conserving Ecosystems
 
-## What Are the Major Threats to Forest Ecosystems?
+## Role and Importance of Forest Ecosystems
 
 ::::: columns
 ::: {.column width="50%"}
--   Forests provide highly valuable economic and ecosystem services.
--   Support biodiversity by providing habitats for about two-thirds of the earth's terrestrial species.
--   They are also home to more than 300 million people.
--   About 1 billion people living in extreme poverty depend on forests for their survival.
--   Forests also play a role in maintaining human health.
--   Certain chemicals found in tropical forest plants are used as blueprints for making most of the world's prescription drugs.
+-   [Forests]{.keyword} provide critical [ecosystem services]{.keyword}, including carbon storage, climate regulation, and water cycling
+-   Forests support a large share of terrestrial [biodiversity]{.keyword}, provide habitat for many species
+-   Hundreds of millions of people live in or near forests, and over **1 billion people** rely on them for food, fuel, and livelihoods
+-   Contribute to human well-being, including **clean water, air quality, and disease regulation**
+-   Important source of **medicines and bioactive compounds** used in modern and traditional healthcare
 :::
 
 ::: {.column width="50%"}
+![General categories of forest ecosystem services following the classification of the Millennium Assessment, with examples. Kramer et al. 2022](https://www.researchgate.net/profile/Rasoul-Yousefpour/publication/358012020/figure/fig1/AS:1115843924631552@1643049331077/General-categories-of-forest-ecosystem-services-following-the-classification-of-the.jpg)
 :::
 :::::
 
@@ -989,52 +989,85 @@ Two common lake types
 -   Forests are most threatened by:
     -   Unsustainable cutting and burning of vegetation
     -   The effects of climate change
+        -   (changing fire regimes)
 :::
 
 ::: {.column width="50%"}
+![Using Landsat imagery and cloud computing, researchers mapped forest cover worldwide as well as forest loss and gain. Over 12 years, 888,000 square miles of forest were lost, and 309,000 square miles regrew. NASA Goddard, based on data from Hansen et al., 2013.](https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1000w,f_auto,q_auto:best/streams/2013/November/131114/2D9680201-131114-science-forestmap2.png)
 :::
 :::::
 
-## Forests Vary in Age and Composition
+## Ecological Succession in Forests
 
 ::::: columns
 ::: {.column width="50%"}
-**Old-growth forest, or primary forest** - An uncut or regrown forest that has not been seriously disturbed by human activities or natural disasters for 200 years or more. - Reservoirs of biodiversity because they provide ecological niches for many wildlife species.
-
-**Second-growth forest** - A stand of trees resulting from secondary ecological succession. - Develops after trees in an area have been removed by human activities such as clear-cutting for timber or conversion to cropland, or by natural forces such as fires and hurricanes.
+-   [ecological succession]{.keyword}: gradual change in species composition over time after disturbance
+-   [primary succession]{.keyword}: begins on bare substrate (e.g., after glaciation or volcanic activity)
+-   [secondary succession]{.keyword}: recovery after disturbance with soil remaining (e.g., fire, logging)
+-   Early stages dominated by fast-growing species; later stages by long-lived, shade-tolerant species
+-   Leads to more complex structure and increased biodiversity over time
 :::
 
 ::: {.column width="50%"}
+![Wikimedia commons.](images/clipboard-2653751642.png){width="1025"}
 :::
 :::::
 
-## Tree Plantation
+## Forest Age and Successional Stages
+
+::::: columns
+::: {.column width="50%"}
+-   [old-growth forest]{.keyword} (primary forest): little or no major disturbance for long periods (\~200+ years)
+
+-   Structurally complex with large, old trees, multiple layers, and high habitat diversity
+
+-   Acts as a reservoir of [biodiversity]{.keyword}, supporting many specialized species
+
+-   [second-growth forest]{.keyword}: regrows after disturbance through [secondary succession]{.keyword}
+
+-   Develops following logging, agriculture, fire, or storms
+
+-   Typically younger, less structurally complex, and lower biodiversity than old-growth forests
+:::
+
+::: {.column width="50%"}
+![Examples of old-growth forests (left) and second growth forests (right) in Redwood National Park. U.S. National Park Service.](https://www.nps.gov/redw/learn/nature/images/old-growth-vs-2nd-growth-2x.jpg?maxwidth=1300&autorotate=false&quality=78&format=webp){width="1167"}
+:::
+:::::
+
+## [Tree Plantation]{.keyword}
 
 ::::: columns
 ::: {.column width="50%"}
 -   A managed forest that contains only one or two species of trees that are all the same age.
 -   Also known as a tree farm or commercial forest.
 -   Old-growth or second-growth forests are often cleared for timber and replaced by tree plantations.
--   Trees grown in plantations are usually harvested by clear-cutting as soon as they become commercially valuable.
--   The land is then replanted and clear-cut again in a regular cycle.
+-   Trees grown in plantations are usually harvested by clear-cutting as soon as they become commercially valuable. Land is then replanted and clear-cut again in a regular cycle.
+-   Some limited ecological benefit for some species. Most forest specialists will not live here.
+-   Lower biodiversity and ecosystem services than natural forest
 :::
 
 ::: {.column width="50%"}
+![Industrial acacia plantation for pulp production. Mongabay.](https://s3.amazonaws.com/mongabay/sabah/600/sabah_1135.jpg)
 :::
 :::::
 
-## There Are Several Ways to Harvest Trees
+## Tree Harvest Strategies
 
 ::::: columns
 ::: {.column width="50%"}
-**Selective cutting** - Intermediate-aged or mature trees are cut singly or in small groups.
-
-**Clear cutting** - All trees are removed from a geographic area. - Most efficient and least costly but harms ecosystems.
-
-**Shelterwood cutting** - Trees are removed in sections. - Seed-bearing trees are left so the area will regenerate.
+-   Harvest methods vary in **intensity and ecological impact**
+-   [selective cutting]{.keyword}: removes individual or small groups of trees
+    -   Lower impact; maintains forest structure and biodiversity
+-   [shelterwood cutting]{.keyword}: removes trees in stages
+    -   Balances timber harvest with natural regeneration
+-   [clear-cutting]{.keyword}: removes all trees from an area
+    -   Most efficient, but causes high habitat loss and ecosystem disturbance
+-   More info
 :::
 
 ::: {.column width="50%"}
+![Three Distinct Logging Methods. [Source](https://canadasforestindustry.weebly.com/)](https://canadasforestindustry.weebly.com/uploads/4/6/0/0/46008539/5040999_orig.png)
 :::
 :::::
 
@@ -1042,14 +1075,18 @@ Two common lake types
 
 ::::: columns
 ::: {.column width="50%"}
--   Fires can affect ecosystems.
+-   Fire can **release nutrients, reduce fuel buildup, and stimulate regeneration**
+-   Severe fires can **remove vegetation, increase erosion, and alter succession pathways**
+-   Types of fires
+    -   [ground fires]{.keyword}: burn organic material below the surface (roots, peat). Slow-moving, difficult to detect and extinguish
 
-**Surface fires** - Usually burn only undergrowth and leaf litter on the forest floor. - Burn away flammable material, free valuable nutrients, release seeds and stimulate germination, and help control destructive insects and tree diseases.
+    -   [surface fires]{.keyword}: burn leaf litter and low vegetation. Often low intensity; can recycle nutrients and maintain ecosystem health
 
-**Crown fires** - Extremely hot fires that leap from treetop to treetop. - Destroy most vegetation, kill wildlife, and increase topsoil erosion.
+    -   [crown fires]{.keyword}: burn through tree canopies. High intensity; spread rapidly and cause severe ecosystem damage
 :::
 
 ::: {.column width="50%"}
+![Credit: [x.com/\@ONforestfires](https://x.com/ONforestfires/status/1102634466831409153)](images/clipboard-3125008650.png)
 :::
 :::::
 
