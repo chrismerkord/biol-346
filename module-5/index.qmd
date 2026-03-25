@@ -1090,126 +1090,108 @@ Two common lake types
 :::
 :::::
 
-## Half of the World’s Old-Growth Forests Have Been Cut Down
+## Deforestation and Loss of Intact Forests
 
 ::::: columns
 ::: {.column width="50%"}
-**Deforestation** - Removal of large areas of forest for human use. - Eliminated almost half of the earth’s old-growth forests.
-
--   If current deforestation rates continue, 40% of the world’s remaining intact forests will be logged or converted.
-
--   Leads to severe erosion and loss of topsoil.
+-   [deforestation]{.keyword}: large-scale removal of forests for agriculture, grazing, and development
+-   [intact forest landscapes]{.keyword}: large, continuous areas of natural forest with **minimal human disturbance**
+-   Since 2000, about **12% of intact forest landscapes have been lost globally**
+-   Loss is concentrated in tropical regions and parts of the boreal zone
+-   Reduces [biodiversity]{.keyword}, carbon storage, and increases erosion and watershed degradation
 :::
 
 ::: {.column width="50%"}
+![Global distribution of intact forest landscapes (green) and areas of forest loss or disturbance (yellow–red), highlighting large remaining intact regions in the Amazon, Congo Basin, and boreal forests, alongside increasing fragmentation. Source: Intact Forest Landscapes, <https://intactforests.org/> ([interactive map](https://glad.earthengine.app/view/intact-forests)).](images/clipboard-1360929059.png){fig-alt="World map showing intact forest landscapes in green and areas of forest loss or disturbance in yellow to red, with large intact regions in the Amazon, central Africa, and northern boreal forests."}
 :::
 :::::
 
-## Many Cleared Forests in the United States Have Grown Back
+## Case Study: Forest Disturbance in the Brazilian Legal Amazon
 
 ::::: columns
 ::: {.column width="50%"}
--   Forests cover about 30% of the United States.
-
-    -   Habitat for more than 80% of wildlife species.
-    -   Contains about two-thirds of the nation’s surface water.
-
--   In 1620, forests covered more than half of the current land area of the continental United States.
-
--   By 1920, most of these forests had been decimated.
-
--   In 2006, secondary and commercial forests covered about a third of U.S. land in the lower 48 states.
-
--   Many old-growth forests cleared between 1620 and 1920 have grown back naturally.
+-   From 2000–2013, the main driver of forest loss was **agroindustrial clearing for pasture** (\~63% of total loss)
+-   Other drivers included **small-scale clearing** (\~12%) and **cropland expansion** (\~9%)
+-   By 2013, disturbance in nonprimary forests plus fire and logging made up \~53% of total loss, rivaling primary-forest deforestation
+-   Fire disturbance peaked in 2005, 2007, and 2010 during major droughts
+-   Focusing only on primary deforestation misses a growing share of forest degradation and carbon loss
 :::
 
 ::: {.column width="50%"}
+![Tree cover loss in the Brazilian Legal Amazon from 2000–2013, grouped by forest type and disturbance driver. Primary forests experienced the greatest total loss, mostly from agroindustrial clearing for pasture, with smaller contributions from cropland conversion, small-scale clearing, fire, and selective logging. Source: [Tyukavina *et al.* 2017, *Science Advances*](https://doi.org/10.1126/sciadv.1601047) (Fig. 1).](https://www.science.org/cms/10.1126/sciadv.1601047/asset/e3ff993f-b510-417d-83b3-01f0b3599918/assets/graphic/1601047-f1.jpeg){fig-alt="Stacked bar chart comparing 2000–2013 tree cover loss across primary forests, secondary forests, natural woodlands, secondary woodlands, and plantations in the Brazilian Legal Amazon. Loss in primary forests is largest and is dominated by clearing for pasture, with additional contributions from cropland conversion, small-scale clearing, fire, and selective logging." fig-align="center" width="50%"}
+:::
+:::::
+
+## Case Study: Forest Loss and Regrowth in the United States
+
+::::: columns
+::: {.column width="50%"}
+-   Since 1600, much of the eastern U.S. was cleared for **agriculture, timber, and settlement**
+-   Forest cover declined sharply by the early 1900s, with most original forests removed or fragmented
+-   Since then, forest cover has **partially recovered** as agriculture shifted west and land was abandoned
+-   Today, many U.S. forests are **second-growth or managed forests**, not original old-growth systems
+-   Regrowth has restored tree cover, but forests often differ in **structure, biodiversity, and ecological function**
+:::
+
+::: {.column width="50%"}
+![Changes in land cover across the United States from 1630 to 2020, showing widespread forest clearing for agriculture and development followed by partial forest regrowth, primarily as secondary forests. Sources: [Newsweek](https://www.newsweek.com/america-forests-change-over-time-2041291) and Earth System Science Data.](images/clipboard-70058470.png){fig-alt="Series of maps of the United States from 1630 to 2020 showing land cover change, with forests declining over time due to agriculture and urbanization, followed by partial regrowth of forests in some regions, especially in the eastern U.S." fig-align="center" width="80%"}
 :::
 :::::
 
 ## Strategies for Sustaining Terrestrial Biodiversity
 
-::::: columns
-::: {.column width="50%"}
 Some strategies include:
 
--   Protecting species from extinction
--   Establishing protected wilderness areas, parks, and nature reserves
--   Identifying and protecting biodiversity hotspots
--   Avoiding the destruction of forests and grasslands
--   Rehabilitating and partially restoring damaged ecosystems
-:::
-
-::: {.column width="50%"}
-:::
-:::::
+-   Protect [species]{.keyword} and prevent extinctions through conservation and management
+-   Expand and connect [protected areas]{.keyword} (parks, reserves, wildlife corridors)
+-   Identify and prioritize [biodiversity hotspots]{.keyword} for conservation
+-   Reduce habitat loss by limiting deforestation, grassland conversion, and fragmentation
+-   Restore degraded ecosystems through [ecological restoration]{.keyword} and rehabilitation
 
 ## Protecting Global Biodiversity Hotspots Is an Urgent Priority
 
 ::::: columns
 ::: {.column width="50%"}
--   Take emergency measures to rapidly protect terrestrial biodiversity hotspots.
+## Protecting Biodiversity Hotspots
 
--   These areas cover little more than 2% of the earth’s surface but contain most of the world’s flowering plants and terrestrial vertebrates.
-
--   Only about 5% of hotspot areas are currently protected with government funding and law enforcement.
+-   [biodiversity hotspots]{.keyword}: regions with high species richness and high levels of endemism under threat
+-   Cover only \~2–3% of Earth’s land surface but contain a large share of global plant and vertebrate diversity
+-   Many hotspots face intense pressure from habitat loss and human development
+-   A relatively small proportion is effectively protected and managed
+-   Targeted conservation in hotspots can protect a disproportionate share of global biodiversity
 :::
 
 ::: {.column width="50%"}
+![Global map of biodiversity hotspots identified by Conservation International, highlighting regions with exceptionally high endemism that are under severe threat from habitat loss. Image by Conservation International, 2014, via Wikimedia Commons (CC BY-SA 4.0).](https://upload.wikimedia.org/wikipedia/commons/d/d9/Biodiversity_Hotspots_Map.jpg){fig-alt="World map highlighting major biodiversity hotspots, with shaded regions across tropical forests, Mediterranean climates, and island regions where exceptionally high numbers of endemic plant and animal species occur but are threatened by habitat loss."}
 :::
 :::::
 
-## We Can Rehabilitate and Partially Restore Ecosystems That We Have Damaged
+## Restoring and Rebuilding Ecosystems
 
-::::: columns
-::: {.column width="50%"}
-Repair ecosystem damage and enhance ecological succession by:
+-   Repair ecosystem damage and support [ecological succession]{.keyword} through different approaches
 
--   **Ecological restoration**
-    -   Returning degraded habitats and ecosystems as close as possible to their natural state.
--   **Rehabilitation**
-    -   Improving ecosystems without trying to restore their original condition.
--   **Replacement**
-    -   Replacing degraded ecosystems with productive systems such as pastureland.
--   **Creating artificial ecosystems**
-:::
+    -   [ecological restoration]{.keyword}: return ecosystems as close as possible to their original state
 
-::: {.column width="50%"}
-:::
-:::::
+    -   [rehabilitation]{.keyword}: improve ecosystem function without fully restoring original conditions
+
+    -   [replacement]{.keyword}: convert degraded systems into productive uses (e.g., pasture or managed forest)
+
+    -   [artificial ecosystems]{.keyword}: create human-designed systems to provide specific ecosystem services
+
+-   These approaches vary in how much **biodiversity and ecosystem function** they recover
 
 ## Human Activities Are Threatening Aquatic Biodiversity
 
 ::::: columns
 ::: {.column width="50%"}
--   Human activities have destroyed or degraded large portions of coastal wetlands, coral reefs, mangroves, and even the ocean floor.
--   Freshwater ecosystems have also been disrupted.
--   Sea-bottom habitats are degraded by dredging operations and trawler fishing boats.
--   Trawler boats drag large weighted nets across the ocean floor to harvest a few species of bottom fish and shellfish.
+-   Human activities have degraded [aquatic ecosystems]{.keyword}, including wetlands, coral reefs, mangroves, and the ocean floor
+-   [freshwater systems]{.keyword} are altered by dams, water withdrawal, pollution, and land use change
+-   [bottom trawling]{.keyword} damages seafloor habitats by dragging heavy nets across the ocean floor
+-   Coastal development, pollution, and climate change are major drivers of aquatic biodiversity loss
 :::
 
 ::: {.column width="50%"}
-:::
-:::::
-
-## Ocean Acidification
-
-::::: columns
-::: {.column width="50%"}
--   Oceans absorb about one-fourth of the excess CO₂ released by human activities.
-
--   When CO₂ dissolves in seawater, it forms carbonic acid (H₂CO₃) and releases hydrogen ions (H⁺).
-
--   This decreases pH and makes ocean water more acidic.
-
--   Ocean pH varies across regions.
-
--   Upwelling of deeper CO₂-rich waters may contribute to low pH in some regions.
-
--   Marine biologists warn that many species and ecosystems face an uncertain future.
-:::
-
-::: {.column width="50%"}
+![Conceptual drawing of bottom trawling from a fishing boat, showing a net and metal plate being dragged along the seafloor behind a boat on the surface. Sources/Usage: Public Domain.](images/clipboard-1136543371.png){fig-align="center" width="80%"}
 :::
 :::::
 
@@ -1217,37 +1199,31 @@ Repair ecosystem damage and enhance ecological succession by:
 
 ::::: columns
 ::: {.column width="50%"}
--   Increasing hydrogen ion concentration lowers pH and increases acidity.
-
--   This reduces carbonate ions (CO₃²⁻) needed by many marine organisms.
-
--   Many species use carbonate ions to build calcium carbonate (CaCO₃) shells and skeletons.
-
--   These include:
-
-    -   Phytoplankton
-    -   Corals
-    -   Sea snails
-    -   Crabs
-    -   Oysters
-
--   Acidic water slows shell growth and may dissolve shells and coral structures.
+-   Oceans absorb about **25% of human CO₂ emissions**
+-   Dissolved CO₂ forms carbonic acid, releasing hydrogen ions (H⁺)
+-   Increased H⁺ lowers [pH]{.keyword}, making seawater more acidic
+-   Ocean chemistry varies regionally, with lower pH in some upwelling areas
+-   Ongoing acidification is a major threat to marine ecosystems
 :::
 
 ::: {.column width="50%"}
+![](https://cdn.britannica.com/82/152182-050-719F9121/state-diagram-carbonates-conditions-oceans-2100.jpg)
 :::
 :::::
 
-## The Effects of Ocean Acidification
+## Ocean Acidification Impacts
 
 ::::: columns
 ::: {.column width="50%"}
--   Ocean acidification affects many marine taxonomic groups.
--   Effects can include positive or negative changes in growth, survival, and reproduction.
--   Many organisms show declines under increased acidity.
+-   Acidification reduces [carbonate ions]{.keyword} (CO₃²⁻) needed for shell formation
+-   Many organisms rely on [calcium carbonate]{.keyword} (CaCO₃) for shells and skeletons
+-   Affected groups include corals, shellfish, and some plankton
+-   Lower carbonate availability slows growth and weakens structures
+-   In more acidic conditions, shells and coral reefs may begin to dissolve
 :::
 
 ::: {.column width="50%"}
+![](images/clipboard-3899619533.png)
 :::
 :::::
 
@@ -1265,6 +1241,7 @@ Repair ecosystem damage and enhance ecological succession by:
 :::
 
 ::: {.column width="50%"}
+![A diver preparing to spear a lionfish beneath a decommissioned oil rig in the Gulf. Texas Monthly, courtesy of Hanna Bauer/TPWD.](images/clipboard-3782901387.png)
 :::
 :::::
 
@@ -1285,6 +1262,7 @@ Repair ecosystem damage and enhance ecological succession by:
 :::
 
 ::: {.column width="50%"}
+![https://dkiapcss.edu/policy-recommendations-for-combatting-overfishing-and-fisheries-crime/](images/clipboard-3929809094.png)
 :::
 :::::
 
@@ -1305,6 +1283,7 @@ Repair ecosystem damage and enhance ecological succession by:
 :::
 
 ::: {.column width="50%"}
+![Northwest Atlantic cod stocks were severely overfished in the 1970s and 1980s, leading to their abrupt collapse in 1992. By Lamiot - Own work, CC BY-SA 3.0.](images/clipboard-637975748.png)
 :::
 :::::
 
@@ -1330,21 +1309,6 @@ Repair ecosystem damage and enhance ecological succession by:
 :::
 :::::
 
-## Fish Prints: Similar in Nature to Ecological Footprints
-
-::::: columns
-::: {.column width="50%"}
--   A **fish print** is the ocean area required to sustain fish consumption for a person, nation, or the world.
-
--   Overfishing has caused the collapse of some fisheries.
-
--   Loss of predators allows invasive species to disrupt marine food webs.
-:::
-
-::: {.column width="50%"}
-:::
-:::::
-
 ## Case Study: Upsetting Marine Ecosystems—Jellyfish Invasions
 
 ::::: columns
@@ -1360,6 +1324,7 @@ Repair ecosystem damage and enhance ecological succession by:
 :::
 
 ::: {.column width="50%"}
+![Examples of modern-day jellyfish that regularly form blooms. Photographs: www.seacology.co.nz.](https://www.researchgate.net/profile/Cathy-Lucas-3/publication/313311351/figure/fig1/AS:461313165008897@1486997037489/Examples-of-modern-day-jellyfish-that-regularly-form-blooms-a-Nemopilema-nomurai.png)
 :::
 :::::
 
@@ -1372,29 +1337,29 @@ Repair ecosystem damage and enhance ecological succession by:
     -   Managing coastal development
     -   Reducing water pollution
     -   Preventing overfishing
+:::
+
+::: {.column width="50%"}
 -   Protection is difficult because:
     -   Fish prints and ecological footprints are expanding
     -   Ocean damage is often not visible
     -   The ocean is often viewed as an inexhaustible resource
     -   Much of the ocean lies outside national jurisdiction
 :::
-
-::: {.column width="50%"}
-:::
 :::::
 
-## Taking an Ecosystem Approach to Sustaining Aquatic Biodiversity
+## Sustaining Aquatic Biodiversity: An Ecosystem Approach
 
 ::::: columns
 ::: {.column width="50%"}
-Some proposals include:
+Key strategies:
 
--   Mapping global aquatic biodiversity
--   Identifying aquatic biodiversity hotspots
--   Creating large fully protected marine reserves
--   Restoring damaged coral reefs
--   Initiating global ecological restoration projects
--   Reducing poverty in communities near protected waters
+- Map and monitor [aquatic biodiversity]{.keyword} to identify priority areas  
+- Protect [biodiversity hotspots]{.keyword} and expand marine protected areas  
+- Establish large, fully protected [marine reserves]{.keyword} to support recovery  
+- Restore degraded ecosystems (e.g., coral reefs, wetlands) through [ecological restoration]{.keyword}  
+- Reduce overfishing, pollution, and habitat destruction  
+- Support sustainable livelihoods to reduce pressure on aquatic ecosystems  
 :::
 
 ::: {.column width="50%"}
