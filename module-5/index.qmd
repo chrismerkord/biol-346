@@ -1148,12 +1148,10 @@ Some strategies include:
 -   Reduce habitat loss by limiting deforestation, grassland conversion, and fragmentation
 -   Restore degraded ecosystems through [ecological restoration]{.keyword} and rehabilitation
 
-## Protecting Global Biodiversity Hotspots Is an Urgent Priority
+## Protecting Biodiversity Hotspots
 
 ::::: columns
 ::: {.column width="50%"}
-## Protecting Biodiversity Hotspots
-
 -   [biodiversity hotspots]{.keyword}: regions with high species richness and high levels of endemism under threat
 -   Cover only \~2–3% of Earth’s land surface but contain a large share of global plant and vertebrate diversity
 -   Many hotspots face intense pressure from habitat loss and human development
