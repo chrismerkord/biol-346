@@ -614,7 +614,7 @@ Two common lake types
 :::
 
 ::: {.column width="50%"}
-![Global map of biodiversity hotspots identified by Conservation International, highlighting regions with exceptionally high endemism that are under severe threat from habitat loss. Image by Conservation International, 2014, via Wikimedia Commons (CC BY-SA 4.0).](https://upload.wikimedia.org/wikipedia/commons/d/d9/Biodiversity_Hotspots_Map.jpg){fig-alt="World map highlighting major biodiversity hotspots, with shaded regions across tropical forests, Mediterranean climates, and island regions where exceptionally high numbers of endemic plant and animal species occur but are threatened by habitat loss."}
+![Global map of biodiversity hotspots identified by Conservation International, highlighting regions with exceptionally high endemism that are under severe threat from habitat loss. Image: Conservation International, 2014, via Wikimedia Commons (CC BY-SA 4.0).](images/biodiversity-hotspots-map.jpg){fig-alt="World map highlighting major biodiversity hotspots, with shaded regions across tropical forests, Mediterranean climates, and island regions where exceptionally high numbers of endemic plant and animal species occur but are threatened by habitat loss."}
 :::
 :::::
 
@@ -1162,7 +1162,7 @@ Some strategies include:
 :::
 
 ::: {.column width="50%"}
-![Global map of biodiversity hotspots identified by Conservation International, highlighting regions with exceptionally high endemism that are under severe threat from habitat loss. Image by Conservation International, 2014, via Wikimedia Commons (CC BY-SA 4.0).](https://upload.wikimedia.org/wikipedia/commons/d/d9/Biodiversity_Hotspots_Map.jpg){fig-alt="World map highlighting major biodiversity hotspots, with shaded regions across tropical forests, Mediterranean climates, and island regions where exceptionally high numbers of endemic plant and animal species occur but are threatened by habitat loss."}
+![Global map of biodiversity hotspots identified by Conservation International, highlighting regions with exceptionally high endemism that are under severe threat from habitat loss. Image: Conservation International, 2014, via Wikimedia Commons (CC BY-SA 4.0).](images/biodiversity-hotspots-map.jpg){fig-alt="World map highlighting major biodiversity hotspots, with shaded regions across tropical forests, Mediterranean climates, and island regions where exceptionally high numbers of endemic plant and animal species occur but are threatened by habitat loss."}
 :::
 :::::
 
