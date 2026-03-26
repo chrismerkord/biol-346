@@ -1343,18 +1343,11 @@ Some strategies include:
 
 ## Sustaining Aquatic Biodiversity: An Ecosystem Approach
 
-::::: columns
-::: {.column width="50%"}
 Key strategies:
 
-- Map and monitor [aquatic biodiversity]{.keyword} to identify priority areas  
-- Protect [biodiversity hotspots]{.keyword} and expand marine protected areas  
-- Establish large, fully protected [marine reserves]{.keyword} to support recovery  
-- Restore degraded ecosystems (e.g., coral reefs, wetlands) through [ecological restoration]{.keyword}  
-- Reduce overfishing, pollution, and habitat destruction  
-- Support sustainable livelihoods to reduce pressure on aquatic ecosystems  
-:::
-
-::: {.column width="50%"}
-:::
-:::::
+-   Map and monitor aquatic biodiversity to identify priority areas
+-   Protect biodiversity hotspots and expand marine protected areas
+-   Establish large, fully protected marine reserves to support recovery
+-   Restore degraded ecosystems (e.g., coral reefs, wetlands) through ecological restoration
+-   Reduce overfishing, pollution, and habitat destruction
+-   Support sustainable livelihoods to reduce pressure on aquatic ecosystems
