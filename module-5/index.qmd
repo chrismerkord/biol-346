@@ -1167,15 +1167,10 @@ Some strategies include:
 ## Restoring and Rebuilding Ecosystems
 
 -   Repair ecosystem damage and support [ecological succession]{.keyword} through different approaches
-
     -   [ecological restoration]{.keyword}: return ecosystems as close as possible to their original state
-
     -   [rehabilitation]{.keyword}: improve ecosystem function without fully restoring original conditions
-
     -   [replacement]{.keyword}: convert degraded systems into productive uses (e.g., pasture or managed forest)
-
     -   [artificial ecosystems]{.keyword}: create human-designed systems to provide specific ecosystem services
-
 -   These approaches vary in how much **biodiversity and ecosystem function** they recover
 
 ## Human Activities Are Threatening Aquatic Biodiversity
