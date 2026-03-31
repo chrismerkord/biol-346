@@ -163,23 +163,23 @@ The course grade will be calculated using a point system with points assigned as
 
 | Item       | Points  |
 |------------|---------|
-| Exam 1     | 100     |
-| Exam 2     | 100     |
-| Exam 3     | 100     |
-| Final Exam | 100     |
-| Activity 1 | 50      |
-| Activity 2 | 50      |
-| Activity 3 | 50      |
-| Activity 4 | 100     |
+| Exam 1     | 125     |
+| Exam 2     | 125     |
+| Final Exam | 150     |
+| Activity 1 | 65      |
+| Activity 2 | 65      |
+| Activity 3 | 120     |
 | **Total**  | **650** |
 
-[Exams]{.underline}: There will be three exams and a final exam. Exams will cover material from the lectures and the textbook. Exam 1 will cover the first quarter of the course, Exam 2 will cover the second qaurter of the course, and Exam 3 will cover the third quarter of the course. The Final Exam will be cumulative, covering everything in the course. Exams will be given during class using scantron answer sheets and written short answers. Each exam will consist of multiple choice, short answer, matching, or similar types of questions. You are encouraged to work together in small groups to find the answers. If there is disagreement within your group on the answer to a question, you are not required to give the same answer as your collaborators. During the exam you are allowed to use one sheet of written notes. You may write on both sides, but everything must be handwritten. You are not allowed to use any internet-connected app including a web browser or mobile app to conduct internet searches or use AI chatbots.
+[Exams]{.underline}: There will be two exams and a final exam. Exams will cover material from the lectures and the textbook. Exam 1 will cover the first third of the course, Exam 2 will cover the second third of the course, and the Final Exam will cover the third quarter of the course. The Final Exam will include a small number of questions related to cross-cutting themes earlier modules. Exams will be given during class using scantron answer sheets and written short answers. Each exam will consist of multiple choice, short answer, matching, or similar types of questions. You are encouraged to work together in small groups to find the answers. If there is disagreement within your group on the answer to a question, you are not required to give the same answer as your collaborators. During the exam you are allowed to use one sheet of written notes. You may write on both sides, but everything must be handwritten. You are not allowed to use any internet-connected app including a web browser or mobile app to conduct internet searches or use AI chatbots.
 
-Extra credit will be awarded based on improvement from one exam to the next. For example, if you score higher on Exam 2 than Exam 1, you will earn extra credit on Exam 2.
+To reward improvement across the semester, students may earn bonus course points based on improvement from Exam 1 to Exam 2 and from Exam 2 to Exam 3. For each transition, the bonus equals one-half of the number of points improved on the later exam, based on the original exam scores before any minimum-grade adjustment is applied. The total improvement bonus is capped at 32.5 course points.
 
 [Activities]{.underline}: These will be writing or other active learning activities, submitted via D2L. Deadlines and instructions will be posted on D2L.
 
 [Bonus points]{.underline}: I reserve the right to award bonus points for meritorious conduct during the course, including but not limited to active participation during lectures.
+
+[Minimum grade]{.underline}: This course uses a minimum grade of 50% for all graded assignments. This prevents a single missing or incomplete assignment (recorded as a zero) from disproportionately lowering your overall grade and making it mathematically difficult to recover. The policy is intended to ensure that final grades more accurately reflect your understanding of the material over time, while still holding you accountable for completing assigned work.
 
 ## University Policies
 
