@@ -206,53 +206,102 @@ Source: <https://www.ers.usda.gov/data-products/charts-of-note/chart-detail?char
 
 ## The Green Revolution created new environmental and social challenges
 
+::::: columns
+::: {.column width="50%"}
 -   Increased dependence on water, fertilizers, and pesticides
 -   Environmental degradation (soil, water, biodiversity)
 -   Benefits unevenly distributed across regions
 -   Yield growth is slowing in many areas
 -   Raises questions about long-term sustainability
+:::
+
+::: {.column width="50%"}
+![Environmental impacts of the green revolution. From Yilmaz and Yilmaz (2025).](images/clipboard-1844514540.png)
+:::
+:::::
 
 # Environmental Costs of Food Production
 
 ## Agriculture has a large environmental footprint
 
+::::: columns
+::: {.column width="50%"}
 -   Uses \~70% of global freshwater withdrawals
 -   Occupies a large proportion of ice-free land
 -   Requires significant [energy]{.keyword} inputs for production and transport
 -   Contributes to greenhouse gas emissions
 -   Major driver of environmental change globally
+:::
+
+::: {.column width="50%"}
+![](images/clipboard-204615339.png)
+:::
+:::::
 
 ## Soil erosion removes critical resources for agriculture
 
+::::: columns
+::: {.column width="50%"}
 -   [Topsoil]{.keyword}: nutrient-rich upper layer essential for plant growth
 -   Erosion removes nutrients and organic matter
 -   Caused by plowing, deforestation, overgrazing
 -   Reduces crop productivity over time
 -   Soil formation is much slower than soil loss
+:::
+
+::: {.column width="50%"}
+![Image: Farm News.](images/clipboard-681019392.png)
+:::
+:::::
 
 ## Desertification degrades productive land into arid systems
 
+::::: columns
+::: {.column width="50%"}
 -   [Desertification]{.keyword}: transformation of fertile land into desert-like conditions
 -   Driven by overgrazing, deforestation, and climate change
 -   Reduces soil productivity and water retention
 -   Common in dryland regions
 -   Leads to displacement of human populations
+:::
+
+::: {.column width="50%"}
+![](images/clipboard-2244373916.png)
+:::
+:::::
 
 ## Irrigation boosts yields but can degrade soil and water systems
 
+::::: columns
+::: {.column width="50%"}
 -   [Irrigation]{.keyword}: artificial addition of water to crops
 -   Enables agriculture in dry regions
 -   Leads to [salinization]{.keyword}: salt buildup in soils
 -   Depletes groundwater resources
 -   Alters natural water cycles and availability
+:::
+
+::: {.column width="50%"}
+
+![](images/clipboard-326635567.png)
+:::
+:::::
 
 ## Agriculture contributes to water pollution
 
+::::: columns
+::: {.column width="50%"}
 -   Fertilizer runoff introduces excess nitrogen and phosphorus
 -   Causes [eutrophication]{.keyword}: nutrient enrichment of water bodies
 -   Leads to algal blooms and oxygen depletion (dead zones)
 -   Pesticides contaminate surface and groundwater
 -   Pollution affects ecosystems and drinking water supplies
+:::
+
+::: {.column width="50%"}
+![Image: Felix Andrews.](images/clipboard-1938123780.png){width="525"}
+:::
+:::::
 
 ## Agriculture drives biodiversity loss at multiple levels
 
