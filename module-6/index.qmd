@@ -282,7 +282,6 @@ Source: <https://www.ers.usda.gov/data-products/charts-of-note/chart-detail?char
 :::
 
 ::: {.column width="50%"}
-
 ![](images/clipboard-326635567.png)
 :::
 :::::
@@ -305,69 +304,140 @@ Source: <https://www.ers.usda.gov/data-products/charts-of-note/chart-detail?char
 
 ## Agriculture drives biodiversity loss at multiple levels
 
--   Conversion of natural habitats to farmland
+::::: columns
+::: {.column width="50%"}
+-   **Conversion of natural habitats to farmland**
 -   Monocultures reduce species diversity
 -   Loss of [agrobiodiversity]{.keyword}: diversity within agricultural systems
 -   Decline of pollinators and beneficial species
 -   Reduced ecosystem resilience and stability
+:::
+
+::: {.column width="50%"}
+![Conceptual diagram showing how food system drivers increase production pressure, leading to intensification, ecological impacts, ecosystem degradation, and reduced food system resilience and human well-being. Source: Benton et al. (2021), *Food system impacts on biodiversity loss*. UNEP, Chatham House.](images/food-system-impacts-on-biodiversity.png){fig-alt="Flow diagram showing links from food system drivers (population growth, processed food consumption, technology, food waste) to increased pressure on production, intensification practices (monoculture, fertilizer use, land clearing), resulting ecological impacts (genetic erosion, species extinction, pollution, greenhouse gases), leading to degraded ecosystems, reduced food diversity and resilience, lower productivity, and negative impacts on human health and the economy." fig-align="center" width="1066"}
+:::
+:::::
 
 ## Meat production has high environmental costs per calorie
 
+::::: columns
+::: {.column width="50%"}
 -   Requires large inputs of feed, land, and water
 -   Produces methane and other greenhouse gases
 -   [CAFOs]{.keyword}: concentrated animal feeding operations
 -   Generate large amounts of waste and pollution
 -   Less efficient than plant-based food production
+    -   CO2 emissions from most plant based products are 1050 times lower than most animal based products
+:::
+
+::: {.column width="50%"}
+![](images/food-emissions-supply-chain.png){width="788"}
+:::
+:::::
 
 # Pests, Pesticides, and Biotechnology
 
 ## Pests reduce agricultural productivity and require management
 
+:::::: columns
+::: {.column width="50%"}
 -   [Pests]{.keyword}: organisms that damage crops or reduce yield
 -   Include insects, weeds, fungi, and pathogens
 -   Can significantly reduce food production
 -   Management is essential for stable yields
 -   Definitions depend on human goals and context
+:::
+
+:::: {.column width="50%"}
+::: {#fig-elephants layout-ncol="2"}
+![Brown Marmorated Stink Bug.](images/BMSB%20leaf.jpg){#fig-bmsb}
+
+![Emerald Ash Borer](images/eabinhand.jpg){#fig-eab}
+
+Agricultural pests in Minnesota.
+:::
+::::
+::::::
 
 ## Pesticides provide benefits but carry ecological risks
 
+::::: columns
+::: {.column width="50%"}
 -   [Pesticides]{.keyword}: chemicals used to control pests
 -   Increase crop yields and reduce losses
 -   Can harm non-target organisms (pollinators, predators)
 -   Contaminate soil and water
 -   Pose risks to human health
+:::
+
+::: {.column width="50%"}
+![Muñoz-Bautista et al. 2025](images/clipboard-4101273249.png)
+:::
+:::::
 
 ## Pesticide resistance creates long-term challenges
 
+::::: columns
+::: {.column width="50%"}
 -   Some pests survive pesticide application
 -   Survivors reproduce and pass resistance traits
 -   Leads to [pesticide resistance]{.keyword}
 -   Requires stronger or more frequent chemical use
--   Creates a cycle known as the [pesticide treadmill]{.keyword}
+-   Creates a cycle known as the pesticide treadmill
+:::
+
+::: {.column width="50%"}
+![Pesticide application can artificially select for resistant pests. In this diagram, the first generation happens to have an insect with a heightened resistance to a pesticide (red) After pesticide application, its descendants represent a larger proportion of the population, because sensitive pests (white) have been selectively killed. After repeated applications, resistant pests may comprise the majority of the population. Image: Delidot. GFDL, cc by sa 3.0](images/clipboard-3685865045.png)
+:::
+:::::
 
 ## Persistent organic pollutants accumulate in food webs
 
+::::: columns
+::: {.column width="50%"}
 -   [POPs]{.keyword}: long-lasting, toxic chemicals (e.g., DDT)
 -   Persist in environment for years or decades
 -   [Bioaccumulation]{.keyword}: buildup in individual organisms
 -   [Biomagnification]{.keyword}: increasing concentration up food chains
 -   Linked to health and ecological impacts
+:::
+
+::: {.column width="50%"}
+![Type and categories of POPs. Boulkhessaim et al. 2022](images/nanomaterials-12-02148-g001.png){fig-align="center"}
+:::
+:::::
 
 ## Biotechnology allows targeted changes to crop traits
 
+::::: columns
+::: {.column width="50%"}
 -   [Biotechnology]{.keyword}: use of biological systems to improve crops
 -   Includes traditional breeding and [genetic engineering]{.keyword}
 -   Can introduce specific genes for desired traits
 -   More precise than traditional breeding
 -   Expands tools available for agriculture
+:::
+
+::: {.column width="50%"}
+![](images/clipboard-851597481.png)
+:::
+:::::
 
 ## Genetically engineered crops offer both benefits and limitations
 
+::::: columns
+::: {.column width="50%"}
 -   Can improve pest resistance and reduce pesticide use
 -   May enhance nutritional content (e.g., golden rice)
 -   Limited evidence of increased yield rates
 -   Potential ecological risks (gene flow, resistance)
 -   Require ongoing monitoring and evaluation
+:::
+
+::: {.column width="50%"}
+![](https://elkmoundseed.com/cdn/shop/files/EMS-Remedy_5c372581-f32d-4084-8883-c26fed2ffb1f.png)
+:::
+:::::
 
 # Sustainable Agriculture and Solutions
 
