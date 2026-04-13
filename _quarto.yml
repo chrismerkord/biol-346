@@ -63,3 +63,5 @@ execute:
   echo: false
   warning: false
   message: false
+  cache: true
+  freeze: auto
