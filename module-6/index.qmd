@@ -387,7 +387,7 @@ Agricultural pests in Minnesota.
 :::
 
 ::: {.column width="50%"}
-![Pesticide application can artificially select for resistant pests. In this diagram, the first generation happens to have an insect with a heightened resistance to a pesticide (red) After pesticide application, its descendants represent a larger proportion of the population, because sensitive pests (white) have been selectively killed. After repeated applications, resistant pests may comprise the majority of the population. Image: Delidot. GFDL, cc by sa 3.0](images/clipboard-3685865045.png)
+![Pesticide application can artificially select for resistant pests. In this diagram, the first generation happens to have an insect with a heightened resistance to a pesticide (red) After pesticide application, its descendants represent a larger proportion of the population, because sensitive pests (white) have been selectively killed. After repeated applications, resistant pests may comprise the majority of the population. Image: Delidot. GFDL (CC BY-SA 3.0)](images/clipboard-3685865045.png){fig-align="center" width="669"}
 :::
 :::::
 
@@ -435,7 +435,7 @@ Agricultural pests in Minnesota.
 :::
 
 ::: {.column width="50%"}
-![](https://elkmoundseed.com/cdn/shop/files/EMS-Remedy_5c372581-f32d-4084-8883-c26fed2ffb1f.png)
+![](https://elkmoundseed.com/cdn/shop/files/EMS-Remedy_5c372581-f32d-4084-8883-c26fed2ffb1f.png){#fig-gmo-corn width="800"}
 :::
 :::::
 
@@ -443,51 +443,191 @@ Agricultural pests in Minnesota.
 
 ## Sustainable agriculture balances productivity with environmental health
 
--   [Sustainable agriculture]{.keyword}: long-term, integrated food production system
--   Aims to meet human needs while protecting ecosystems
--   Balances environmental, economic, and social goals
--   Reduces reliance on nonrenewable inputs
--   Focuses on resilience and long-term viability
+::::: columns
+::: {.column width="50%"}
+-   [Sustainable agriculture]{.keyword}: food production that can be maintained long term without degrading natural systems
+-   Meets human food needs while protecting ecosystems
+-   Balances **environmental** quality, **economic** viability, and **social** equity
+-   Reduces reliance on nonrenewable resources and harmful inputs
+-   Emphasizes resilience, efficiency, and long-term productivity
+:::
 
-## Soil conservation practices maintain long-term productivity
+::: {.column width="50%"}
+```{r}
+#| label: fig-sustainable-agriculture-pillars
+#| fig-cap: Three-pillar concept diagram showing sustainable agriculture at the center, supported by environmental protection, social well-being, and economic viability.
+#| fig-alt: Diagram with a central box labeled Sustainable Agriculture connected by inward arrows from three surrounding boxes labeled Environment, Society, and Economy arranged evenly around the center.
+#| fig-width: 8
+#| fig-align: center
 
--   Reduce erosion and nutrient loss
--   Techniques include contour farming, terracing, cover crops
--   Maintain soil structure and fertility
--   Improve water retention
--   Essential for sustainable food systems
+library(DiagrammeR)
+
+grViz("
+digraph sustainable_agriculture {
+
+graph [
+  layout = neato
+  overlap = false
+  splines = line
+  outputorder = edgesfirst
+  bgcolor = transparent
+]
+
+node [
+  shape = rect
+  style = 'rounded,filled'
+  fontname = Helvetica
+  color = '#666666'
+  penwidth = 1.2
+]
+
+edge [
+  color = '#777777'
+  penwidth = 1.2
+  arrowsize = 0.8
+]
+
+center [
+  label = 'Sustainable\\nAgriculture'
+  pos = '0,0!'
+  width = 2.2
+  height = 0.9
+  fillcolor = '#A8D5A2'
+  fontsize = 18
+]
+
+env [
+  label = <
+    <TABLE BORDER='0' CELLBORDER='0' CELLPADDING='2'>
+      <TR><TD><B><FONT POINT-SIZE='18'>Environment</FONT></B></TD></TR>
+      <TR><TD><FONT POINT-SIZE='11'>Soil, water, biodiversity</FONT></TD></TR>
+    </TABLE>
+  >
+  pos = '-2,1.6!'
+  width = 2.2
+  height = 0.9
+  fillcolor = '#DCECCB'
+  fontsize = 14
+]
+
+soc [
+  label = <
+    <TABLE BORDER='0' CELLBORDER='0' CELLPADDING='2'>
+      <TR><TD><B><FONT POINT-SIZE='18'>Society</FONT></B></TD></TR>
+      <TR><TD><FONT POINT-SIZE='11'>Food security, equity, health</FONT></TD></TR>
+    </TABLE>
+  >
+  pos = '2,1.6!'
+  width = 2.2
+  height = 0.9
+  fillcolor = '#DCECCB'
+  fontsize = 14
+]
+
+econ [
+  label = <
+    <TABLE BORDER='0' CELLBORDER='0' CELLPADDING='2'>
+      <TR><TD><B><FONT POINT-SIZE='18'>Economy</FONT></B></TD></TR>
+      <TR><TD><FONT POINT-SIZE='11'>Viability, livelihoods, profit</FONT></TD></TR>
+    </TABLE>
+  >
+  pos = '0,-2!'
+  width = 2.2
+  height = 0.9
+  fillcolor = '#DCECCB'
+  fontsize = 14
+]
+
+env  -> center
+soc  -> center
+econ -> center
+
+}
+")
+```
+:::
+:::::
+
+## Soil conservation improves long-term productivity
+
+::::: columns
+::: {.column width="50%"}
+-   Reduce [soil erosion]{.keyword} and nutrient runoff
+-   Techniques include [buffer strips]{.keyword}, [cover crops]{.keyword}, and [no-till]{.keyword}
+-   [Grass waterways]{.keyword} and wetlands slow runoff and trap sediment
+-   Maintain soil structure, fertility, and soil moisture
+-   Essential for productive and sustainable food systems
+:::
+
+::: {.column width="50%"}
+![Vegetated riparian buffer strip between cropland and a ditch or stream, showing how trees, perennial vegetation, and native grasses reduce erosion, absorb nutrients, filter runoff pollutants, and provide habitat. Source: Minnesota Pollution Control Agency (MPCA).](images/clipboard-1374106073.png){fig-alt="Cross-sectional illustration of cropland bordering a ditch, stream, or river. Between the field and water is a vegetated buffer zone with tall native grasses, flowering plants, shrubs, and trees. Labels indicate that roots stabilize soil and absorb nutrients, grasses prevent erosion and filter pollutants in runoff, and perennial buffers help maintain drainage channels while providing wildlife habitat."}
+:::
+:::::
 
 ## Integrated pest management reduces reliance on chemicals
 
--   [IPM]{.keyword}: combination of biological, cultural, and chemical methods
--   Focuses on managing, not eliminating pests
--   Uses pesticides as a last resort
--   Maintains ecological balance
--   Reduces environmental and health risks
+::::: columns
+::: {.column width="50%"}
+-   [IPM]{.keyword}: combines biological, farming, and chemical control methods
+-   Focuses on managing pests below damaging levels, not eliminating them
+-   Uses pesticides only when needed and in targeted ways
+-   Protects beneficial species such as predators and pollinators
+-   Reduces environmental contamination and human health risks
+:::
 
-## Biological control uses natural predators to manage pests
+::: {.column width="50%"}
+[![First page of an NDSU Extension publication introducing integrated pest management (IPM) in North Dakota agriculture and summarizing major IPM strategies. Source: North Dakota State University Extension.](images/clipboard-2521200949.png){#fig-ipm-flyer fig-alt="Screenshot of the cover and first page of an NDSU Extension fact sheet titled “IPM Basics: Integrated Pest Management in North Dakota Agriculture,” featuring introductory text that defines IPM and outlines pest management strategies such as prevention, monitoring, identification, and economic thresholds." fig-align="center" width="495"}](https://www.ndsu.edu/agriculture/sites/default/files/2023-05/pp863.pdf)
+:::
+:::::
 
--   Introduces or supports natural enemies of pests
--   Examples: ladybugs controlling aphids
--   Reduces need for chemical pesticides
--   Requires understanding of ecological interactions
--   Can have unintended ecological effects
+## [Biological control]{.keyword} uses natural predators to manage pests
+
+::::: columns
+::: {.column width="50%"}
+-   Introduces or supports natural enemies that suppress pest populations
+-   Includes predators, parasitoids, and disease-causing organisms
+-   Minnesota example: parasitoid wasps released to reduce [emerald ash borer]{.keyword} populations
+-   Can reduce reliance on chemical pesticides
+-   Requires ecological knowledge and careful risk assessment
+:::
+
+::: {.column width="50%"}
+![Minnesota Department of Agriculture map showing emerald ash borer (EAB) management zones and biological control release sites in Minnesota. Red outlines indicate quarantine areas, green polygons show generally infested areas, and blue/purple points mark locations where parasitoid wasps have been released to suppress EAB populations and reduce long-term environmental damage. Source: Minnesota Department of Agriculture.](images/clipboard-1954704627.png){#fig-eab-biocontrol-map fig-alt="Map of Minnesota displaying emerald ash borer management areas. Red county-like outlines cover much of the state as quarantine zones, green shaded polygons mark generally infested regions concentrated in southern and eastern Minnesota, and numerous blue and purple points show biological control release sites, especially near the Twin Cities, Rochester, Duluth, and other population centers." fig-align="center" width="549"}
+:::
+:::::
 
 ## Crop rotation and intercropping improve system resilience
 
--   [Crop rotation]{.keyword}: alternating crops to break pest cycles
--   [Intercropping]{.keyword}: growing multiple crops together
--   Increases biodiversity and nutrient cycling
--   Reduces disease and pest outbreaks
--   Mimics natural ecosystem processes
+::::: columns
+::: {.column width="50%"}
+-   [Crop rotation]{.keyword}: changing crops over time to disrupt pests and improve soil fertility
+-   [Intercropping]{.keyword}: growing two or more crops together in the same field
+-   Increase biodiversity and make better use of light, water, and nutrients
+-   Reduce disease, pest outbreaks, and reliance on chemical inputs
+-   Improve stability and resilience compared with monocultures
+:::
+
+::: {.column width="50%"}
+![Comparison of two crop rotation systems in a tropical no-till study: monocrop maize followed by soybean (top) versus maize intercropped with palisade grass followed by soybean (bottom). Intercropping increased plant cover and complementary root systems, which improved the effectiveness of surface liming, soil fertility, and later soybean yields. Bassolani et al. 2020.](images/clipboard-739495650.png){#fig-crop-systems fig-align="center"}
+:::
+:::::
 
 ## Organic and low-input systems reduce environmental impacts
 
--   Avoid synthetic fertilizers and pesticides
--   Enhance soil health and biodiversity
--   Reduce pollution and fossil fuel use
--   Often lower yields but more sustainable long-term
--   Increasing adoption globally
+::::: columns
+::: {.column width="50%"}
+-   [Organic]{.keyword} systems avoid most synthetic fertilizers and pesticides
+-   [Low-input]{.keyword} systems minimize their use
+-   Often improve soil health, biodiversity, and ecosystem services
+-   Can reduce pollution, energy use, and dependence on fossil-fuel-based inputs
+-   Yields may be lower in some systems, but outcomes vary by crop and management
+-   Adoption is increasing as farmers seek more sustainable production methods
+:::
+
+::: {.column width="50%"}
+![](images/clipboard-2650348038.png){fig-alt="Diagram produced with ChatGPT."}
+:::
+:::::
 
 ## Feeding a growing population requires integrated solutions
 
