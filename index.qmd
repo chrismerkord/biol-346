@@ -140,6 +140,8 @@ Module 6
 ::: card-body
 ##### Food Production and the Environment {.card-title}
 
+Food security, modern agricultural systems, environmental impacts of food production, pest management and biotechnology, and strategies for more sustainable food systems.
+
 [Module 6](module-6/)
 :::
 ::::

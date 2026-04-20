@@ -1,6 +1,6 @@
 ---
-title: "Module 6"
-description: "Food Production and The Environment"
+title: "Module 6: Food Production and The Environment"
+description: "Food security, modern agricultural systems, environmental impacts of food production, pest management and biotechnology, and strategies for more sustainable food systems."
 author: "Chris Merkord"
 tbl-cap-location: bottom
 format: 
