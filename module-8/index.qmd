@@ -242,7 +242,7 @@ Pollution can be increased by:
 :::
 
 ::: {.column width="50%"}
-<!-- Suggested figure: indoor stove smoke or household pollutant sources. -->
+![](images/clipboard-5021590.png)
 :::
 :::::
 
