@@ -493,6 +493,29 @@ Evidence includes:
 :::
 :::::
 
+## Minnesota Example: Climate Mitigation Through Wind Energy
+
+::::: columns
+::: {.column width="50%"}
+-   Minnesota has greatly expanded **wind power** in recent decades
+
+-   Wind turbines generate electricity **without burning fossil fuels**
+
+-   This helps reduce emissions of:
+
+    -   Carbon dioxide (CO₂)
+    -   Air pollutants from coal and gas plants
+
+-   Wind energy now provides a major share of Minnesota electricity
+
+-   **Climate mitigation:** reducing greenhouse gas emissions to slow future warming
+:::
+
+::: {.column width="50%"}
+![](images/clipboard-4023366204.png)
+:::
+:::::
+
 ## Adaptation Reduces Harm
 
 ::::: columns
@@ -512,104 +535,25 @@ Evidence includes:
 :::
 :::::
 
-# Ozone Depletion
-
-## Stratospheric Ozone Protects Life from UV Radiation
+## Minnesota Example: Duluth Adapted After Major Flooding
 
 ::::: columns
 ::: {.column width="50%"}
--   Ozone is $O_3$
--   Concentrated in the stratosphere
--   Absorbs much UV-B and UV-C radiation
--   Reduces DNA damage in organisms
+-   In **2012**, extreme rainfall caused severe flooding in Duluth, Minnesota
+
+-   Roads, bridges, streams, and stormwater systems were heavily damaged
+
+-   The city responded by upgrading infrastructure for future storms:
+
+    -   Larger culverts\
+    -   Improved drainage systems\
+    -   Stronger roads and bridges\
+    -   Better flood planning
+
+-   **Climate adaptation:** preparing communities for heavier rainfall and flood risk
 :::
 
 ::: {.column width="50%"}
-<!-- Suggested figure: UV radiation filtered by ozone layer. -->
-:::
-:::::
-
-## Chlorofluorocarbons Caused Major Ozone Loss
-
-::::: columns
-::: {.column width="50%"}
--   CFCs were used in refrigerants and aerosols
--   They persist long enough to reach the stratosphere
--   UV radiation breaks them apart
--   Released chlorine destroys ozone
-:::
-
-::: {.column width="50%"}
-<!-- Suggested figure: CFC / chlorine / ozone reaction diagram. -->
-:::
-:::::
-
-## One Chlorine Atom Can Destroy Many Ozone Molecules
-
-::::: columns
-::: {.column width="50%"}
--   Chlorine reacts with ozone
--   Ozone is converted to oxygen
--   Chlorine is regenerated
--   The reaction repeats many times
-:::
-
-::: {.column width="50%"}
-$$
-Cl + O_3 \rightarrow ClO + O_2
-$$
-
-$$
-ClO + O \rightarrow Cl + O_2
-$$
-:::
-:::::
-
-## Ozone Depletion Increases UV Exposure
-
-::::: columns
-::: {.column width="50%"}
-Potential effects include:
-
--   Higher skin cancer risk
--   More cataracts
--   Crop damage
-:::
-
-::: {.column width="50%"}
--   Harm to phytoplankton
--   Marine food web effects
--   Increased biological stress in high-UV environments
-:::
-:::::
-
-## The Montreal Protocol Shows Policy Can Work
-
-::::: columns
-::: {.column width="50%"}
--   1987 international agreement
--   Phased out many ozone-depleting substances
--   Reduced global CFC consumption
--   Ozone recovery is now expected over time
-:::
-
-::: {.column width="50%"}
-<!-- Suggested figure: decline in ozone-depleting substance consumption. -->
-:::
-:::::
-
-## Take-Home Messages
-
-::::: columns
-::: {.column width="50%"}
--   Air pollution causes major health and ecosystem damage
--   Climate change is driven mainly by human greenhouse gas emissions
--   Climate impacts affect physical systems, ecosystems, and people
-:::
-
-::: {.column width="50%"}
--   Mitigation reduces future warming
--   Adaptation reduces harm from unavoidable impacts
--   Ozone depletion shows global environmental policy can succeed
+![Image: Derek Montgomery for MPR.](images/clipboard-3612190731.png)
 :::
 :::::
