@@ -160,11 +160,17 @@ By the end of this module, you should be able to:
 :::
 :::::
 
+## A Brief History of Smog: From Crisis to Cleaner Air
+
+Over 70 years of science, policy, and action have dramatically reduced harmful smog in many places.
+
+![](images/smog-history.png){fig-align="center"}
+
 ## Local Conditions Influence Pollution Severity
 
 ::::: columns
 ::: {.column width="50%"}
-Pollution can be reduced by:
+Pollution can be **reduced** by:
 
 -   Wind dilution
 -   Rain or snow removal
@@ -172,7 +178,7 @@ Pollution can be reduced by:
 :::
 
 ::: {.column width="50%"}
-Pollution can be increased by:
+Pollution can be **increased** by:
 
 -   Temperature inversions
 -   Mountains or valley topography
@@ -218,7 +224,7 @@ Pollution can be increased by:
 -   Mobilizes toxic metals
 -   Reduces plant productivity
 
-![](images/clipboard-614119608.png){width="274"}
+![](images/clipboard-614119608.png){fig-align="center" width="590"}
 :::
 
 ::: {.column width="50%"}
@@ -226,7 +232,7 @@ Pollution can be increased by:
 -   Worsens respiratory problems
 -   Can alter food webs through biomagnification
 
-![](images/clipboard-3543575547.png){width="199"}
+![](images/clipboard-3543575547.png){fig-align="center" width="497"}
 :::
 :::::
 
@@ -242,25 +248,26 @@ Pollution can be increased by:
 :::
 
 ::: {.column width="50%"}
-![](images/clipboard-5021590.png)
+![](images/clipboard-5021590.png){fig-align="center"}
 :::
 :::::
 
-## Air Pollution Is a Major Human Health Risk
+## Air Pollution Is a Major Human Health Risk, is Improving
 
 ::::: columns
 ::: {.column width="50%"}
 -   Fine particles penetrate deep into lungs
 -   Pollutants can overwhelm respiratory defenses
 -   Long-term exposure increases disease risk
+-   Health effects include:
+    -   Asthma and respiratory illness
+    -   Cardiovascular disease
+    -   Premature death
+-   Death rate has declined, mostly due to indoor pollution reduction
 :::
 
 ::: {.column width="50%"}
-Health effects include:
-
--   Asthma and respiratory illness
--   Cardiovascular disease
--   Premature death
+![Image: [OurWorldinData.org/air-pollution](https://ourworldindata.org/air-pollution) \| [CC BY](https://creativecommons.org/licenses/by/4.0/)](images/clipboard-70267920.png)
 :::
 :::::
 
@@ -272,13 +279,13 @@ Health effects include:
 -   Cleaner fuels and energy sources
 -   Public transit and efficient vehicles
 -   Pollution control technology
-:::
-
-::: {.column width="50%"}
 -   Better indoor ventilation
 -   Cleaner stoves and cookers
 -   Product standards for indoor materials
 -   Reduced tobacco smoke exposure
+:::
+
+::: {.column width="50%"}
 :::
 :::::
 
@@ -289,14 +296,14 @@ Health effects include:
 ::::: columns
 ::: {.column width="50%"}
 -   [Weather]{.keyword}: short-term atmospheric conditions
--   Changes over hours to days
--   Examples: storm, heat wave, cold front
+    -   Changes over hours to days
+    -   Examples: storm, heat wave, cold front
 :::
 
 ::: {.column width="50%"}
 -   [Climate]{.keyword}: long-term average conditions and patterns
--   Usually measured over decades
--   Examples: average temperature, precipitation, seasonality
+    -   Usually measured over decades
+    -   Examples: average temperature, precipitation, seasonality
 :::
 :::::
 
@@ -311,7 +318,7 @@ Health effects include:
 :::
 
 ::: {.column width="50%"}
-<!-- Suggested figure: greenhouse effect diagram. -->
+![Greenhouse gases allow sunlight to pass through the atmosphere, but then absorb and reflect the infrared radiation (heat) the planet emits. Image: Efbrazil (CC BY-SA 4.0).](images/clipboard-901367767.png)
 :::
 :::::
 
@@ -344,7 +351,7 @@ Health effects include:
 :::
 
 ::: {.column width="50%"}
-<!-- Suggested figure: emissions by sector or Keeling Curve. -->
+![](images/clipboard-1502298067.png)
 :::
 :::::
 
@@ -358,7 +365,7 @@ Health effects include:
 :::
 
 ::: {.column width="50%"}
-<!-- Suggested figure: Keeling Curve. -->
+![The Keeling curve. Atmospheric carbon dioxide concentrations at Mauna Loa, Hawaii since 1958. Image: Oeneis. Data from Dr. Pieter Tans, NOAA/ESRL and Dr. Ralph Keeling, Scripps Institution of Oceanography](images/clipboard-3652244848.png){fig-align="center" width="80%"}
 :::
 :::::
 
@@ -372,13 +379,14 @@ Evidence includes:
 -   Ocean warming
 -   Glacier retreat
 -   Ice sheet mass loss
-:::
-
-::: {.column width="50%"}
 -   Earlier spring events
 -   Shifting species ranges
 -   Sea-level rise
 -   More frequent heat extremes
+:::
+
+::: {.column width="50%"}
+![Image: University of Minnesota.](images/clipboard-427078766.png)
 :::
 :::::
 
@@ -392,7 +400,7 @@ Evidence includes:
 :::
 
 ::: {.column width="50%"}
-<!-- Suggested figure: Greenland ice sheet mass loss or glacier melt image. -->
+![](images/clipboard-4054373059.png)
 :::
 :::::
 
@@ -401,13 +409,14 @@ Evidence includes:
 ::::: columns
 ::: {.column width="50%"}
 -   Ice and snow reflect sunlight
+-   [Albedo]{.keyword} : how much sunlight a surface reflects
 -   Dark land and ocean absorb more energy
 -   Melting exposes darker surfaces
 -   More absorption causes more warming
 :::
 
 ::: {.column width="50%"}
-<!-- Suggested figure: albedo feedback diagram. -->
+![](images/clipboard-184053675.png)
 :::
 :::::
 
@@ -419,12 +428,13 @@ Evidence includes:
 -   More coastal flooding
 -   More intense heat waves
 -   Drought in some regions
-:::
-
-::: {.column width="50%"}
 -   Heavier precipitation in some regions
 -   Changing snowpack
 -   More wildfire risk under hot, dry conditions
+:::
+
+::: {.column width="50%"}
+![](images/clipboard-69297288.png)
 :::
 :::::
 
@@ -432,16 +442,17 @@ Evidence includes:
 
 ::::: columns
 ::: {.column width="50%"}
--   Species shift ranges
+-   Species shift ranges (see figure)
 -   Seasonal timing changes
--   Habitat suitability changes
+-   Habitat suitability changes (e.g. disease vectors for malaria, Lyme disease)
 -   Coral bleaching increases
-:::
-
-::: {.column width="50%"}
 -   Food webs can become mismatched
 -   Invasive species and pests may expand
 -   Extinction risk increases for vulnerable species
+:::
+
+::: {.column width="50%"}
+![Proportion of elevational range shifts (a) and latitudinal range shifts (terrestrial and marine) (b) consistent with climate expectations (that is, direction of isotherm shifts) in the BioShifts database. Credit: Nature Reviews Earth & Environment (2024). DOI: 10.1038/s43017-024-00527-z](images/clipboard-3195038220.png)
 :::
 :::::
 
