@@ -33,7 +33,7 @@ See the [Course Description](https://www.mnstate.edu/direct/coursedescription?co
 
 Lecture:
 
--   Monday, Wednesday, 1:30-2:45 PM in Center for Business 105
+- Monday, Wednesday, 1:30-2:45 PM in Center for Business 105
 
 See the [Class Schedule](schedule/) for weekly topics and exam dates. See D2L for assignment deadlines.
 
@@ -93,30 +93,30 @@ Regular attendance and active participation are expected in this course. Lecture
 
 Attendance Expectations
 
--   Students are expected to attend every scheduled lecture.
--   Attendance will be taken at each class meeting.
--   Being physically present but disengaged does not constitute attendance for the purposes of this policy.
+- Students are expected to attend every scheduled lecture.
+- Attendance will be taken at each class meeting.
+- Being physically present but disengaged does not constitute attendance for the purposes of this policy.
 
 Participation Expectations
 
--   Active participation is required. This includes:
+- Active participation is required. This includes:
 
-    -   Asking and answering questions during lecture.
-    -   Responding to impromptu, in-class polls or activities.
-    -   Engaging thoughtfully with course material and discussions.
+  - Asking and answering questions during lecture.
+  - Responding to impromptu, in-class polls or activities.
+  - Engaging thoughtfully with course material and discussions.
 
--   Participation is meant to support learning, not to put students on the spot; however, students should be prepared to contribute when asked.
+- Participation is meant to support learning, not to put students on the spot; however, students should be prepared to contribute when asked.
 
 Attendance and Bonus Points
 
--   Attendance is tracked primarily for accountability and engagement.
--   Bonus points may be awarded for consistent attendance and participation over the semester.
--   Bonus points are discretionary, modest, and intended to reward sustained engagement—not to compensate for missed assignments or poor performance elsewhere in the course.
+- Attendance is tracked primarily for accountability and engagement.
+- Bonus points may be awarded for consistent attendance and participation over the semester.
+- Bonus points are discretionary, modest, and intended to reward sustained engagement—not to compensate for missed assignments or poor performance elsewhere in the course.
 
 Absences
 
--   Occasional absences may be unavoidable. Students are responsible for obtaining notes and keeping up with material covered during missed classes.
--   There is no guarantee that attendance-based bonus opportunities can be made up if a class is missed.
+- Occasional absences may be unavoidable. Students are responsible for obtaining notes and keeping up with material covered during missed classes.
+- There is no guarantee that attendance-based bonus opportunities can be made up if a class is missed.
 
 If you want to do well in this course, show up, be engaged, and participate. Students who attend regularly and contribute actively are consistently more successful than those who do not.
 
@@ -126,12 +126,12 @@ This course requires regular interaction with the instructor and with classmates
 
 Students are expected to adhere to commonly accepted standards of professional conduct and etiquette.
 
--   Use appropriate language and behavior for an educational setting.
--   Do not use obscene, offensive, or threatening language.
--   Treat classmates and the instructor with respect, even when disagreeing.
--   Listen attentively when others are speaking and do not interrupt.
--   Contribute constructively to discussions and activities.
--   Use complete sentences and communicate clearly in written and verbal interactions.
+- Use appropriate language and behavior for an educational setting.
+- Do not use obscene, offensive, or threatening language.
+- Treat classmates and the instructor with respect, even when disagreeing.
+- Listen attentively when others are speaking and do not interrupt.
+- Contribute constructively to discussions and activities.
+- Use complete sentences and communicate clearly in written and verbal interactions.
 
 Professional conduct is not optional. Disruptive, disrespectful, or unprofessional behavior—whether in person or online—may result in removal from class for the day and referral to university policies on student conduct.
 
@@ -151,11 +151,11 @@ The following technology will be required in this course:
 
 Grades will be assigned using an A, B, C, D, F scale based on the percentage of total points earned, as follows:
 
--   A 90–100 %
--   B 80–89.99 %
--   C 70–79.99 %
--   D 60–69.99 %
--   F less than 60 %
+- A 90–100 %
+- B 80–89.99 %
+- C 70–79.99 %
+- D 60–69.99 %
+- F less than 60 %
 
 Grades for individual quizzes, exams, assignments, etc. will be graded using a minimum grade approach to ensure equitable outcomes for all students. For any assignment, if you earn a grade less than 50%, your grade will be adjusted up to 50%. This applies even if you do not complete an assignment. A 50% is still a failing grade. This approach makes it easier for students to overcome some missing assignments or poor exam scores by grading assignments on a scale more similar to the 4.0 scale used for the course as a whole.
 

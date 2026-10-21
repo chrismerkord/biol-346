@@ -35,10 +35,10 @@ editor: visual
 
 ::::: columns
 ::: {.column width="50%"}
--   Great diversity of terrestrial and aquatic habitats
--   Climate differences shape global ecosystem patterns
--   Distribution of [biomes]{.keyword} linked to temperature and precipitation
--   Human activities increasingly affect these systems
+- Great diversity of terrestrial and aquatic habitats
+- Climate differences shape global ecosystem patterns
+- Distribution of [biomes]{.keyword} linked to temperature and precipitation
+- Human activities increasingly affect these systems
 :::
 
 ::: {.column width="50%"}
@@ -52,11 +52,11 @@ editor: visual
 
 ::::: columns
 ::: {.column width="50%"}
--   Incoming [solar radiation]{.keyword} drives global energy balance
--   Earth’s [rotation]{.keyword} influences atmospheric movement
--   Global patterns of air and water circulation
--   Atmospheric gases influence heat retention
--   Surface features and [topography]{.keyword} shape regional climates
+- Incoming [solar radiation]{.keyword} drives global energy balance
+- Earth’s [rotation]{.keyword} influences atmospheric movement
+- Global patterns of air and water circulation
+- Atmospheric gases influence heat retention
+- Surface features and [topography]{.keyword} shape regional climates
 :::
 
 ::: {.column width="50%"}
@@ -70,11 +70,11 @@ editor: visual
 
 ::::: columns
 ::: {.column width="50%"}
--   [Weather]{.keyword}: short-term atmospheric conditions
--   Daily variation in temperature, precipitation, wind
--   [Climate]{.keyword}: long-term atmospheric patterns
--   Climate measured over decades to centuries
--   Climate differences produce distinct ecosystems
+- [Weather]{.keyword}: short-term atmospheric conditions
+- Daily variation in temperature, precipitation, wind
+- [Climate]{.keyword}: long-term atmospheric patterns
+- Climate measured over decades to centuries
+- Climate differences produce distinct ecosystems
 :::
 
 ::: {.column width="50%"}
@@ -86,11 +86,11 @@ editor: visual
 
 ::::: columns
 ::: {.column width="50%"}
--   Uneven distribution of solar energy across latitudes
--   Equatorial regions receive concentrated sunlight
--   High latitudes receive less direct energy
--   Sunlight passes through more atmosphere at high latitudes
--   Energy spreads across larger surface area
+- Uneven distribution of solar energy across latitudes
+- Equatorial regions receive concentrated sunlight
+- High latitudes receive less direct energy
+- Sunlight passes through more atmosphere at high latitudes
+- Energy spreads across larger surface area
 :::
 
 ::: {.column width="50%"}
@@ -104,11 +104,11 @@ editor: visual
 
 ::::: columns
 ::: {.column width="50%"}
--   Solar heating drives atmospheric [convection]{.keyword}
--   Warm moist air rises and cools
--   Cooling air releases precipitation
--   Cooler dry air sinks and flows across surface
--   Continuous circulation redistributes heat and moisture
+- Solar heating drives atmospheric [convection]{.keyword}
+- Warm moist air rises and cools
+- Cooling air releases precipitation
+- Cooler dry air sinks and flows across surface
+- Continuous circulation redistributes heat and moisture
 :::
 
 ::: {.column width="50%"}
@@ -120,11 +120,11 @@ editor: visual
 
 ::::: columns
 ::: {.column width="50%"}
--   Large-scale atmospheric circulation patterns
--   Rising and sinking air form [Hadley cells]{.keyword}
--   Earth’s rotation creates the [Coriolis effect]{.keyword}
--   Produces global [prevailing winds]{.keyword}
--   Winds redistribute heat and precipitation
+- Large-scale atmospheric circulation patterns
+- Rising and sinking air form [Hadley cells]{.keyword}
+- Earth’s rotation creates the [Coriolis effect]{.keyword}
+- Produces global [prevailing winds]{.keyword}
+- Winds redistribute heat and precipitation
 :::
 
 ::: {.column width="50%"}
@@ -136,11 +136,11 @@ editor: visual
 
 ::::: columns
 ::: {.column width="50%"}
--   Ocean currents redistribute heat across the planet
--   Movement of warm and cold water regulates climate
--   Circulation connects deep and surface waters
--   Example: North Atlantic currents warm Europe
--   Ocean circulation influences regional ecosystems
+- Ocean currents redistribute heat across the planet
+- Movement of warm and cold water regulates climate
+- Circulation connects deep and surface waters
+- Example: North Atlantic currents warm Europe
+- Ocean circulation influences regional ecosystems
 :::
 
 ::: {.column width="50%"}
@@ -154,11 +154,11 @@ editor: visual
 
 ::::: columns
 ::: {.column width="50%"}
--   Atmosphere and oceans tightly linked
--   Wind patterns drive surface ocean currents
--   [El Niño–Southern Oscillation]{.keyword} alters Pacific circulation
--   Changes global temperature and precipitation
--   Climate impacts occur across much of the planet
+- Atmosphere and oceans tightly linked
+- Wind patterns drive surface ocean currents
+- [El Niño–Southern Oscillation]{.keyword} alters Pacific circulation
+- Changes global temperature and precipitation
+- Climate impacts occur across much of the planet
 
 ![](images/clipboard-2814880367.png){width="212"}
 :::
@@ -174,11 +174,11 @@ editor: visual
 
 :::: columns
 ::: {.column width="50%"}
--   Mountains influence regional precipitation patterns
--   Moist air rises and cools along slopes
--   Precipitation falls on windward side
--   Dry conditions develop on leeward side
--   Known as the [rain shadow effect]{.keyword}
+- Mountains influence regional precipitation patterns
+- Moist air rises and cools along slopes
+- Precipitation falls on windward side
+- Dry conditions develop on leeward side
+- Known as the [rain shadow effect]{.keyword}
 :::
 ::::
 
@@ -188,11 +188,11 @@ editor: visual
 
 ::::: columns
 ::: {.column width="50%"}
--   Cities create distinct local climates
--   Buildings and pavement absorb and retain heat
--   Reduced airflow and increased pollution
--   Higher temperatures compared to rural areas
--   Creates [urban heat islands]{.keyword}
+- Cities create distinct local climates
+- Buildings and pavement absorb and retain heat
+- Reduced airflow and increased pollution
+- Higher temperatures compared to rural areas
+- Creates [urban heat islands]{.keyword}
 :::
 
 ::: {.column width="50%"}
@@ -208,10 +208,10 @@ editor: visual
 
 ::::: columns
 ::: {.column width="50%"}
--   Climate determines the distribution of major ecosystems
--   Temperature and precipitation are the primary controls
--   Regions with similar climates support similar ecosystems
--   These large ecosystem regions are called [biomes]{.keyword}
+- Climate determines the distribution of major ecosystems
+- Temperature and precipitation are the primary controls
+- Regions with similar climates support similar ecosystems
+- These large ecosystem regions are called [biomes]{.keyword}
 :::
 
 ::: {.column width="50%"}
@@ -225,17 +225,17 @@ editor: visual
 
 ::::: columns
 ::: {.column width="50%"}
--   Large ecological regions defined by climate and vegetation
--   Characterized by dominant **plant growth forms**
--   Plants determine habitat structure for animals
--   Climate limits which plants can survive
+- Large ecological regions defined by climate and vegetation
+- Characterized by dominant **plant growth forms**
+- Plants determine habitat structure for animals
+- Climate limits which plants can survive
 
 Major terrestrial biomes include:
 
--   [deserts]{.keyword}
--   [grasslands]{.keyword}
--   [forests]{.keyword}
--   [tundra]{.keyword}
+- [deserts]{.keyword}
+- [grasslands]{.keyword}
+- [forests]{.keyword}
+- [tundra]{.keyword}
 :::
 
 ::: {.column width="50%"}
@@ -249,17 +249,17 @@ Major terrestrial biomes include:
 
 ::::: columns
 ::: {.column width="50%"}
--   Defined by extremely low precipitation
--   Often receive less than 25 cm of rain annually
--   Vegetation is sparse and adapted to water scarcity
--   Plants show [drought adaptations]{.keyword} such as deep roots and water storage
--   Large temperature variation between day and night
+- Defined by extremely low precipitation
+- Often receive less than 25 cm of rain annually
+- Vegetation is sparse and adapted to water scarcity
+- Plants show [drought adaptations]{.keyword} such as deep roots and water storage
+- Large temperature variation between day and night
 
 Types of deserts:
 
--   [tropical deserts]{.keyword}
--   [temperate deserts]{.keyword}
--   [cold deserts]{.keyword}
+- [tropical deserts]{.keyword}
+- [temperate deserts]{.keyword}
+- [cold deserts]{.keyword}
 :::
 
 ::: {.column width="50%"}
@@ -271,15 +271,15 @@ Types of deserts:
 
 ::::: columns
 ::: {.column width="50%"}
--   Moderate precipitation but too dry for forests
--   Dominated by grasses rather than trees
--   Fire and grazing help maintain grass dominance
--   Highly productive soils in many regions
+- Moderate precipitation but too dry for forests
+- Dominated by grasses rather than trees
+- Fire and grazing help maintain grass dominance
+- Highly productive soils in many regions
 
 Two major types:
 
--   [tropical grasslands (savannas)]{.keyword} - large grazers
--   [temperate grasslands]{.keyword} - cold winters
+- [tropical grasslands (savannas)]{.keyword} - large grazers
+- [temperate grasslands]{.keyword} - cold winters
 :::
 
 ::: {.column width="50%"}
@@ -291,16 +291,16 @@ Two major types:
 
 ::::: columns
 ::: {.column width="50%"}
--   Dominated by trees and woody vegetation
--   Occur where precipitation is sufficient to support forests
--   Often have layered vegetation structure
--   Support extremely high biodiversity
+- Dominated by trees and woody vegetation
+- Occur where precipitation is sufficient to support forests
+- Often have layered vegetation structure
+- Support extremely high biodiversity
 
 Major forest types:
 
--   [tropical forests]{.keyword}
--   [temperate forests]{.keyword}
--   [boreal forests]{.keyword}
+- [tropical forests]{.keyword}
+- [temperate forests]{.keyword}
+- [boreal forests]{.keyword}
 :::
 
 ::: {.column width="50%"}
@@ -312,11 +312,11 @@ Major forest types:
 
 ::::: columns
 ::: {.column width="50%"}
--   Climate changes rapidly with elevation
--   Temperature decreases with increasing altitude
--   Mountains contain multiple ecological zones
--   Often support high biodiversity and endemism
--   Provide important freshwater resources
+- Climate changes rapidly with elevation
+- Temperature decreases with increasing altitude
+- Mountains contain multiple ecological zones
+- Often support high biodiversity and endemism
+- Provide important freshwater resources
 :::
 
 ::: {.column width="50%"}
@@ -330,11 +330,11 @@ Major forest types:
 
 ::::: columns
 ::: {.column width="50%"}
--   Humans have altered \~**75% of Earth’s land surface** through agriculture, forestry, mining, and urban development (UNEP)
--   \~**60% of global ecosystem services** are degraded or used unsustainably (Millennium Ecosystem Assessment)
--   Major drivers include **land conversion, resource extraction, and infrastructure development**
--   Global analyses show **conversion pressure is still increasing**, especially in parts of Africa, Central America, and Southeast Asia
--   Many of these areas contain **intact ecosystems and high biodiversity**, creating growing conservation risks
+- Humans have altered \~**75% of Earth’s land surface** through agriculture, forestry, mining, and urban development (UNEP)
+- \~**60% of global ecosystem services** are degraded or used unsustainably (Millennium Ecosystem Assessment)
+- Major drivers include **land conversion, resource extraction, and infrastructure development**
+- Global analyses show **conversion pressure is still increasing**, especially in parts of Africa, Central America, and Southeast Asia
+- Many of these areas contain **intact ecosystems and high biodiversity**, creating growing conservation risks
 :::
 
 ::: {.column width="50%"}
@@ -350,8 +350,8 @@ Major forest types:
 
 ![](images/clipboard-3709689440.png){width="100%"}
 
--   groundwater depletion from irrigation
--   soil damage from off-road vehicles and mineral extraction
+- groundwater depletion from irrigation
+- soil damage from off-road vehicles and mineral extraction
 :::
 
 ::: {.column width="25%"}
@@ -359,8 +359,8 @@ Major forest types:
 
 ![](images/clipboard-449591965.png){width="100%"}
 
--   conversion to cropland
--   overgrazing by livestock
+- conversion to cropland
+- overgrazing by livestock
 :::
 
 ::: {.column width="25%"}
@@ -368,8 +368,8 @@ Major forest types:
 
 ![](images/clipboard-2508400484.png){width="100%"}
 
--   deforestation for agriculture and livestock
--   logging for timber and paper
+- deforestation for agriculture and livestock
+- logging for timber and paper
 :::
 
 ::: {.column width="25%"}
@@ -377,8 +377,8 @@ Major forest types:
 
 ![](images/clipboard-3584730487.png){width="100%"}
 
--   mining and mineral extraction
--   dams and reservoirs altering river systems
+- mining and mineral extraction
+- dams and reservoirs altering river systems
 :::
 :::::::
 
@@ -388,17 +388,17 @@ All figures used with permission from sciencefacts.net
 
 ::::: columns
 ::: {.column width="50%"}
--   Water covers about 71% of Earth's surface
+- Water covers about 71% of Earth's surface
 
--   Aquatic ecosystems support enormous biodiversity
+- Aquatic ecosystems support enormous biodiversity
 
--   Important ecosystem services: food, climate regulation, nutrient cycling
+- Important ecosystem services: food, climate regulation, nutrient cycling
 
--   Two major categories:
+- Two major categories:
 
-    -   [marine ecosystems]{.keyword}
+  - [marine ecosystems]{.keyword}
 
-    -   [freshwater ecosystems]{.keyword}
+  - [freshwater ecosystems]{.keyword}
 :::
 
 ::: {.column width="50%"}
@@ -412,10 +412,10 @@ All figures used with permission from sciencefacts.net
 
 :::::: columns
 ::: {.column width="60%"}
--   Oceans contain about **97% of Earth's water**
--   Marine ecosystems play a major role in **global climate regulation**
--   Ocean circulation redistributes heat and influences weather patterns
--   Marine primary producers generate a large share of Earth’s oxygen
+- Oceans contain about **97% of Earth's water**
+- Marine ecosystems play a major role in **global climate regulation**
+- Ocean circulation redistributes heat and influences weather patterns
+- Marine primary producers generate a large share of Earth’s oxygen
 :::
 
 :::: {.column width="40%"}
@@ -437,9 +437,9 @@ All figures used with permission from sciencefacts.net
 
 :::::: columns
 ::: {.column width="60%"}
--   [coastal zone]{.keyword} – shallow waters along continents; high nutrient input and some of the **most productive ecosystems** (estuaries, coral reefs, mangroves)
--   [open ocean]{.keyword} – vast offshore waters with lower nutrient concentrations; dominated by **plankton-based food webs**
--   [ocean floor]{.keyword} – benthic habitats ranging from shallow shelves to deep-sea trenches; organisms adapted to **low light, high pressure, and limited food**
+- [coastal zone]{.keyword} – shallow waters along continents; high nutrient input and some of the **most productive ecosystems** (estuaries, coral reefs, mangroves)
+- [open ocean]{.keyword} – vast offshore waters with lower nutrient concentrations; dominated by **plankton-based food webs**
+- [ocean floor]{.keyword} – benthic habitats ranging from shallow shelves to deep-sea trenches; organisms adapted to **low light, high pressure, and limited food**
 :::
 
 :::: {.column width="40%"}
@@ -461,13 +461,13 @@ All figures used with permission from sciencefacts.net
 
 ::::: columns
 ::: {.column width="60%"}
--   [Pelagic zone]{.keyword} includes open-water habitats where organisms live in the water column, not seafloor
--   Pelagic ecosystems are dominated by **plankton-based food webs**; support fish, marine mammals, seabirds
--   Productivity depends on sunlight, nutrients, and vertical mixing of ocean waters
--   Vertical light zones structure marine ecosystems:
-    -   [photic zone]{.keyword} (\~0–200 m): enough sunlight for photosynthesis; phytoplankton drive primary production
-    -   [aphotic zone]{.keyword} (\>200 m): little or no light; no photosynthesis; organisms depend on organic matter from surface waters
-    -   [abyssal zone]{.keyword} (\~4,000–6,000 m): dark, cold, high pressure; specialized deep-sea organisms
+- [Pelagic zone]{.keyword} includes open-water habitats where organisms live in the water column, not seafloor
+- Pelagic ecosystems are dominated by **plankton-based food webs**; support fish, marine mammals, seabirds
+- Productivity depends on sunlight, nutrients, and vertical mixing of ocean waters
+- Vertical light zones structure marine ecosystems:
+  - [photic zone]{.keyword} (\~0–200 m): enough sunlight for photosynthesis; phytoplankton drive primary production
+  - [aphotic zone]{.keyword} (\>200 m): little or no light; no photosynthesis; organisms depend on organic matter from surface waters
+  - [abyssal zone]{.keyword} (\~4,000–6,000 m): dark, cold, high pressure; specialized deep-sea organisms
 :::
 
 ::: {.column width="40%"}
@@ -479,11 +479,11 @@ All figures used with permission from sciencefacts.net
 
 ::::: columns
 ::: {.column width="60%"}
--   Oceans dominate the planet and provide essential [ecosystem services]{.keyword} that support life and economies
-    -   [Provisioning services]{.keyword}: seafood, genetic resources, and raw materials from marine organisms
-    -   [Supporting services]{.keyword}: marine food webs, habitat for biodiversity, nutrient and water cycling
-    -   [Maintaining services]{.keyword}: climate regulation, carbon storage, coastal protection, and water purification
-    -   [Cultural services]{.keyword}: recreation, tourism, education, wildlife watching, and artistic inspiration
+- Oceans dominate the planet and provide essential [ecosystem services]{.keyword} that support life and economies
+  - [Provisioning services]{.keyword}: seafood, genetic resources, and raw materials from marine organisms
+  - [Supporting services]{.keyword}: marine food webs, habitat for biodiversity, nutrient and water cycling
+  - [Maintaining services]{.keyword}: climate regulation, carbon storage, coastal protection, and water purification
+  - [Cultural services]{.keyword}: recreation, tourism, education, wildlife watching, and artistic inspiration
 :::
 
 ::: {.column width="40%"}
@@ -495,16 +495,16 @@ All figures used with permission from sciencefacts.net
 
 ::::: columns
 ::: {.column width="50%"}
--   Includes lakes, rivers, streams, and wetlands
--   Freshwater systems contain a small fraction of global water
--   Extremely important for human use and biodiversity
--   Water flow strongly influences ecosystem structure
+- Includes lakes, rivers, streams, and wetlands
+- Freshwater systems contain a small fraction of global water
+- Extremely important for human use and biodiversity
+- Water flow strongly influences ecosystem structure
 
 Major freshwater systems:
 
--   [lakes and ponds]{.keyword}
--   [rivers and streams]{.keyword}
--   [wetlands]{.keyword}
+- [lakes and ponds]{.keyword}
+- [rivers and streams]{.keyword}
+- [wetlands]{.keyword}
 :::
 
 ::: {.column width="50%"}
@@ -516,10 +516,10 @@ Major freshwater systems:
 
 ::::: columns
 ::: {.column width="50%"}
--   [Lakes]{.keyword} are large bodies of **standing freshwater** formed when depressions fill with water
--   Lake basins can form through **glacial activity**, crustal movement, or **volcanic processes**
--   Lakes vary in **depth and nutrient levels**, shaping productivity and biodiversity
--   Typical deep lakes have distinct ecological zones
+- [Lakes]{.keyword} are large bodies of **standing freshwater** formed when depressions fill with water
+- Lake basins can form through **glacial activity**, crustal movement, or **volcanic processes**
+- Lakes vary in **depth and nutrient levels**, shaping productivity and biodiversity
+- Typical deep lakes have distinct ecological zones
 :::
 
 ::: {.column width="50%"}
@@ -531,17 +531,17 @@ Major freshwater systems:
 
 :::::: columns
 ::: {.column width="50%"}
--   Lakes differ in nutrient availability
+- Lakes differ in nutrient availability
 
--   Nutrients influence primary productivity
+- Nutrients influence primary productivity
 
--   Two common lake types:
+- Two common lake types:
 
-    -   [oligotrophic lakes]{.keyword} – low nutrients, clear water
+  - [oligotrophic lakes]{.keyword} – low nutrients, clear water
 
-    -   [eutrophic lakes]{.keyword} – high nutrients, high productivity
+  - [eutrophic lakes]{.keyword} – high nutrients, high productivity
 
--   Nutrient inputs from human activities can cause [eutrophication]{.keyword}
+- Nutrient inputs from human activities can cause [eutrophication]{.keyword}
 :::
 
 :::: {.column width="50%"}
@@ -559,10 +559,10 @@ Two common lake types
 
 ::::: columns
 ::: {.column width="50%"}
--   [streams and rivers]{.keyword} transport large volumes of freshwater from upland areas to lakes and oceans
--   Flowing water shapes landscapes through [erosion]{.keyword}, carving valleys and moving sediment
--   Most rivers pass through three zones: source zone, transition zone, and floodplain zone
--   Sediment deposited at the river mouth can form a [delta]{.keyword}
+- [streams and rivers]{.keyword} transport large volumes of freshwater from upland areas to lakes and oceans
+- Flowing water shapes landscapes through [erosion]{.keyword}, carving valleys and moving sediment
+- Most rivers pass through three zones: source zone, transition zone, and floodplain zone
+- Sediment deposited at the river mouth can form a [delta]{.keyword}
 :::
 
 ::: {.column width="50%"}
@@ -574,11 +574,11 @@ Two common lake types
 
 ::::: columns
 ::: {.column width="50%"}
--   [Freshwater inland wetlands]{.keyword} act as natural **sponges**, storing and slowly releasing water
--   Wetlands filter pollutants and help **improve water quality**
--   They reduce flooding and erosion and help **maintain stream flow during drought**
--   Wetlands also **recharge groundwater aquifers**
--   These habitats support high **biodiversity** and provide recreation for people
+- [Freshwater inland wetlands]{.keyword} act as natural **sponges**, storing and slowly releasing water
+- Wetlands filter pollutants and help **improve water quality**
+- They reduce flooding and erosion and help **maintain stream flow during drought**
+- Wetlands also **recharge groundwater aquifers**
+- These habitats support high **biodiversity** and provide recreation for people
 :::
 
 ::: {.column width="50%"}
@@ -592,12 +592,12 @@ Two common lake types
 
 ::::: columns
 ::: {.column width="50%"}
--   Honeybees provide one of the most important ecosystem services: pollination.
--   European honeybees are used by farmers almost exclusively in the United States for pollinating crops.
-    -   This dependence on one species is a violation of the principle of sustainability.
--   Since 2006, the honeybees have been in massive decline.
-    -   This is called colony collapse disorder (CCD).
--   What can we learn from their collapse?
+- Honeybees provide one of the most important ecosystem services: pollination.
+- European honeybees are used by farmers almost exclusively in the United States for pollinating crops.
+  - This dependence on one species is a violation of the principle of sustainability.
+- Since 2006, the honeybees have been in massive decline.
+  - This is called colony collapse disorder (CCD).
+- What can we learn from their collapse?
 :::
 
 ::: {.column width="50%"}
@@ -609,8 +609,8 @@ Two common lake types
 
 ::::: columns
 ::: {.column width="50%"}
--   There are 34 recognized biodiversity hotspots around the world.
--   Although these cover only 2.3 percent of the Earth’s surface, 42 percent of the terrestrial vertebrate species and 50 percent of the world’s plants are endemic to those hotspots.
+- There are 34 recognized biodiversity hotspots around the world.
+- Although these cover only 2.3 percent of the Earth’s surface, 42 percent of the terrestrial vertebrate species and 50 percent of the world’s plants are endemic to those hotspots.
 :::
 
 ::: {.column width="50%"}
@@ -622,13 +622,13 @@ Two common lake types
 
 ::::: columns
 ::: {.column width="50%"}
--   As the human population has grown exponentially, the rate of species extinction has also increased manyfold.
--   By the end of this century, the extinction rate is predicted to be 10,000 times higher than before human exponential growth began.
--   Species that can no longer be found on Earth have suffered biological extinction.
--   Mass extinction: the extinction of many species in a relatively short period of geologic time.
-    -   The earth has had five mass extinctions.
-    -   After each mass extinction, biodiversity returned and often was higher than before.
--   Recovery took millions of years.
+- As the human population has grown exponentially, the rate of species extinction has also increased manyfold.
+- By the end of this century, the extinction rate is predicted to be 10,000 times higher than before human exponential growth began.
+- Species that can no longer be found on Earth have suffered biological extinction.
+- Mass extinction: the extinction of many species in a relatively short period of geologic time.
+  - The earth has had five mass extinctions.
+  - After each mass extinction, biodiversity returned and often was higher than before.
+- Recovery took millions of years.
 :::
 
 ::: {.column width="50%"}
@@ -640,14 +640,14 @@ Two common lake types
 
 ::::: columns
 ::: {.column width="50%"}
--   Current annual rate of species extinction is between 100 and 1,000 times the background extinction rate.
--   At today’s rates, we are losing between 1,000 and 10,000 species per year.
--   During the next 100 years, the background extinction rate is estimated to rise to at least 10,000 times its current rate.
--   A dramatic rise in extinction rates will result from:
-    -   Habitat loss and degradation
-    -   Climate change
-    -   Ocean acidification
-    -   Human activity
+- Current annual rate of species extinction is between 100 and 1,000 times the background extinction rate.
+- At today’s rates, we are losing between 1,000 and 10,000 species per year.
+- During the next 100 years, the background extinction rate is estimated to rise to at least 10,000 times its current rate.
+- A dramatic rise in extinction rates will result from:
+  - Habitat loss and degradation
+  - Climate change
+  - Ocean acidification
+  - Human activity
 :::
 
 ::: {.column width="50%"}
@@ -659,13 +659,13 @@ Two common lake types
 
 ::::: columns
 ::: {.column width="50%"}
--   Species heading toward biological extinction are classified as:
-    -   Endangered: so few individual survivors that the species could soon become extinct.
-    -   Threatened: enough individuals to survive in the short term but not the long term.
--   Some species have characteristics that increase extinction risk:
-    -   Low reproductive rate
-    -   Rare species
-    -   Narrow geographic distribution
+- Species heading toward biological extinction are classified as:
+  - Endangered: so few individual survivors that the species could soon become extinct.
+  - Threatened: enough individuals to survive in the short term but not the long term.
+- Some species have characteristics that increase extinction risk:
+  - Low reproductive rate
+  - Rare species
+  - Narrow geographic distribution
 :::
 
 ::: {.column width="50%"}
@@ -677,15 +677,15 @@ Two common lake types
 
 ::::: columns
 ::: {.column width="50%"}
--   Species interact in complex ecological networks.
--   The loss of one species can disrupt these interactions.
--   Some species play key ecological roles, such as:
-    -   Pollination
-    -   Seed dispersal
-    -   Nutrient cycling
-    -   Predation and population control
--   When man species disappear, ecosystems can lose important functions.
--   In some cases, the loss of a single keystone species can cause large changes in ecosystem structure and biodiversity.
+- Species interact in complex ecological networks.
+- The loss of one species can disrupt these interactions.
+- Some species play key ecological roles, such as:
+  - Pollination
+  - Seed dispersal
+  - Nutrient cycling
+  - Predation and population control
+- When man species disappear, ecosystems can lose important functions.
+- In some cases, the loss of a single keystone species can cause large changes in ecosystem structure and biodiversity.
 :::
 
 ::: {.column width="50%"}
@@ -697,10 +697,10 @@ Two common lake types
 
 ::::: columns
 ::: {.column width="50%"}
--   We depend on many ecosystem services, including provisioning (e.g. fish) and maintenance services (e.g. carbon sequestration)
--   Many species contribute to economic services such as the discovery of medicinal drugs.
--   “Eliminating species that make up an essential part of the world’s biodiversity is like burning millions of books that we have never read.”
--   Sharp reductions in biodiversity result in reduced speciation.
+- We depend on many ecosystem services, including provisioning (e.g. fish) and maintenance services (e.g. carbon sequestration)
+- Many species contribute to economic services such as the discovery of medicinal drugs.
+- “Eliminating species that make up an essential part of the world’s biodiversity is like burning millions of books that we have never read.”
+- Sharp reductions in biodiversity result in reduced speciation.
 :::
 
 ::: {.column width="50%"}
@@ -712,13 +712,13 @@ Two common lake types
 
 ::::: columns
 ::: {.column width="50%"}
--   [HIPPCO]{.keyword}
-    -   Habitat destruction, degradation, and fragmentation (greatest threat to species)
-    -   Invasive (nonnative species)
-    -   Population growth and increasing use of resources
-    -   Pollution
-    -   Climate change
-    -   Overexploitation
+- [HIPPCO]{.keyword}
+  - Habitat destruction, degradation, and fragmentation (greatest threat to species)
+  - Invasive (nonnative species)
+  - Population growth and increasing use of resources
+  - Pollution
+  - Climate change
+  - Overexploitation
 :::
 
 ::: {.column width="50%"}
@@ -730,15 +730,15 @@ Two common lake types
 
 ::::: columns
 ::: {.column width="50%"}
--   [Habitat fragmentation]{.keyword} occurs when large, continuous habitats are divided into smaller, isolated patches.
+- [Habitat fragmentation]{.keyword} occurs when large, continuous habitats are divided into smaller, isolated patches.
 
--   Human activities such as roads, logging, agriculture, and urban development commonly cause fragmentation.
+- Human activities such as roads, logging, agriculture, and urban development commonly cause fragmentation.
 
--   Fragmentation increases **edge habitat** and reduces **core interior habitat**, which can negatively affect species that require large, undisturbed areas.
+- Fragmentation increases **edge habitat** and reduces **core interior habitat**, which can negatively affect species that require large, undisturbed areas.
 
--   Isolated habitat patches can restrict movement between populations.
+- Isolated habitat patches can restrict movement between populations.
 
--   Limited movement makes species more vulnerable to predators, disturbance, and local extinction.
+- Limited movement makes species more vulnerable to predators, disturbance, and local extinction.
 :::
 
 ::: {.column width="50%"}
@@ -750,16 +750,16 @@ Two common lake types
 
 ::::: columns
 ::: {.column width="50%"}
--   [Nonnative species]{.keyword} (also called introduced or exotic species) are organisms that humans move outside their natural geographic range.
+- [Nonnative species]{.keyword} (also called introduced or exotic species) are organisms that humans move outside their natural geographic range.
 
--   Species may be introduced:
+- Species may be introduced:
 
-    -   **Intentionally** (agriculture, horticulture, pest control, pets)
-    -   **Accidentally** (shipping, trade, travel)
+  - **Intentionally** (agriculture, horticulture, pest control, pets)
+  - **Accidentally** (shipping, trade, travel)
 
--   Many introduced species survive only briefly.
+- Many introduced species survive only briefly.
 
--   Some become [invasive species]{.keyword} when they establish, spread rapidly, and disrupt native ecosystems.
+- Some become [invasive species]{.keyword} when they establish, spread rapidly, and disrupt native ecosystems.
 :::
 
 ::: {.column width="50%"}
@@ -771,18 +771,18 @@ Two common lake types
 
 ::::: columns
 ::: {.column width="50%"}
--   Invasive species can harm ecosystems by:
+- Invasive species can harm ecosystems by:
 
-    -   Competing with native species for resources
-    -   Preying on native species
-    -   Spreading disease
-    -   Altering habitats or ecosystem processes
+  - Competing with native species for resources
+  - Preying on native species
+  - Spreading disease
+  - Altering habitats or ecosystem processes
 
--   In the United States, invasive species are a major contributor to species endangerment:
+- In the United States, invasive species are a major contributor to species endangerment:
 
-    -   **Zebra mussels** in North America clog water systems and outcompete native mussels.
-    -   **Kudzu vine** spreads rapidly and smothers native vegetation in the southeastern United States.
-    -   **Burmese pythons** in Florida prey on native mammals and birds in the Everglades.
+  - **Zebra mussels** in North America clog water systems and outcompete native mussels.
+  - **Kudzu vine** spreads rapidly and smothers native vegetation in the southeastern United States.
+  - **Burmese pythons** in Florida prey on native mammals and birds in the Everglades.
 :::
 
 ::: {.column width="50%"}
@@ -794,13 +794,13 @@ Two common lake types
 
 ::::: columns
 ::: {.column width="50%"}
--   Once nonnative species become established, they are almost impossible to remove.
--   Prevention is the best way to limit threats:
-    -   Funding research to identify bioinvader characteristics
-    -   Using satellite observations and ground surveys to model dispersal
--   Establish international treaties banning species transfer.
--   Increase inspection on imported goods.
--   Educate the public about harmful effects of releasing nonnative species.
+- Once nonnative species become established, they are almost impossible to remove.
+- Prevention is the best way to limit threats:
+  - Funding research to identify bioinvader characteristics
+  - Using satellite observations and ground surveys to model dispersal
+- Establish international treaties banning species transfer.
+- Increase inspection on imported goods.
+- Educate the public about harmful effects of releasing nonnative species.
 :::
 
 ::: {.column width="50%"}
@@ -812,25 +812,25 @@ Two common lake types
 
 ::::: columns
 ::: {.column width="50%"}
--   As the human population grows, the **ecological footprint** of human activities expands.
+- As the human population grows, the **ecological footprint** of human activities expands.
 
--   More land and resources are required for:
+- More land and resources are required for:
 
-    -   Agriculture
-    -   Cities and infrastructure
-    -   Energy and materials
+  - Agriculture
+  - Cities and infrastructure
+  - Energy and materials
 
--   Expanding human land use reduces and fragments wildlife habitat.
+- Expanding human land use reduces and fragments wildlife habitat.
 
--   Increasing human population and resource use can drive species toward extinction.
+- Increasing human population and resource use can drive species toward extinction.
 :::
 
 ::: {.column width="50%"}
--   Example: **Passenger pigeon**
+- Example: **Passenger pigeon**
 
-    -   Once one of the most abundant birds in North America
-    -   Extensive deforestation and commercial hunting in the 1800s caused rapid population collapse
-    -   The last individual died in captivity in 1914
+  - Once one of the most abundant birds in North America
+  - Extensive deforestation and commercial hunting in the 1800s caused rapid population collapse
+  - The last individual died in captivity in 1914
 
 ![Illustration of passenger pigeons in a large flock. Image from Revive & Restore (reviverestore.org). Credit: [Tim Hough](http://www.timhough.com/)](https://i0.wp.com/reviverestore.org/wp-content/uploads/2017/11/flock2.png){fig-align="center" width="50%"}
 :::
@@ -840,24 +840,24 @@ Two common lake types
 
 ::::: columns
 ::: {.column width="50%"}
--   Biodiversity is declining at an unusually rapid rate.
+- Biodiversity is declining at an unusually rapid rate.
 
--   Current extinction rates are estimated to be **tens to hundreds of times higher** than natural background rates.
+- Current extinction rates are estimated to be **tens to hundreds of times higher** than natural background rates.
 
--   Some scientists describe the current period as a possible **sixth mass extinction**.
+- Some scientists describe the current period as a possible **sixth mass extinction**.
 
--   Human activities are the primary drivers of modern biodiversity loss.
+- Human activities are the primary drivers of modern biodiversity loss.
 :::
 
 ::: {.column width="50%"}
--   Major causes are often summarized as **HIPPCO**:
+- Major causes are often summarized as **HIPPCO**:
 
-    -   Habitat loss and fragmentation
-    -   Invasive species
-    -   Pollution
-    -   Population growth and resource use
-    -   Climate change
-    -   Overexploitation
+  - Habitat loss and fragmentation
+  - Invasive species
+  - Pollution
+  - Population growth and resource use
+  - Climate change
+  - Overexploitation
 :::
 :::::
 
@@ -867,15 +867,15 @@ Two common lake types
 
 ::::: columns
 ::: {.column width="50%"}
--   1975 Convention on International Trade in Endangered Species (CITES)
-    -   Signed by 178 countries
-    -   Bans hunting, capturing, and selling threatened and endangered species
--   Enforcement varies among countries.
--   Countries can exempt themselves from particular species.
--   Convention on Biological Diversity (CBD)
-    -   Signed by 193 countries
-    -   Commits to reducing biodiversity loss and sharing genetic resources
-    -   Focuses on ecosystems rather than individual species.
+- 1975 Convention on International Trade in Endangered Species (CITES)
+  - Signed by 178 countries
+  - Bans hunting, capturing, and selling threatened and endangered species
+- Enforcement varies among countries.
+- Countries can exempt themselves from particular species.
+- Convention on Biological Diversity (CBD)
+  - Signed by 193 countries
+  - Commits to reducing biodiversity loss and sharing genetic resources
+  - Focuses on ecosystems rather than individual species.
 :::
 
 ::: {.column width="50%"}
@@ -886,12 +886,12 @@ Two common lake types
 
 ::::: columns
 ::: {.column width="50%"}
--   Establish wildlife refuges and protected areas.
--   The National Wildlife Refuge System was established by President Theodore Roosevelt.
--   By 2013 there were more than 560 refuges in the system.
--   Wetlands are protected in three-fourths of these refuges.
--   At least one-fourth of all U.S. endangered and threatened species have habitats in these refuges.
--   Pelican Island National Wildlife Refuge in Florida was America’s first refuge.
+- Establish wildlife refuges and protected areas.
+- The National Wildlife Refuge System was established by President Theodore Roosevelt.
+- By 2013 there were more than 560 refuges in the system.
+- Wetlands are protected in three-fourths of these refuges.
+- At least one-fourth of all U.S. endangered and threatened species have habitats in these refuges.
+- Pelican Island National Wildlife Refuge in Florida was America’s first refuge.
 :::
 
 ::: {.column width="50%"}
@@ -903,10 +903,10 @@ Two common lake types
 
 ::::: columns
 ::: {.column width="50%"}
--   Plant genetic information preserved in climate-controlled seed banks.
--   Example: Svalbard Global Seed Vault.
--   Botanical gardens help preserve species, but only about 3% of the world’s plants are preserved.
--   Some farms raise endangered species for sale, reducing pressure on wild populations.
+- Plant genetic information preserved in climate-controlled seed banks.
+- Example: Svalbard Global Seed Vault.
+- Botanical gardens help preserve species, but only about 3% of the world’s plants are preserved.
+- Some farms raise endangered species for sale, reducing pressure on wild populations.
 :::
 
 ::: {.column width="50%"}
@@ -920,14 +920,14 @@ Two common lake types
 
 ::::: columns
 ::: {.column width="50%"}
--   Some endangered species preserved using:
-    -   Egg pulling
-    -   Captive breeding
--   Other techniques include:
-    -   Artificial insemination
-    -   Embryo transfer
-    -   Incubators
-    -   Cross-fostering
+- Some endangered species preserved using:
+  - Egg pulling
+  - Captive breeding
+- Other techniques include:
+  - Artificial insemination
+  - Embryo transfer
+  - Incubators
+  - Cross-fostering
 :::
 
 ::: {.column width="50%"}
@@ -939,10 +939,10 @@ Two common lake types
 
 ::::: columns
 ::: {.column width="50%"}
--   The major issue is genetic variation.
--   Scientists estimate that 10,000 or more individuals are needed to maintain evolutionary potential.
--   Zoos do not have space or resources to maintain such populations.
--   Aquariums serve mainly educational roles and cannot act as gene banks.
+- The major issue is genetic variation.
+- Scientists estimate that 10,000 or more individuals are needed to maintain evolutionary potential.
+- Zoos do not have space or resources to maintain such populations.
+- Aquariums serve mainly educational roles and cannot act as gene banks.
 :::
 
 ::: {.column width="50%"}
@@ -952,15 +952,15 @@ Two common lake types
 
 ## Limitations of Financial and Human Resources Raise Additional Questions
 
--   Conservation resources are limited.
+- Conservation resources are limited.
 
--   Decisions must be made about which species and ecosystems to prioritize.
+- Decisions must be made about which species and ecosystems to prioritize.
 
--   Should conservation focus on species humans find appealing or those with the greatest ecological importance?
+- Should conservation focus on species humans find appealing or those with the greatest ecological importance?
 
--   How do scientists determine which habitats most need protection?
+- How do scientists determine which habitats most need protection?
 
--   How should limited conservation resources be allocated among biodiversity hotspots?
+- How should limited conservation resources be allocated among biodiversity hotspots?
 
 # Conserving Ecosystems
 
@@ -968,11 +968,11 @@ Two common lake types
 
 ::::: columns
 ::: {.column width="50%"}
--   [Forests]{.keyword} provide critical [ecosystem services]{.keyword}, including carbon storage, climate regulation, and water cycling
--   Forests support a large share of terrestrial [biodiversity]{.keyword}, provide habitat for many species
--   Hundreds of millions of people live in or near forests, and over **1 billion people** rely on them for food, fuel, and livelihoods
--   Contribute to human well-being, including **clean water, air quality, and disease regulation**
--   Important source of **medicines and bioactive compounds** used in modern and traditional healthcare
+- [Forests]{.keyword} provide critical [ecosystem services]{.keyword}, including carbon storage, climate regulation, and water cycling
+- Forests support a large share of terrestrial [biodiversity]{.keyword}, provide habitat for many species
+- Hundreds of millions of people live in or near forests, and over **1 billion people** rely on them for food, fuel, and livelihoods
+- Contribute to human well-being, including **clean water, air quality, and disease regulation**
+- Important source of **medicines and bioactive compounds** used in modern and traditional healthcare
 :::
 
 ::: {.column width="50%"}
@@ -984,12 +984,12 @@ Two common lake types
 
 ::::: columns
 ::: {.column width="50%"}
--   Forests have tremendous economic value.
--   Scientists and economists have estimated the economic value of major ecosystem services that the world’s forests and other ecosystems provide.
--   Forests are most threatened by:
-    -   Unsustainable cutting and burning of vegetation
-    -   The effects of climate change
-        -   (changing fire regimes)
+- Forests have tremendous economic value.
+- Scientists and economists have estimated the economic value of major ecosystem services that the world’s forests and other ecosystems provide.
+- Forests are most threatened by:
+  - Unsustainable cutting and burning of vegetation
+  - The effects of climate change
+    - (changing fire regimes)
 :::
 
 ::: {.column width="50%"}
@@ -1001,11 +1001,11 @@ Two common lake types
 
 ::::: columns
 ::: {.column width="50%"}
--   [ecological succession]{.keyword}: gradual change in species composition over time after disturbance
--   [primary succession]{.keyword}: begins on bare substrate (e.g., after glaciation or volcanic activity)
--   [secondary succession]{.keyword}: recovery after disturbance with soil remaining (e.g., fire, logging)
--   Early stages dominated by fast-growing species; later stages by long-lived, shade-tolerant species
--   Leads to more complex structure and increased biodiversity over time
+- [ecological succession]{.keyword}: gradual change in species composition over time after disturbance
+- [primary succession]{.keyword}: begins on bare substrate (e.g., after glaciation or volcanic activity)
+- [secondary succession]{.keyword}: recovery after disturbance with soil remaining (e.g., fire, logging)
+- Early stages dominated by fast-growing species; later stages by long-lived, shade-tolerant species
+- Leads to more complex structure and increased biodiversity over time
 :::
 
 ::: {.column width="50%"}
@@ -1017,17 +1017,17 @@ Two common lake types
 
 ::::: columns
 ::: {.column width="50%"}
--   [old-growth forest]{.keyword} (primary forest): little or no major disturbance for long periods (\~200+ years)
+- [old-growth forest]{.keyword} (primary forest): little or no major disturbance for long periods (\~200+ years)
 
--   Structurally complex with large, old trees, multiple layers, and high habitat diversity
+- Structurally complex with large, old trees, multiple layers, and high habitat diversity
 
--   Acts as a reservoir of [biodiversity]{.keyword}, supporting many specialized species
+- Acts as a reservoir of [biodiversity]{.keyword}, supporting many specialized species
 
--   [second-growth forest]{.keyword}: regrows after disturbance through [secondary succession]{.keyword}
+- [second-growth forest]{.keyword}: regrows after disturbance through [secondary succession]{.keyword}
 
--   Develops following logging, agriculture, fire, or storms
+- Develops following logging, agriculture, fire, or storms
 
--   Typically younger, less structurally complex, and lower biodiversity than old-growth forests
+- Typically younger, less structurally complex, and lower biodiversity than old-growth forests
 :::
 
 ::: {.column width="50%"}
@@ -1039,12 +1039,12 @@ Two common lake types
 
 ::::: columns
 ::: {.column width="50%"}
--   A managed forest that contains only one or two species of trees that are all the same age.
--   Also known as a tree farm or commercial forest.
--   Old-growth or second-growth forests are often cleared for timber and replaced by tree plantations.
--   Trees grown in plantations are usually harvested by clear-cutting as soon as they become commercially valuable. Land is then replanted and clear-cut again in a regular cycle.
--   Some limited ecological benefit for some species. Most forest specialists will not live here.
--   Lower biodiversity and ecosystem services than natural forest
+- A managed forest that contains only one or two species of trees that are all the same age.
+- Also known as a tree farm or commercial forest.
+- Old-growth or second-growth forests are often cleared for timber and replaced by tree plantations.
+- Trees grown in plantations are usually harvested by clear-cutting as soon as they become commercially valuable. Land is then replanted and clear-cut again in a regular cycle.
+- Some limited ecological benefit for some species. Most forest specialists will not live here.
+- Lower biodiversity and ecosystem services than natural forest
 :::
 
 ::: {.column width="50%"}
@@ -1056,14 +1056,14 @@ Two common lake types
 
 ::::: columns
 ::: {.column width="50%"}
--   Harvest methods vary in **intensity and ecological impact**
--   [selective cutting]{.keyword}: removes individual or small groups of trees
-    -   Lower impact; maintains forest structure and biodiversity
--   [shelterwood cutting]{.keyword}: removes trees in stages
-    -   Balances timber harvest with natural regeneration
--   [clear-cutting]{.keyword}: removes all trees from an area
-    -   Most efficient, but causes high habitat loss and ecosystem disturbance
--   More info
+- Harvest methods vary in **intensity and ecological impact**
+- [selective cutting]{.keyword}: removes individual or small groups of trees
+  - Lower impact; maintains forest structure and biodiversity
+- [shelterwood cutting]{.keyword}: removes trees in stages
+  - Balances timber harvest with natural regeneration
+- [clear-cutting]{.keyword}: removes all trees from an area
+  - Most efficient, but causes high habitat loss and ecosystem disturbance
+- More info
 :::
 
 ::: {.column width="50%"}
@@ -1075,14 +1075,14 @@ Two common lake types
 
 ::::: columns
 ::: {.column width="50%"}
--   Fire can **release nutrients, reduce fuel buildup, and stimulate regeneration**
--   Severe fires can **remove vegetation, increase erosion, and alter succession pathways**
--   Types of fires
-    -   [ground fires]{.keyword}: burn organic material below the surface (roots, peat). Slow-moving, difficult to detect and extinguish
+- Fire can **release nutrients, reduce fuel buildup, and stimulate regeneration**
+- Severe fires can **remove vegetation, increase erosion, and alter succession pathways**
+- Types of fires
+  - [ground fires]{.keyword}: burn organic material below the surface (roots, peat). Slow-moving, difficult to detect and extinguish
 
-    -   [surface fires]{.keyword}: burn leaf litter and low vegetation. Often low intensity; can recycle nutrients and maintain ecosystem health
+  - [surface fires]{.keyword}: burn leaf litter and low vegetation. Often low intensity; can recycle nutrients and maintain ecosystem health
 
-    -   [crown fires]{.keyword}: burn through tree canopies. High intensity; spread rapidly and cause severe ecosystem damage
+  - [crown fires]{.keyword}: burn through tree canopies. High intensity; spread rapidly and cause severe ecosystem damage
 :::
 
 ::: {.column width="50%"}
@@ -1094,11 +1094,11 @@ Two common lake types
 
 ::::: columns
 ::: {.column width="50%"}
--   [deforestation]{.keyword}: large-scale removal of forests for agriculture, grazing, and development
--   [intact forest landscapes]{.keyword}: large, continuous areas of natural forest with **minimal human disturbance**
--   Since 2000, about **12% of intact forest landscapes have been lost globally**
--   Loss is concentrated in tropical regions and parts of the boreal zone
--   Reduces [biodiversity]{.keyword}, carbon storage, and increases erosion and watershed degradation
+- [deforestation]{.keyword}: large-scale removal of forests for agriculture, grazing, and development
+- [intact forest landscapes]{.keyword}: large, continuous areas of natural forest with **minimal human disturbance**
+- Since 2000, about **12% of intact forest landscapes have been lost globally**
+- Loss is concentrated in tropical regions and parts of the boreal zone
+- Reduces [biodiversity]{.keyword}, carbon storage, and increases erosion and watershed degradation
 :::
 
 ::: {.column width="50%"}
@@ -1110,11 +1110,11 @@ Two common lake types
 
 ::::: columns
 ::: {.column width="50%"}
--   From 2000–2013, the main driver of forest loss was **agroindustrial clearing for pasture** (\~63% of total loss)
--   Other drivers included **small-scale clearing** (\~12%) and **cropland expansion** (\~9%)
--   By 2013, disturbance in nonprimary forests plus fire and logging made up \~53% of total loss, rivaling primary-forest deforestation
--   Fire disturbance peaked in 2005, 2007, and 2010 during major droughts
--   Focusing only on primary deforestation misses a growing share of forest degradation and carbon loss
+- From 2000–2013, the main driver of forest loss was **agroindustrial clearing for pasture** (\~63% of total loss)
+- Other drivers included **small-scale clearing** (\~12%) and **cropland expansion** (\~9%)
+- By 2013, disturbance in nonprimary forests plus fire and logging made up \~53% of total loss, rivaling primary-forest deforestation
+- Fire disturbance peaked in 2005, 2007, and 2010 during major droughts
+- Focusing only on primary deforestation misses a growing share of forest degradation and carbon loss
 :::
 
 ::: {.column width="50%"}
@@ -1126,11 +1126,11 @@ Two common lake types
 
 ::::: columns
 ::: {.column width="50%"}
--   Since 1600, much of the eastern U.S. was cleared for **agriculture, timber, and settlement**
--   Forest cover declined sharply by the early 1900s, with most original forests removed or fragmented
--   Since then, forest cover has **partially recovered** as agriculture shifted west and land was abandoned
--   Today, many U.S. forests are **second-growth or managed forests**, not original old-growth systems
--   Regrowth has restored tree cover, but forests often differ in **structure, biodiversity, and ecological function**
+- Since 1600, much of the eastern U.S. was cleared for **agriculture, timber, and settlement**
+- Forest cover declined sharply by the early 1900s, with most original forests removed or fragmented
+- Since then, forest cover has **partially recovered** as agriculture shifted west and land was abandoned
+- Today, many U.S. forests are **second-growth or managed forests**, not original old-growth systems
+- Regrowth has restored tree cover, but forests often differ in **structure, biodiversity, and ecological function**
 :::
 
 ::: {.column width="50%"}
@@ -1142,21 +1142,21 @@ Two common lake types
 
 Some strategies include:
 
--   Protect [species]{.keyword} and prevent extinctions through conservation and management
--   Expand and connect [protected areas]{.keyword} (parks, reserves, wildlife corridors)
--   Identify and prioritize [biodiversity hotspots]{.keyword} for conservation
--   Reduce habitat loss by limiting deforestation, grassland conversion, and fragmentation
--   Restore degraded ecosystems through [ecological restoration]{.keyword} and rehabilitation
+- Protect [species]{.keyword} and prevent extinctions through conservation and management
+- Expand and connect [protected areas]{.keyword} (parks, reserves, wildlife corridors)
+- Identify and prioritize [biodiversity hotspots]{.keyword} for conservation
+- Reduce habitat loss by limiting deforestation, grassland conversion, and fragmentation
+- Restore degraded ecosystems through [ecological restoration]{.keyword} and rehabilitation
 
 ## Protecting Biodiversity Hotspots
 
 ::::: columns
 ::: {.column width="50%"}
--   [biodiversity hotspots]{.keyword}: regions with high species richness and high levels of endemism under threat
--   Cover only \~2–3% of Earth’s land surface but contain a large share of global plant and vertebrate diversity
--   Many hotspots face intense pressure from habitat loss and human development
--   A relatively small proportion is effectively protected and managed
--   Targeted conservation in hotspots can protect a disproportionate share of global biodiversity
+- [biodiversity hotspots]{.keyword}: regions with high species richness and high levels of endemism under threat
+- Cover only \~2–3% of Earth’s land surface but contain a large share of global plant and vertebrate diversity
+- Many hotspots face intense pressure from habitat loss and human development
+- A relatively small proportion is effectively protected and managed
+- Targeted conservation in hotspots can protect a disproportionate share of global biodiversity
 :::
 
 ::: {.column width="50%"}
@@ -1166,21 +1166,21 @@ Some strategies include:
 
 ## Restoring and Rebuilding Ecosystems
 
--   Repair ecosystem damage and support [ecological succession]{.keyword} through different approaches
-    -   [ecological restoration]{.keyword}: return ecosystems as close as possible to their original state
-    -   [rehabilitation]{.keyword}: improve ecosystem function without fully restoring original conditions
-    -   [replacement]{.keyword}: convert degraded systems into productive uses (e.g., pasture or managed forest)
-    -   [artificial ecosystems]{.keyword}: create human-designed systems to provide specific ecosystem services
--   These approaches vary in how much **biodiversity and ecosystem function** they recover
+- Repair ecosystem damage and support [ecological succession]{.keyword} through different approaches
+  - [ecological restoration]{.keyword}: return ecosystems as close as possible to their original state
+  - [rehabilitation]{.keyword}: improve ecosystem function without fully restoring original conditions
+  - [replacement]{.keyword}: convert degraded systems into productive uses (e.g., pasture or managed forest)
+  - [artificial ecosystems]{.keyword}: create human-designed systems to provide specific ecosystem services
+- These approaches vary in how much **biodiversity and ecosystem function** they recover
 
 ## Human Activities Are Threatening Aquatic Biodiversity
 
 ::::: columns
 ::: {.column width="50%"}
--   Human activities have degraded [aquatic ecosystems]{.keyword}, including wetlands, coral reefs, mangroves, and the ocean floor
--   [freshwater systems]{.keyword} are altered by dams, water withdrawal, pollution, and land use change
--   [bottom trawling]{.keyword} damages seafloor habitats by dragging heavy nets across the ocean floor
--   Coastal development, pollution, and climate change are major drivers of aquatic biodiversity loss
+- Human activities have degraded [aquatic ecosystems]{.keyword}, including wetlands, coral reefs, mangroves, and the ocean floor
+- [freshwater systems]{.keyword} are altered by dams, water withdrawal, pollution, and land use change
+- [bottom trawling]{.keyword} damages seafloor habitats by dragging heavy nets across the ocean floor
+- Coastal development, pollution, and climate change are major drivers of aquatic biodiversity loss
 :::
 
 ::: {.column width="50%"}
@@ -1192,11 +1192,11 @@ Some strategies include:
 
 ::::: columns
 ::: {.column width="50%"}
--   Oceans absorb about **25% of human CO₂ emissions**
--   Dissolved CO₂ forms carbonic acid, releasing hydrogen ions (H⁺)
--   Increased H⁺ lowers [pH]{.keyword}, making seawater more acidic
--   Ocean chemistry varies regionally, with lower pH in some upwelling areas
--   Ongoing acidification is a major threat to marine ecosystems
+- Oceans absorb about **25% of human CO₂ emissions**
+- Dissolved CO₂ forms carbonic acid, releasing hydrogen ions (H⁺)
+- Increased H⁺ lowers [pH]{.keyword}, making seawater more acidic
+- Ocean chemistry varies regionally, with lower pH in some upwelling areas
+- Ongoing acidification is a major threat to marine ecosystems
 :::
 
 ::: {.column width="50%"}
@@ -1208,11 +1208,11 @@ Some strategies include:
 
 ::::: columns
 ::: {.column width="50%"}
--   Acidification reduces [carbonate ions]{.keyword} (CO₃²⁻) needed for shell formation
--   Many organisms rely on [calcium carbonate]{.keyword} (CaCO₃) for shells and skeletons
--   Affected groups include corals, shellfish, and some plankton
--   Lower carbonate availability slows growth and weakens structures
--   In more acidic conditions, shells and coral reefs may begin to dissolve
+- Acidification reduces [carbonate ions]{.keyword} (CO₃²⁻) needed for shell formation
+- Many organisms rely on [calcium carbonate]{.keyword} (CaCO₃) for shells and skeletons
+- Affected groups include corals, shellfish, and some plankton
+- Lower carbonate availability slows growth and weakens structures
+- In more acidic conditions, shells and coral reefs may begin to dissolve
 :::
 
 ::: {.column width="50%"}
@@ -1224,13 +1224,13 @@ Some strategies include:
 
 ::::: columns
 ::: {.column width="50%"}
--   Introduction of invasive species can threaten aquatic ecosystems.
+- Introduction of invasive species can threaten aquatic ecosystems.
 
--   Lionfish consume many reef fish species, including parrotfish that normally control algae on reefs.
+- Lionfish consume many reef fish species, including parrotfish that normally control algae on reefs.
 
--   Where lionfish dominate, coral reefs may be severely threatened.
+- Where lionfish dominate, coral reefs may be severely threatened.
 
--   Lionfish have invaded eastern coastal waters of North America and have few natural predators.
+- Lionfish have invaded eastern coastal waters of North America and have few natural predators.
 :::
 
 ::: {.column width="50%"}
@@ -1242,16 +1242,16 @@ Some strategies include:
 
 ::::: columns
 ::: {.column width="50%"}
--   Fish provide about 20% of the world’s animal protein.
+- Fish provide about 20% of the world’s animal protein.
 
--   A **fishery** is a concentration of wild aquatic species suitable for commercial harvesting.
+- A **fishery** is a concentration of wild aquatic species suitable for commercial harvesting.
 
--   Industrial fishing fleets use GPS, sonar, huge nets, long fishing lines, aircraft, and factory ships.
+- Industrial fishing fleets use GPS, sonar, huge nets, long fishing lines, aircraft, and factory ships.
 
--   Overfishing:
+- Overfishing:
 
-    -   Reduces marine biodiversity
-    -   Degrades ecosystem services
+  - Reduces marine biodiversity
+  - Degrades ecosystem services
 :::
 
 ::: {.column width="50%"}
@@ -1263,16 +1263,16 @@ Some strategies include:
 
 ::::: columns
 ::: {.column width="50%"}
--   About 4.4 million fishing boats harvest fish worldwide.
+- About 4.4 million fishing boats harvest fish worldwide.
 
--   Approximately:
+- Approximately:
 
-    -   57% of fisheries are fully exploited
-    -   30% are overexploited or depleted
+  - 57% of fisheries are fully exploited
+  - 30% are overexploited or depleted
 
--   Overharvesting has caused collapse of several major fisheries.
+- Overharvesting has caused collapse of several major fisheries.
 
--   Large commercially valuable fish such as cod, marlin, swordfish, and tuna are becoming scarce.
+- Large commercially valuable fish such as cod, marlin, swordfish, and tuna are becoming scarce.
 :::
 
 ::: {.column width="50%"}
@@ -1284,18 +1284,18 @@ Some strategies include:
 
 ::::: columns
 ::: {.column width="50%"}
--   Fishing industries are increasingly targeting smaller species lower in the food web.
+- Fishing industries are increasingly targeting smaller species lower in the food web.
 
--   Examples include:
+- Examples include:
 
-    -   Anchovies
-    -   Herring
-    -   Sardines
-    -   Krill
+  - Anchovies
+  - Herring
+  - Sardines
+  - Krill
 
--   Much of this catch becomes fishmeal for aquaculture.
+- Much of this catch becomes fishmeal for aquaculture.
 
--   This reduces food availability for larger marine species and disrupts marine ecosystems.
+- This reduces food availability for larger marine species and disrupts marine ecosystems.
 :::
 
 ::: {.column width="50%"}
@@ -1306,14 +1306,14 @@ Some strategies include:
 
 ::::: columns
 ::: {.column width="50%"}
--   Jellyfish blooms can cause:
-    -   Beach closures
-    -   Disruption of fishing operations
-    -   Damage to coastal fish farms
--   Human activities that promote jellyfish growth include:
-    -   Removing their predators
-    -   Reducing competitors
-    -   Ocean acidification
+- Jellyfish blooms can cause:
+  - Beach closures
+  - Disruption of fishing operations
+  - Damage to coastal fish farms
+- Human activities that promote jellyfish growth include:
+  - Removing their predators
+  - Reducing competitors
+  - Ocean acidification
 :::
 
 ::: {.column width="50%"}
@@ -1325,19 +1325,19 @@ Some strategies include:
 
 ::::: columns
 ::: {.column width="50%"}
--   Strategies include:
-    -   Establishing marine protected areas
-    -   Managing coastal development
-    -   Reducing water pollution
-    -   Preventing overfishing
+- Strategies include:
+  - Establishing marine protected areas
+  - Managing coastal development
+  - Reducing water pollution
+  - Preventing overfishing
 :::
 
 ::: {.column width="50%"}
--   Protection is difficult because:
-    -   Fish prints and ecological footprints are expanding
-    -   Ocean damage is often not visible
-    -   The ocean is often viewed as an inexhaustible resource
-    -   Much of the ocean lies outside national jurisdiction
+- Protection is difficult because:
+  - Fish prints and ecological footprints are expanding
+  - Ocean damage is often not visible
+  - The ocean is often viewed as an inexhaustible resource
+  - Much of the ocean lies outside national jurisdiction
 :::
 :::::
 
@@ -1345,9 +1345,9 @@ Some strategies include:
 
 Key strategies:
 
--   Map and monitor aquatic biodiversity to identify priority areas
--   Protect biodiversity hotspots and expand marine protected areas
--   Establish large, fully protected marine reserves to support recovery
--   Restore degraded ecosystems (e.g., coral reefs, wetlands) through ecological restoration
--   Reduce overfishing, pollution, and habitat destruction
--   Support sustainable livelihoods to reduce pressure on aquatic ecosystems
+- Map and monitor aquatic biodiversity to identify priority areas
+- Protect biodiversity hotspots and expand marine protected areas
+- Establish large, fully protected marine reserves to support recovery
+- Restore degraded ecosystems (e.g., coral reefs, wetlands) through ecological restoration
+- Reduce overfishing, pollution, and habitat destruction
+- Support sustainable livelihoods to reduce pressure on aquatic ecosystems

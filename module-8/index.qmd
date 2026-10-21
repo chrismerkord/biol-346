@@ -35,15 +35,15 @@ editor: visual
 ::: {.column width="50%"}
 By the end of this module, you should be able to:
 
--   Describe the major layers of the atmosphere
--   Distinguish primary and secondary air pollutants
--   Explain how air pollution affects human and ecosystem health
+- Describe the major layers of the atmosphere
+- Distinguish primary and secondary air pollutants
+- Explain how air pollution affects human and ecosystem health
 :::
 
 ::: {.column width="50%"}
--   Explain the greenhouse effect
--   Identify major causes and consequences of climate change
--   Explain ozone depletion and why the Montreal Protocol matters
+- Explain the greenhouse effect
+- Identify major causes and consequences of climate change
+- Explain ozone depletion and why the Montreal Protocol matters
 :::
 :::::
 
@@ -51,10 +51,10 @@ By the end of this module, you should be able to:
 
 ::::: columns
 ::: {.column width="50%"}
--   Provides gases used by organisms
--   Regulates Earth’s temperature
--   Moves heat and water through weather systems
--   Screens harmful solar radiation
+- Provides gases used by organisms
+- Regulates Earth’s temperature
+- Moves heat and water through weather systems
+- Screens harmful solar radiation
 :::
 
 ::: {.column width="50%"}
@@ -66,10 +66,10 @@ By the end of this module, you should be able to:
 
 ::::: columns
 ::: {.column width="50%"}
--   Lowest atmospheric layer
--   Contains most atmospheric water vapor
--   Region where weather occurs
--   Most human-caused air pollution begins here
+- Lowest atmospheric layer
+- Contains most atmospheric water vapor
+- Region where weather occurs
+- Most human-caused air pollution begins here
 :::
 
 ::: {.column width="50%"}
@@ -81,10 +81,10 @@ By the end of this module, you should be able to:
 
 ::::: columns
 ::: {.column width="50%"}
--   Located above the troposphere
--   Contains concentrated ozone ($O_3$)
--   Absorbs much ultraviolet radiation
--   Protects organisms from DNA damage
+- Located above the troposphere
+- Contains concentrated ozone ($O_3$)
+- Absorbs much ultraviolet radiation
+- Protects organisms from DNA damage
 :::
 
 ::: {.column width="50%"}
@@ -98,9 +98,9 @@ By the end of this module, you should be able to:
 
 ::::: columns
 ::: {.column width="50%"}
--   [Air pollution]{.keyword}: harmful chemicals or particles in the atmosphere
--   Natural sources: dust, wildfires, volcanoes, pollen
--   Human sources: fossil fuels, vehicles, industry, agriculture
+- [Air pollution]{.keyword}: harmful chemicals or particles in the atmosphere
+- Natural sources: dust, wildfires, volcanoes, pollen
+- Human sources: fossil fuels, vehicles, industry, agriculture
 :::
 
 ::: {.column width="50%"}
@@ -112,13 +112,13 @@ By the end of this module, you should be able to:
 
 ::::: columns
 ::: {.column width="50%"}
--   Released directly into the atmosphere
--   Examples:
-    -   Carbon monoxide
-    -   Sulfur dioxide
-    -   Nitrogen oxides
-    -   Particulate matter
-    -   Volatile organic compounds
+- Released directly into the atmosphere
+- Examples:
+  - Carbon monoxide
+  - Sulfur dioxide
+  - Nitrogen oxides
+  - Particulate matter
+  - Volatile organic compounds
 :::
 
 ::: {.column width="50%"}
@@ -130,12 +130,12 @@ By the end of this module, you should be able to:
 
 ::::: columns
 ::: {.column width="50%"}
--   Produced by chemical reactions after emission
--   Often depend on sunlight and atmospheric conditions
--   Examples:
-    -   Tropospheric ozone
-    -   Acid-forming compounds
-    -   Some smog components
+- Produced by chemical reactions after emission
+- Often depend on sunlight and atmospheric conditions
+- Examples:
+  - Tropospheric ozone
+  - Acid-forming compounds
+  - Some smog components
 :::
 
 ::: {.column width="50%"}
@@ -147,12 +147,12 @@ By the end of this module, you should be able to:
 
 ::::: columns
 ::: {.column width="50%"}
--   [Industrial smog]{.keyword}
-    -   Sulfur compounds and particulates
-    -   Often linked to coal combustion
--   [Photochemical smog]{.keyword}
-    -   Nitrogen oxides + VOCs + sunlight
-    -   Common in vehicle-dominated cities
+- [Industrial smog]{.keyword}
+  - Sulfur compounds and particulates
+  - Often linked to coal combustion
+- [Photochemical smog]{.keyword}
+  - Nitrogen oxides + VOCs + sunlight
+  - Common in vehicle-dominated cities
 :::
 
 ::: {.column width="50%"}
@@ -172,18 +172,18 @@ Over 70 years of science, policy, and action have dramatically reduced harmful s
 ::: {.column width="50%"}
 Pollution can be **reduced** by:
 
--   Wind dilution
--   Rain or snow removal
--   Particle settling
+- Wind dilution
+- Rain or snow removal
+- Particle settling
 :::
 
 ::: {.column width="50%"}
 Pollution can be **increased** by:
 
--   Temperature inversions
--   Mountains or valley topography
--   Urban structures that block airflow
--   High temperatures that accelerate reactions
+- Temperature inversions
+- Mountains or valley topography
+- Urban structures that block airflow
+- High temperatures that accelerate reactions
 :::
 :::::
 
@@ -191,9 +191,9 @@ Pollution can be **increased** by:
 
 ::::: columns
 ::: {.column width="50%"}
--   Normally, warm air rises and mixes
--   In an inversion, warm air sits above cooler surface air
--   Pollutants accumulate near people and ecosystems
+- Normally, warm air rises and mixes
+- In an inversion, warm air sits above cooler surface air
+- Pollutants accumulate near people and ecosystems
 :::
 
 ::: {.column width="50%"}
@@ -205,9 +205,9 @@ Pollution can be **increased** by:
 
 ::::: columns
 ::: {.column width="50%"}
--   Sulfur and nitrogen emissions form acids
--   Acids return to Earth through wet and dry deposition
--   Effects may occur far from the emission source
+- Sulfur and nitrogen emissions form acids
+- Acids return to Earth through wet and dry deposition
+- Effects may occur far from the emission source
 :::
 
 ::: {.column width="50%"}
@@ -219,18 +219,18 @@ Pollution can be **increased** by:
 
 ::::: columns
 ::: {.column width="50%"}
--   Acidifies lakes and streams
--   Leaches nutrients from soils
--   Mobilizes toxic metals
--   Reduces plant productivity
+- Acidifies lakes and streams
+- Leaches nutrients from soils
+- Mobilizes toxic metals
+- Reduces plant productivity
 
 ![](images/clipboard-614119608.png){fig-align="center" width="590"}
 :::
 
 ::: {.column width="50%"}
--   Damages buildings and monuments
--   Worsens respiratory problems
--   Can alter food webs through biomagnification
+- Damages buildings and monuments
+- Worsens respiratory problems
+- Can alter food webs through biomagnification
 
 ![](images/clipboard-3543575547.png){fig-align="center" width="497"}
 :::
@@ -240,11 +240,11 @@ Pollution can be **increased** by:
 
 ::::: columns
 ::: {.column width="50%"}
--   Smoke from wood, charcoal, dung, and coal
--   Tobacco smoke
--   Building materials and furniture
--   Cleaning products and solvents
--   Poor ventilation increases exposure
+- Smoke from wood, charcoal, dung, and coal
+- Tobacco smoke
+- Building materials and furniture
+- Cleaning products and solvents
+- Poor ventilation increases exposure
 :::
 
 ::: {.column width="50%"}
@@ -256,14 +256,14 @@ Pollution can be **increased** by:
 
 ::::: columns
 ::: {.column width="50%"}
--   Fine particles penetrate deep into lungs
--   Pollutants can overwhelm respiratory defenses
--   Long-term exposure increases disease risk
--   Health effects include:
-    -   Asthma and respiratory illness
-    -   Cardiovascular disease
-    -   Premature death
--   Death rate has declined, mostly due to indoor pollution reduction
+- Fine particles penetrate deep into lungs
+- Pollutants can overwhelm respiratory defenses
+- Long-term exposure increases disease risk
+- Health effects include:
+  - Asthma and respiratory illness
+  - Cardiovascular disease
+  - Premature death
+- Death rate has declined, mostly due to indoor pollution reduction
 :::
 
 ::: {.column width="50%"}
@@ -275,14 +275,14 @@ Pollution can be **increased** by:
 
 ::::: columns
 ::: {.column width="50%"}
--   Emission standards
--   Cleaner fuels and energy sources
--   Public transit and efficient vehicles
--   Pollution control technology
--   Better indoor ventilation
--   Cleaner stoves and cookers
--   Product standards for indoor materials
--   Reduced tobacco smoke exposure
+- Emission standards
+- Cleaner fuels and energy sources
+- Public transit and efficient vehicles
+- Pollution control technology
+- Better indoor ventilation
+- Cleaner stoves and cookers
+- Product standards for indoor materials
+- Reduced tobacco smoke exposure
 :::
 
 ::: {.column width="50%"}
@@ -295,15 +295,15 @@ Pollution can be **increased** by:
 
 ::::: columns
 ::: {.column width="50%"}
--   [Weather]{.keyword}: short-term atmospheric conditions
-    -   Changes over hours to days
-    -   Examples: storm, heat wave, cold front
+- [Weather]{.keyword}: short-term atmospheric conditions
+  - Changes over hours to days
+  - Examples: storm, heat wave, cold front
 :::
 
 ::: {.column width="50%"}
--   [Climate]{.keyword}: long-term average conditions and patterns
-    -   Usually measured over decades
-    -   Examples: average temperature, precipitation, seasonality
+- [Climate]{.keyword}: long-term average conditions and patterns
+  - Usually measured over decades
+  - Examples: average temperature, precipitation, seasonality
 :::
 :::::
 
@@ -311,10 +311,10 @@ Pollution can be **increased** by:
 
 ::::: columns
 ::: {.column width="50%"}
--   Sunlight enters the atmosphere
--   Earth absorbs energy and emits infrared radiation
--   Greenhouse gases absorb some outgoing heat
--   Natural greenhouse effect keeps Earth warm enough for life
+- Sunlight enters the atmosphere
+- Earth absorbs energy and emits infrared radiation
+- Greenhouse gases absorb some outgoing heat
+- Natural greenhouse effect keeps Earth warm enough for life
 :::
 
 ::: {.column width="50%"}
@@ -326,17 +326,17 @@ Pollution can be **increased** by:
 
 ::::: columns
 ::: {.column width="50%"}
--   Carbon dioxide ($CO_2$)
-    -   Fossil fuels, deforestation, cement
--   Methane ($CH_4$)
-    -   Livestock, wetlands, fossil fuel extraction
+- Carbon dioxide ($CO_2$)
+  - Fossil fuels, deforestation, cement
+- Methane ($CH_4$)
+  - Livestock, wetlands, fossil fuel extraction
 :::
 
 ::: {.column width="50%"}
--   Nitrous oxide ($N_2O$)
-    -   Fertilizers, soils, agriculture
--   Water vapor
-    -   Important feedback, not the main direct human emission
+- Nitrous oxide ($N_2O$)
+  - Fertilizers, soils, agriculture
+- Water vapor
+  - Important feedback, not the main direct human emission
 :::
 :::::
 
@@ -344,10 +344,10 @@ Pollution can be **increased** by:
 
 ::::: columns
 ::: {.column width="50%"}
--   Fossil fuel combustion
--   Deforestation
--   Agriculture and livestock
--   Industrial processes
+- Fossil fuel combustion
+- Deforestation
+- Agriculture and livestock
+- Industrial processes
 :::
 
 ::: {.column width="50%"}
@@ -359,9 +359,9 @@ Pollution can be **increased** by:
 
 ::::: columns
 ::: {.column width="50%"}
--   Direct measurements began at Mauna Loa in 1958
--   Seasonal cycle reflects plant growth and decay
--   Long-term trend shows sustained increase in atmospheric $CO_2$
+- Direct measurements began at Mauna Loa in 1958
+- Seasonal cycle reflects plant growth and decay
+- Long-term trend shows sustained increase in atmospheric $CO_2$
 :::
 
 ::: {.column width="50%"}
@@ -375,14 +375,14 @@ Pollution can be **increased** by:
 ::: {.column width="50%"}
 Evidence includes:
 
--   Rising global average temperature
--   Ocean warming
--   Glacier retreat
--   Ice sheet mass loss
--   Earlier spring events
--   Shifting species ranges
--   Sea-level rise
--   More frequent heat extremes
+- Rising global average temperature
+- Ocean warming
+- Glacier retreat
+- Ice sheet mass loss
+- Earlier spring events
+- Shifting species ranges
+- Sea-level rise
+- More frequent heat extremes
 :::
 
 ::: {.column width="50%"}
@@ -394,9 +394,9 @@ Evidence includes:
 
 ::::: columns
 ::: {.column width="50%"}
--   Greenland contains a large land-based ice sheet
--   Warming increases surface melt and glacier flow
--   Meltwater added to oceans raises sea level
+- Greenland contains a large land-based ice sheet
+- Warming increases surface melt and glacier flow
+- Meltwater added to oceans raises sea level
 :::
 
 ::: {.column width="50%"}
@@ -408,11 +408,11 @@ Evidence includes:
 
 ::::: columns
 ::: {.column width="50%"}
--   Ice and snow reflect sunlight
--   [Albedo]{.keyword} : how much sunlight a surface reflects
--   Dark land and ocean absorb more energy
--   Melting exposes darker surfaces
--   More absorption causes more warming
+- Ice and snow reflect sunlight
+- [Albedo]{.keyword} : how much sunlight a surface reflects
+- Dark land and ocean absorb more energy
+- Melting exposes darker surfaces
+- More absorption causes more warming
 :::
 
 ::: {.column width="50%"}
@@ -424,13 +424,13 @@ Evidence includes:
 
 ::::: columns
 ::: {.column width="50%"}
--   Rising sea levels
--   More coastal flooding
--   More intense heat waves
--   Drought in some regions
--   Heavier precipitation in some regions
--   Changing snowpack
--   More wildfire risk under hot, dry conditions
+- Rising sea levels
+- More coastal flooding
+- More intense heat waves
+- Drought in some regions
+- Heavier precipitation in some regions
+- Changing snowpack
+- More wildfire risk under hot, dry conditions
 :::
 
 ::: {.column width="50%"}
@@ -442,13 +442,13 @@ Evidence includes:
 
 ::::: columns
 ::: {.column width="50%"}
--   Species shift ranges (see figure)
--   Seasonal timing changes
--   Habitat suitability changes (e.g. disease vectors for malaria, Lyme disease)
--   Coral bleaching increases
--   Food webs can become mismatched
--   Invasive species and pests may expand
--   Extinction risk increases for vulnerable species
+- Species shift ranges (see figure)
+- Seasonal timing changes
+- Habitat suitability changes (e.g. disease vectors for malaria, Lyme disease)
+- Coral bleaching increases
+- Food webs can become mismatched
+- Invasive species and pests may expand
+- Extinction risk increases for vulnerable species
 :::
 
 ::: {.column width="50%"}
@@ -460,17 +460,17 @@ Evidence includes:
 
 ::::: columns
 ::: {.column width="50%"}
--   Heat illness and mortality
--   Poorer air quality
--   Water stress
--   Food insecurity
+- Heat illness and mortality
+- Poorer air quality
+- Water stress
+- Food insecurity
 :::
 
 ::: {.column width="50%"}
--   Flood and storm damage
--   Infrastructure costs
--   Displacement from high-risk areas
--   Uneven impacts across communities
+- Flood and storm damage
+- Infrastructure costs
+- Displacement from high-risk areas
+- Uneven impacts across communities
 :::
 :::::
 
@@ -480,16 +480,16 @@ Evidence includes:
 ::: {.column width="50%"}
 [Mitigation]{.keyword}: actions that reduce greenhouse gas emissions or increase carbon storage
 
--   Energy efficiency
--   Renewable energy
--   Electrification
+- Energy efficiency
+- Renewable energy
+- Electrification
 :::
 
 ::: {.column width="50%"}
--   Reduced fossil fuel use
--   Forest and wetland protection
--   Climate-smart agriculture
--   Lower-emission transportation
+- Reduced fossil fuel use
+- Forest and wetland protection
+- Climate-smart agriculture
+- Lower-emission transportation
 :::
 :::::
 
@@ -497,18 +497,18 @@ Evidence includes:
 
 ::::: columns
 ::: {.column width="50%"}
--   Minnesota has greatly expanded **wind power** in recent decades
+- Minnesota has greatly expanded **wind power** in recent decades
 
--   Wind turbines generate electricity **without burning fossil fuels**
+- Wind turbines generate electricity **without burning fossil fuels**
 
--   This helps reduce emissions of:
+- This helps reduce emissions of:
 
-    -   Carbon dioxide (CO₂)
-    -   Air pollutants from coal and gas plants
+  - Carbon dioxide (CO₂)
+  - Air pollutants from coal and gas plants
 
--   Wind energy now provides a major share of Minnesota electricity
+- Wind energy now provides a major share of Minnesota electricity
 
--   **Climate mitigation:** reducing greenhouse gas emissions to slow future warming
+- **Climate mitigation:** reducing greenhouse gas emissions to slow future warming
 :::
 
 ::: {.column width="50%"}
@@ -522,16 +522,16 @@ Evidence includes:
 ::: {.column width="50%"}
 [Adaptation]{.keyword}: actions that reduce vulnerability to climate impacts
 
--   Heat preparedness
--   Flood protection
--   Drought planning
+- Heat preparedness
+- Flood protection
+- Drought planning
 :::
 
 ::: {.column width="50%"}
--   Climate-resilient crops
--   Wildfire planning
--   Infrastructure redesign
--   Managed retreat from high-risk areas
+- Climate-resilient crops
+- Wildfire planning
+- Infrastructure redesign
+- Managed retreat from high-risk areas
 :::
 :::::
 
@@ -539,18 +539,18 @@ Evidence includes:
 
 ::::: columns
 ::: {.column width="50%"}
--   In **2012**, extreme rainfall caused severe flooding in Duluth, Minnesota
+- In **2012**, extreme rainfall caused severe flooding in Duluth, Minnesota
 
--   Roads, bridges, streams, and stormwater systems were heavily damaged
+- Roads, bridges, streams, and stormwater systems were heavily damaged
 
--   The city responded by upgrading infrastructure for future storms:
+- The city responded by upgrading infrastructure for future storms:
 
-    -   Larger culverts\
-    -   Improved drainage systems\
-    -   Stronger roads and bridges\
-    -   Better flood planning
+  - Larger culverts\
+  - Improved drainage systems\
+  - Stronger roads and bridges\
+  - Better flood planning
 
--   **Climate adaptation:** preparing communities for heavier rainfall and flood risk
+- **Climate adaptation:** preparing communities for heavier rainfall and flood risk
 :::
 
 ::: {.column width="50%"}

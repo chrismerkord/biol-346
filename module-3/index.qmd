@@ -32,13 +32,13 @@ editor: visual
 
 ::::: columns
 ::: {.column width="50%"}
--   Cover only 7% of the earth’s surface, but can contain up to half of the world’s terrestrial plant and animal species
+- Cover only 7% of the earth’s surface, but can contain up to half of the world’s terrestrial plant and animal species
 
--   To date, human activities have destroyed or degraded more than half of the earth's tropical rain forests
+- To date, human activities have destroyed or degraded more than half of the earth's tropical rain forests
 
-    -   logging, crop development, cattle grazing, and encroaching civilization
+  - logging, crop development, cattle grazing, and encroaching civilization
 
--   Why should you be concerned about the disappearance of tropical rain forests?
+- Why should you be concerned about the disappearance of tropical rain forests?
 :::
 
 ::: {.column width="50%"}
@@ -52,19 +52,19 @@ editor: visual
 ::: {.column width="50%"}
 **Effect 1 - [Biodiversity Loss]{.keyword}**
 
--   Clearing these forests causes the extinction of many of their plant and animal species
+- Clearing these forests causes the extinction of many of their plant and animal species
 
 <!-- -->
 
--   Loss of key species in these forests can have a ripple effect that leads to the extinction of other species that they help support
+- Loss of key species in these forests can have a ripple effect that leads to the extinction of other species that they help support
 
 **Effect 2 - [Climate Change]{.keyword}**
 
--   Warms the atmosphere and speeds up climate change.
+- Warms the atmosphere and speeds up climate change.
 
--   Fewer plants using photosynthesis to remove human-generated emissions of carbon dioxide (CO2)
+- Fewer plants using photosynthesis to remove human-generated emissions of carbon dioxide (CO2)
 
--   Resulting increased levels of CO2 in the atmosphere contributes to atmospheric warming and climate change,
+- Resulting increased levels of CO2 in the atmosphere contributes to atmospheric warming and climate change,
 :::
 
 ::: {.column width="50%"}
@@ -78,9 +78,9 @@ editor: visual
 ::: {.column width="50%"}
 Effect 3 - [System Change]{.keyword} and [Tipping Point]{.keyword}
 
--   Large-scale losses of tropical rain forests can change regional weather pattern in ways that can prevent the forest from returning in cleared or degraded areas.
+- Large-scale losses of tropical rain forests can change regional weather pattern in ways that can prevent the forest from returning in cleared or degraded areas.
 
--   When this irreversible ecological [tipping point]{.keyword} is reached, the tropical rain forests in such areas become drier and less-diverse tropical grasslands
+- When this irreversible ecological [tipping point]{.keyword} is reached, the tropical rain forests in such areas become drier and less-diverse tropical grasslands
 :::
 
 ::: {.column width="50%"}
@@ -92,17 +92,17 @@ Effect 3 - [System Change]{.keyword} and [Tipping Point]{.keyword}
 
 ::::: columns
 ::: {.column width="50%"}
--   Earth’s life-support system has four spherical components that interact with each other.
+- Earth’s life-support system has four spherical components that interact with each other.
 
--   Life is sustained by the cycling of nutrients and energy between and through these systems.
+- Life is sustained by the cycling of nutrients and energy between and through these systems.
 
--   [Atmosphere]{.keyword}: composed of the troposphere and the stratosphere.
+- [Atmosphere]{.keyword}: composed of the troposphere and the stratosphere.
 
--   [Hydrosphere]{.keyword}: water at or near the earth’s surface (ice, water, and water vapor).
+- [Hydrosphere]{.keyword}: water at or near the earth’s surface (ice, water, and water vapor).
 
--   [Geosphere]{.keyword}: composed of a hot core, a thick, mostly rocky mantle, and a thin outer crust.
+- [Geosphere]{.keyword}: composed of a hot core, a thick, mostly rocky mantle, and a thin outer crust.
 
--   [Biosphere]{.keyword}: wherever life is found within the other three spheres.
+- [Biosphere]{.keyword}: wherever life is found within the other three spheres.
 :::
 
 ::: {.column width="50%"}
@@ -114,11 +114,11 @@ Effect 3 - [System Change]{.keyword} and [Tipping Point]{.keyword}
 
 ::::: columns
 ::: {.column width="50%"}
--   The one-way flow of high-quality energy Solar energy principle of sustainability Greenhouse effect
+- The one-way flow of high-quality energy Solar energy principle of sustainability Greenhouse effect
 
--   The cycling of nutrients Chemical cycling principle of sustainability
+- The cycling of nutrients Chemical cycling principle of sustainability
 
--   Gravity
+- Gravity
 
 Greenhouse Earth. High-quality solar energy flows from the sun to the earth. It is degraded to lower-quality energy (mostly heat) as it interacts with the earth's air, water, soil, and life forms, and eventually some of it returns to space.
 
@@ -150,15 +150,15 @@ Certain gases in the earth's atmosphere retain enough of the sun's incoming ener
 ::: {.column width="65"}
 Biotic component consists of **nested levels of biological organization**:
 
--   **Organelles** – specialized structures within cells that perform specific functions
--   **Cells** – the basic units of life
--   **Tissues** – groups of similar cells working together
--   **Organs and organ systems** – structures composed of multiple tissues with coordinated functions
--   **Organisms** – individual living entities
--   **Populations** – members of the same species living in the same area
--   **Communities** – all interacting populations of different species in an area
--   **Ecosystems** – communities plus the abiotic environment they interact with
--   **Biosphere** – the sum of all ecosystems on Earth
+- **Organelles** – specialized structures within cells that perform specific functions
+- **Cells** – the basic units of life
+- **Tissues** – groups of similar cells working together
+- **Organs and organ systems** – structures composed of multiple tissues with coordinated functions
+- **Organisms** – individual living entities
+- **Populations** – members of the same species living in the same area
+- **Communities** – all interacting populations of different species in an area
+- **Ecosystems** – communities plus the abiotic environment they interact with
+- **Biosphere** – the sum of all ecosystems on Earth
 :::
 
 ::: {.column width="35%"}
@@ -168,16 +168,16 @@ Biotic component consists of **nested levels of biological organization**:
 
 ## Trophic Structure: Who Eats Whom in an Ecosystem
 
--   Ecologists describe the flow of energy and matter in ecosystems using [trophic levels]{.keyword}, which group organisms based on how they obtain nutrients and energy.
+- Ecologists describe the flow of energy and matter in ecosystems using [trophic levels]{.keyword}, which group organisms based on how they obtain nutrients and energy.
 
-    Organisms fall into a small number of functional roles:
+  Organisms fall into a small number of functional roles:
 
-    -   [Producers]{.keyword}: Capture energy (usually sunlight) and manufacture organic molecules from inorganic materials such as carbon dioxide, water, and nutrients.
-    -   [Consumers]{.keyword}: Obtain energy by eating producers, other consumers, or organic remains.
-    -   [Detritivores]{.keyword}: Consumers that feed on detritus—small fragments of dead organisms and organic waste.
-    -   [Decomposers]{.keyword}: Specialized consumers (primarily bacteria and fungi) that chemically break down organic matter into inorganic nutrients, returning them to the environment for reuse by producers.
+  - [Producers]{.keyword}: Capture energy (usually sunlight) and manufacture organic molecules from inorganic materials such as carbon dioxide, water, and nutrients.
+  - [Consumers]{.keyword}: Obtain energy by eating producers, other consumers, or organic remains.
+  - [Detritivores]{.keyword}: Consumers that feed on detritus—small fragments of dead organisms and organic waste.
+  - [Decomposers]{.keyword}: Specialized consumers (primarily bacteria and fungi) that chemically break down organic matter into inorganic nutrients, returning them to the environment for reuse by producers.
 
-    Together, these groups define how energy enters ecosystems and how nutrients are recycled through living and nonliving components.
+  Together, these groups define how energy enters ecosystems and how nutrients are recycled through living and nonliving components.
 
 ## Producers: The Entry Point of Energy into Ecosystems
 
@@ -185,16 +185,16 @@ Biotic component consists of **nested levels of biological organization**:
 ::: {.column width="50%"}
 [Producers]{.keyword}
 
--   organisms (plants, algae, and some bacteria)
--   manufacture the organic nutrients they need using energy and inorganic materials from their environment
+- organisms (plants, algae, and some bacteria)
+- manufacture the organic nutrients they need using energy and inorganic materials from their environment
 
 [Photosynthesis]{.keyword}
 
--   Producers capture solar energy and use it
+- Producers capture solar energy and use it
 
--   Convert carbon dioxide (CO₂) and water (H₂O) into carbohydrates such as glucose (C₆H₁₂O₆), which store chemical energy
+- Convert carbon dioxide (CO₂) and water (H₂O) into carbohydrates such as glucose (C₆H₁₂O₆), which store chemical energy
 
--   Oxygen (O₂) released as a byproduct of this process accumulates in the atmosphere, **making aerobic life possible** for most organisms
+- Oxygen (O₂) released as a byproduct of this process accumulates in the atmosphere, **making aerobic life possible** for most organisms
 :::
 
 ::: {.column width="50%"}
@@ -208,13 +208,13 @@ Biotic component consists of **nested levels of biological organization**:
 ::: {.column width="50%"}
 [Consumers]{.keyword}
 
--   Cannot produce their own food
--   Obtain energy and nutrients by feeding on producers, other consumers, or the wastes and remains of organisms
+- Cannot produce their own food
+- Obtain energy and nutrients by feeding on producers, other consumers, or the wastes and remains of organisms
 
 Several major consumer types are commonly recognized:
 
--   [Primary consumers (herbivores)]{.keyword}: Animals that feed primarily on plants or algae
--   [Carnivores]{.keyword}: Animals that obtain energy by feeding on the tissues of other animals
+- [Primary consumers (herbivores)]{.keyword}: Animals that feed primarily on plants or algae
+- [Carnivores]{.keyword}: Animals that obtain energy by feeding on the tissues of other animals
 :::
 
 ::: {.column width="50%"}
@@ -276,10 +276,10 @@ This process is known as [anaerobic respiration]{.keyword}, or **fermentation**.
 
 Rather than producing carbon dioxide and water, anaerobic respiration generates a variety of end products, depending on the organism and pathway involved, including:
 
--   methane gas (CH₄)
--   ethyl alcohol (C₂H₆O)
--   acetic acid (C₂H₄O₂), the main component of vinegar
--   hydrogen sulfide (H₂S), a toxic gas with a characteristic rotten-egg odor
+- methane gas (CH₄)
+- ethyl alcohol (C₂H₆O)
+- acetic acid (C₂H₄O₂), the main component of vinegar
+- hydrogen sulfide (H₂S), a toxic gas with a characteristic rotten-egg odor
 
 All organisms obtain energy through aerobic or anaerobic respiration, but **only producers (plants, algae, and some bacteria) carry out photosynthesis**.
 
@@ -289,8 +289,8 @@ All organisms obtain energy through aerobic or anaerobic respiration, but **only
 ::: {.column width="50%"}
 Ecosystems—and the biosphere as a whole—are sustained by two fundamental processes:
 
--   **One-way energy flow**: Energy enters ecosystems as sunlight, is captured by producers, transferred through trophic levels, and is ultimately lost as heat.
--   **Nutrient cycling**: Matter such as carbon, nitrogen, and water is continuously recycled between organisms and the physical environment.
+- **One-way energy flow**: Energy enters ecosystems as sunlight, is captured by producers, transferred through trophic levels, and is ultimately lost as heat.
+- **Nutrient cycling**: Matter such as carbon, nitrogen, and water is continuously recycled between organisms and the physical environment.
 
 Together, these processes reflect two core scientific principles of sustainability: energy flows through ecosystems, while nutrients cycle within them.
 :::
@@ -306,10 +306,10 @@ Together, these processes reflect two core scientific principles of sustainabili
 ::: {.column width="50%"}
 Soil is a complex, living system composed of:
 
--   rock fragments and mineral particles
--   essential mineral nutrients
--   decaying organic matter
--   water, air, and a diverse community of organisms
+- rock fragments and mineral particles
+- essential mineral nutrients
+- decaying organic matter
+- water, air, and a diverse community of organisms
 
 Soil is one of Earth’s most important forms of **natural capital**.
 
@@ -325,14 +325,14 @@ Although it is technically renewable, soil forms extremely slowly, making the pr
 
 ::::: columns
 ::: {.column width="50%"}
--   Soils store organic carbon, helping regulate Earth’s climate
--   Soil structure is organized into horizontal layers called [horizons]{.keyword}
--   A vertical cross-section of these layers is a [soil profile]{.keyword}
--   **Major horizons in a mature soil:**
-    -   **O** – organic layer (leaf litter)
-    -   **A** – topsoil
-    -   **B** – subsoil
-    -   **C** – weathered parent material
+- Soils store organic carbon, helping regulate Earth’s climate
+- Soil structure is organized into horizontal layers called [horizons]{.keyword}
+- A vertical cross-section of these layers is a [soil profile]{.keyword}
+- **Major horizons in a mature soil:**
+  - **O** – organic layer (leaf litter)
+  - **A** – topsoil
+  - **B** – subsoil
+  - **C** – weathered parent material
 :::
 
 ::: {.column width="50%"}
@@ -344,14 +344,14 @@ Although it is technically renewable, soil forms extremely slowly, making the pr
 
 ::::: columns
 ::: {.column width="50%"}
--   Most plant roots and the majority of soil organic matter are concentrated in:
-    -   the **O horizon** (leaf litter)
-    -   the **A horizon** (topsoil)
--   These layers support dense communities of: bacteria, fungi, earthworms, insects and other soil invertebrates
--   Through feeding and decomposition, soil organisms:
-    -   break down complex organic compounds
-    -   produce [humus]{.keyword}, a stable mixture of partially decomposed plant and animal material
-        -   Improves soil structure, nutrient availability, and water retention, supporting plant growth and ecosystem productivity.
+- Most plant roots and the majority of soil organic matter are concentrated in:
+  - the **O horizon** (leaf litter)
+  - the **A horizon** (topsoil)
+- These layers support dense communities of: bacteria, fungi, earthworms, insects and other soil invertebrates
+- Through feeding and decomposition, soil organisms:
+  - break down complex organic compounds
+  - produce [humus]{.keyword}, a stable mixture of partially decomposed plant and animal material
+    - Improves soil structure, nutrient availability, and water retention, supporting plant growth and ecosystem productivity.
 :::
 
 ::: {.column width="50%"}
@@ -361,9 +361,9 @@ Although it is technically renewable, soil forms extremely slowly, making the pr
 
 ## Soil Is the Foundation of Life on Land
 
--   In a fertile soil, these two layers teem with bacteria, fungi, earthworms, and numerous small insects, all interacting by feeding on and decomposing one another.
+- In a fertile soil, these two layers teem with bacteria, fungi, earthworms, and numerous small insects, all interacting by feeding on and decomposing one another.
 
--   Break down soil's complex organic compounds into a mixture of the partially decomposed plant and animal remains, called \[humus\]{.keyword}
+- Break down soil's complex organic compounds into a mixture of the partially decomposed plant and animal remains, called \[humus\]{.keyword}
 
 # Energy
 
@@ -371,10 +371,10 @@ Although it is technically renewable, soil forms extremely slowly, making the pr
 
 ::::: columns
 ::: {.column width="50%"}
--   Energy enters ecosystems as **sunlight**.
--   Producers convert solar energy into **chemical energy** through photosynthesis.
--   Energy moves upward through trophic levels as organisms consume one another.
--   Energy flow is **one-way** — it does not cycle.
+- Energy enters ecosystems as **sunlight**.
+- Producers convert solar energy into **chemical energy** through photosynthesis.
+- Energy moves upward through trophic levels as organisms consume one another.
+- Energy flow is **one-way** — it does not cycle.
 :::
 
 ::: {.column width="50%"}
@@ -386,14 +386,14 @@ Although it is technically renewable, soil forms extremely slowly, making the pr
 
 ::::: columns
 ::: {.column width="50%"}
--   Energy stored in organic molecules passes from:
-    -   **Producers → Primary consumers → Secondary consumers → Tertiary consumers**
--   At each transfer, organisms use most of the energy for:
-    -   metabolism
-    -   movement
-    -   growth
-    -   reproduction
--   Only a **small fraction** (about 10%) of energy becomes biomass available to the next level.
+- Energy stored in organic molecules passes from:
+  - **Producers → Primary consumers → Secondary consumers → Tertiary consumers**
+- At each transfer, organisms use most of the energy for:
+  - metabolism
+  - movement
+  - growth
+  - reproduction
+- Only a **small fraction** (about 10%) of energy becomes biomass available to the next level.
 :::
 
 ::: {.column width="50%"}
@@ -405,12 +405,12 @@ Although it is technically renewable, soil forms extremely slowly, making the pr
 
 ::::: columns
 ::: {.column width="50%"}
--   Energy availability decreases at higher trophic levels.
--   With each transfer, much energy is lost as **heat** through respiration.
--   Because energy diminishes at each step:
-    -   Food chains are short.
-    -   Top predators are few in number.
--   This pattern is represented by an **energy pyramid**.
+- Energy availability decreases at higher trophic levels.
+- With each transfer, much energy is lost as **heat** through respiration.
+- Because energy diminishes at each step:
+  - Food chains are short.
+  - Top predators are few in number.
+- This pattern is represented by an **energy pyramid**.
 :::
 
 ::: {.column width="50%"}
@@ -422,10 +422,10 @@ Although it is technically renewable, soil forms extremely slowly, making the pr
 
 ::::: columns
 ::: {.column width="50%"}
--   A **food chain** shows a single pathway of energy flow.
--   Example:
-    -   Grass → Rabbit → Fox
--   Food chains are simplified representations of feeding relationships.
+- A **food chain** shows a single pathway of energy flow.
+- Example:
+  - Grass → Rabbit → Fox
+- Food chains are simplified representations of feeding relationships.
 :::
 
 ::: {.column width="50%"}
@@ -437,11 +437,11 @@ Although it is technically renewable, soil forms extremely slowly, making the pr
 
 ::::: columns
 ::: {.column width="50%"}
--   In natural ecosystems:
-    -   Most consumers eat more than one species.
-    -   Most organisms are eaten by multiple predators.
--   These interconnected feeding relationships form a [food web]{.keyword}.
--   Food webs more accurately represent how energy moves through ecosystems.
+- In natural ecosystems:
+  - Most consumers eat more than one species.
+  - Most organisms are eaten by multiple predators.
+- These interconnected feeding relationships form a [food web]{.keyword}.
+- Food webs more accurately represent how energy moves through ecosystems.
 :::
 
 ::: {.column width="50%"}
@@ -457,15 +457,15 @@ Although it is technically renewable, soil forms extremely slowly, making the pr
 ::: {.column width="50%"}
 Energy and matter behave differently in ecosystems:
 
--   **Energy flows**:
-    -   Enters as sunlight
-    -   Moves through trophic levels
-    -   Is lost as heat
-    -   Does **not** get recycled
--   **Nutrients cycle**:
-    -   Atoms (C, N, P, H₂O) are reused
-    -   Move between organisms and the physical environment
-    -   Are conserved and continuously recycled
+- **Energy flows**:
+  - Enters as sunlight
+  - Moves through trophic levels
+  - Is lost as heat
+  - Does **not** get recycled
+- **Nutrients cycle**:
+  - Atoms (C, N, P, H₂O) are reused
+  - Move between organisms and the physical environment
+  - Are conserved and continuously recycled
 
 Energy flows through ecosystems.\
 Matter cycles within them.
@@ -482,16 +482,16 @@ Matter cycles within them.
 ::: {.column width="50%"}
 [Gross Primary Productivity (GPP)]{.keyword}
 
--   Total rate at which producers capture solar energy through photosynthesis
--   Represents total carbon fixed into organic molecules
+- Total rate at which producers capture solar energy through photosynthesis
+- Represents total carbon fixed into organic molecules
 
 [Net Primary Productivity (NPP)]{.keyword}
 
--   Energy remaining after producers use some for respiration
+- Energy remaining after producers use some for respiration
 
-    $$\text{NPP} = \text{GPP} - \text{Respiration by producers}$$
+  $$\text{NPP} = \text{GPP} - \text{Respiration by producers}$$
 
--   Represents biomass available to consumers
+- Represents biomass available to consumers
 :::
 
 ::: {.column width="50%"}
@@ -505,9 +505,9 @@ Matter cycles within them.
 ::: {.column width="50%"}
 [Net Ecosystem Productivity (NEP)]{.keyword}
 
--   Net carbon accumulation in an ecosystem
--   $$\text{NEP} = \text{GPP} - \text{Total ecosystem respiration}$$ (includes respiration by producers, consumers, and decomposers)
--   Indicates whether an ecosystem is a **carbon sink** (positive NEP) or **carbon source** (negative NEP)
+- Net carbon accumulation in an ecosystem
+- $$\text{NEP} = \text{GPP} - \text{Total ecosystem respiration}$$ (includes respiration by producers, consumers, and decomposers)
+- Indicates whether an ecosystem is a **carbon sink** (positive NEP) or **carbon source** (negative NEP)
 :::
 
 ::: {.column width="50%"}
@@ -518,15 +518,15 @@ Matter cycles within them.
 
 ::::: columns
 ::: {.column width="50%"}
--   **Net primary productivity (NPP)** differs dramatically across terrestrial and aquatic ecosystems.
+- **Net primary productivity (NPP)** differs dramatically across terrestrial and aquatic ecosystems.
 
--   Ecosystems with warm temperatures, ample sunlight, and sufficient water (e.g., tropical rainforests, swamps, marshes, coral reefs) tend to have high NPP.
+- Ecosystems with warm temperatures, ample sunlight, and sufficient water (e.g., tropical rainforests, swamps, marshes, coral reefs) tend to have high NPP.
 
--   Deserts, tundra, and open ocean regions generally have low NPP per unit area.
+- Deserts, tundra, and open ocean regions generally have low NPP per unit area.
 
--   Although the **open ocean** has low NPP per square meter, its enormous area makes it a major contributor to global primary production.
+- Although the **open ocean** has low NPP per square meter, its enormous area makes it a major contributor to global primary production.
 
--   Only energy stored as **NPP** (not GPP) is available to support consumers and higher trophic levels.
+- Only energy stored as **NPP** (not GPP) is available to support consumers and higher trophic levels.
 :::
 
 ::: {.column width="50%"}
@@ -541,22 +541,22 @@ Matter cycles within them.
 Energy flows.\
 Matter cycles.
 
--   Nutrients (C, N, P, H₂O) move repeatedly between:
-    -   atmosphere
-    -   hydrosphere
-    -   geosphere
-    -   biosphere
--   These pathways are called [biogeochemical cycles]{.keyword}.
+- Nutrients (C, N, P, H₂O) move repeatedly between:
+  - atmosphere
+  - hydrosphere
+  - geosphere
+  - biosphere
+- These pathways are called [biogeochemical cycles]{.keyword}.
 :::
 
 ::: {.column width="50%"}
 Biogeochemical cycles are driven by:
 
--   Solar energy
+- Solar energy
 
--   Gravity
+- Gravity
 
--   Biological processes
+- Biological processes
 
 Human activities now alter these cycles at global scales.
 :::
@@ -570,12 +570,12 @@ The **hydrologic cycle** moves water continuously among the atmosphere, land, an
 
 ### Key processes
 
--   **Evaporation** – Solar energy converts liquid water to vapor.
--   **Transpiration** – Plants release water vapor to the atmosphere.
--   **Condensation** – Water vapor cools and forms clouds.
--   **Precipitation** – Water returns to Earth as rain, snow, or ice.
--   **Runoff and infiltration** – Water flows over land or enters soil.
--   **Groundwater storage and discharge** – Water is stored in aquifers and slowly returns to surface waters.
+- **Evaporation** – Solar energy converts liquid water to vapor.
+- **Transpiration** – Plants release water vapor to the atmosphere.
+- **Condensation** – Water vapor cools and forms clouds.
+- **Precipitation** – Water returns to Earth as rain, snow, or ice.
+- **Runoff and infiltration** – Water flows over land or enters soil.
+- **Groundwater storage and discharge** – Water is stored in aquifers and slowly returns to surface waters.
 
 Although water is continuously recycled, **only a small fraction is accessible freshwater**; most is in oceans, ice, or deep underground.
 :::
@@ -589,10 +589,10 @@ Although water is continuously recycled, **only a small fraction is accessible f
 
 Human activities alter both the quantity and movement of water:
 
--   **Freshwater withdrawal** faster than natural recharge
--   **Urbanization** that reduces infiltration and increases runoff
--   **Deforestation** that lowers transpiration
--   **Wetland drainage** that disrupts natural water storage and filtration
+- **Freshwater withdrawal** faster than natural recharge
+- **Urbanization** that reduces infiltration and increases runoff
+- **Deforestation** that lowers transpiration
+- **Wetland drainage** that disrupts natural water storage and filtration
 
 Changes to the water cycle affect water availability, water quality, and ecosystem stability.
 
@@ -604,10 +604,10 @@ Carbon cycles among the atmosphere, biosphere, oceans, and geosphere.
 
 ### Major biological processes
 
--   **Photosynthesis** – Producers remove CO₂ from the atmosphere and convert it into organic carbon.
--   **Respiration** – Producers, consumers, and decomposers return CO₂ to the atmosphere.
--   **Decomposition** – Breaks down organic matter, releasing carbon back to air or soil.
--   **Long-term storage** – Carbon can be stored in oceans, soils, sediments, and fossil fuels.
+- **Photosynthesis** – Producers remove CO₂ from the atmosphere and convert it into organic carbon.
+- **Respiration** – Producers, consumers, and decomposers return CO₂ to the atmosphere.
+- **Decomposition** – Breaks down organic matter, releasing carbon back to air or soil.
+- **Long-term storage** – Carbon can be stored in oceans, soils, sediments, and fossil fuels.
 
 Atmospheric CO₂ is a greenhouse gas and plays a central role in regulating Earth’s climate.
 :::
@@ -621,8 +621,8 @@ Atmospheric CO₂ is a greenhouse gas and plays a central role in regulating Ear
 
 Human activities are increasing atmospheric CO₂ by:
 
--   **Burning fossil fuels** faster than they form
--   **Deforestation**, reducing carbon uptake by plants
+- **Burning fossil fuels** faster than they form
+- **Deforestation**, reducing carbon uptake by plants
 
 These changes shift the balance of the carbon cycle and contribute to climate change.
 
@@ -634,12 +634,12 @@ Nitrogen is essential for proteins and DNA, but most organisms cannot use atmosp
 
 ### Key processes
 
--   **Nitrogen fixation** – Specialized bacteria convert N₂ into ammonia (NH₄⁺).
--   **Nitrification** – Bacteria convert:
-    -   NH₄⁺ → NO₂⁻ → NO₃⁻
--   **Assimilation** – Plants take up NH₄⁺ or NO₃⁻ and incorporate nitrogen into organic molecules.
--   **Consumption** – Animals obtain nitrogen by eating plants or other animals.
--   **Decomposition and denitrification** – Decomposers return nitrogen to the soil, and some bacteria convert it back to N₂ gas.
+- **Nitrogen fixation** – Specialized bacteria convert N₂ into ammonia (NH₄⁺).
+- **Nitrification** – Bacteria convert:
+  - NH₄⁺ → NO₂⁻ → NO₃⁻
+- **Assimilation** – Plants take up NH₄⁺ or NO₃⁻ and incorporate nitrogen into organic molecules.
+- **Consumption** – Animals obtain nitrogen by eating plants or other animals.
+- **Decomposition and denitrification** – Decomposers return nitrogen to the soil, and some bacteria convert it back to N₂ gas.
 
 Microorganisms drive most nitrogen transformations.
 :::
@@ -655,15 +655,15 @@ Microorganisms drive most nitrogen transformations.
 
 Humans have greatly accelerated nitrogen movement through ecosystems by:
 
--   **Industrial fertilizer production** (fixing atmospheric N₂ at large scales)
--   **Fossil fuel combustion**, releasing nitrogen oxides (NOₓ)
--   **Agricultural runoff**, increasing nitrate in waterways
+- **Industrial fertilizer production** (fixing atmospheric N₂ at large scales)
+- **Fossil fuel combustion**, releasing nitrogen oxides (NOₓ)
+- **Agricultural runoff**, increasing nitrate in waterways
 
 Consequences include:
 
--   Eutrophication and algal blooms
--   Oxygen depletion in aquatic systems
--   Acid rain formation
+- Eutrophication and algal blooms
+- Oxygen depletion in aquatic systems
+- Acid rain formation
 
 ## Acid Rain
 
@@ -675,10 +675,10 @@ These acids return to Earth through precipitation (rain, snow, sleet, or dry dep
 
 Impacts include:
 
--   Increased soil acidity
--   Leaching of essential nutrients
--   Altered chemistry of lakes and streams
--   Harm to aquatic organisms and forests
+- Increased soil acidity
+- Leaching of essential nutrients
+- Altered chemistry of lakes and streams
+- Harm to aquatic organisms and forests
 :::
 
 ::: {.column width="50%"}
@@ -690,11 +690,11 @@ Impacts include:
 
 ::::: columns
 ::: {.column width="50%"}
--   An [algal bloom]{.keyword} is a rapid increase in algae, usually triggered by excess nutrients (especially nitrogen and phosphorus).
+- An [algal bloom]{.keyword} is a rapid increase in algae, usually triggered by excess nutrients (especially nitrogen and phosphorus).
 
--   When blooms die and decompose: - Oxygen is depleted - Fish and other aquatic organisms may die - Ecosystem structure is disrupted
+- When blooms die and decompose: - Oxygen is depleted - Fish and other aquatic organisms may die - Ecosystem structure is disrupted
 
--   Regulation of nutrient pollution in some regions has reduced the frequency and severity of blooms, but they remain a widespread issue.
+- Regulation of nutrient pollution in some regions has reduced the frequency and severity of blooms, but they remain a widespread issue.
 :::
 
 ::: {.column width="50%"}
@@ -712,10 +712,10 @@ Unlike carbon and nitrogen, phosphorus: - **Does not have a major atmospheric ph
 
 Key processes
 
--   **Weathering** releases phosphate (PO₄³⁻) from rocks.
--   **Plant uptake** incorporates phosphorus into organic molecules.
--   **Consumption and decomposition** return phosphorus to soils and sediments.
--   Some phosphorus is transported to oceans and can become buried in marine sediments, removing it from short-term cycling.
+- **Weathering** releases phosphate (PO₄³⁻) from rocks.
+- **Plant uptake** incorporates phosphorus into organic molecules.
+- **Consumption and decomposition** return phosphorus to soils and sediments.
+- Some phosphorus is transported to oceans and can become buried in marine sediments, removing it from short-term cycling.
 :::
 
 ::: {.column width="50%"}
@@ -727,9 +727,9 @@ Key processes
 
 Humans accelerate phosphorus movement by:
 
--   **Mining phosphate rock** to produce fertilizers
--   **Deforestation**, which reduces phosphorus retained in topsoil
--   **Agricultural runoff and soil erosion**, which carry phosphorus into waterways
+- **Mining phosphate rock** to produce fertilizers
+- **Deforestation**, which reduces phosphorus retained in topsoil
+- **Agricultural runoff and soil erosion**, which carry phosphorus into waterways
 
 Excess phosphorus in aquatic systems contributes to: - Eutrophication - Algal blooms - Oxygen depletion
 
@@ -743,21 +743,21 @@ Ecologists use multiple complementary approaches:
 ::: {.column width="50%"}
 1.  Field research
 
-    -   Direct observation and measurement
-    -   Long-term monitoring
-    -   Tagging and tracking organisms
-    -   Remote sensing (satellites, drones)
+    - Direct observation and measurement
+    - Long-term monitoring
+    - Tagging and tracking organisms
+    - Remote sensing (satellites, drones)
 
 2.  Controlled experiments
 
-    -   Manipulate variables in field or lab settings
-    -   Test specific causal hypotheses
+    - Manipulate variables in field or lab settings
+    - Test specific causal hypotheses
 
 3.  Modeling
 
-    -   Mathematical and computational models
+    - Mathematical and computational models
 
-    -   Used when systems are too large, slow, or complex to manipulate directly
+    - Used when systems are too large, slow, or complex to manipulate directly
 :::
 
 ::: {.column width="50%"}
@@ -773,10 +773,10 @@ Ecologists use multiple complementary approaches:
 ::: {.column width="50%"}
 Laboratory systems may include:
 
--   Culture tubes
--   Aquaria
--   Greenhouses
--   Environmental chambers
+- Culture tubes
+- Aquaria
+- Greenhouses
+- Environmental chambers
 
 ![Example of aquaria experimental setup. Credit: ELI IMADALI/AMERICAN-STATESMAN](images/clipboard-3146578856.png){width="600"}
 :::
@@ -784,15 +784,15 @@ Laboratory systems may include:
 ::: {.column width="50%"}
 **Advantages**
 
--   High control over variables
--   Replicable
--   Cost-effective
--   Faster results
+- High control over variables
+- Replicable
+- Cost-effective
+- Faster results
 
 **Limitations**
 
--   May oversimplify real ecosystems
--   Hard to capture full ecological complexity
+- May oversimplify real ecosystems
+- Hard to capture full ecological complexity
 :::
 :::::
 
@@ -800,22 +800,22 @@ Laboratory systems may include:
 
 Understanding ecosystem health requires:
 
--   Long-term baseline data
--   Global assessments
--   Integration across climate, biodiversity, and nutrient cycles
+- Long-term baseline data
+- Global assessments
+- Integration across climate, biodiversity, and nutrient cycles
 
 Scientific monitoring helps us:
 
--   Detect ecosystem degradation
--   Develop management strategies
--   Identify ecological tipping points
--   Avoid crossing planetary boundaries
+- Detect ecosystem degradation
+- Develop management strategies
+- Identify ecological tipping points
+- Avoid crossing planetary boundaries
 
 ## Ecosystems: Key Takeaways
 
--   Energy flows through ecosystems.
--   Matter cycles within ecosystems.
--   Producers, consumers, and decomposers structure energy flow and nutrient cycling.
--   Human activities now alter ecosystem processes at local and global scales.
+- Energy flows through ecosystems.
+- Matter cycles within ecosystems.
+- Producers, consumers, and decomposers structure energy flow and nutrient cycling.
+- Human activities now alter ecosystem processes at local and global scales.
 
 Ecosystem sustainability depends on maintaining both energy flow and nutrient cycling.

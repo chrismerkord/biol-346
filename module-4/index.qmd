@@ -33,13 +33,13 @@ editor: visual
 
 By the end of this module, you should be able to:
 
--   Describe historical and current global population trends
--   Distinguish between growth rate and total population size
--   Explain how fertility, mortality, and migration shape population change
--   Define replacement-level fertility and demographic momentum
--   Compare regional and country-level demographic trajectories
--   Interpret population projections and their underlying assumptions
--   Analyze how demographic patterns influence future environmental pressures
+- Describe historical and current global population trends
+- Distinguish between growth rate and total population size
+- Explain how fertility, mortality, and migration shape population change
+- Define replacement-level fertility and demographic momentum
+- Compare regional and country-level demographic trajectories
+- Interpret population projections and their underlying assumptions
+- Analyze how demographic patterns influence future environmental pressures
 
 # Population Growth
 
@@ -47,13 +47,13 @@ By the end of this module, you should be able to:
 
 ::::: columns
 ::: {.column width="50%"}
--   Estimated current global population: [\~8.3 billion]{.keyword} (Worldometers 2026; UN World Population Prospects 2022 revision)
--   Annual net increase: \~70 million people (\~0.9% per year) (UN WPP 2022; Worldometers 2026)
--   Most populous countries:
-    -   **India**: \~1.48 billion
-    -   **China**: \~1.41 billion
-    -   **United States**: \~349 million (Worldometers 2026)
--   **Growth unevenly distributed:** fastest in sub-Saharan Africa; stable or declining in parts of Europe and East Asia (UN WPP 2022)
+- Estimated current global population: [\~8.3 billion]{.keyword} (Worldometers 2026; UN World Population Prospects 2022 revision)
+- Annual net increase: \~70 million people (\~0.9% per year) (UN WPP 2022; Worldometers 2026)
+- Most populous countries:
+  - **India**: \~1.48 billion
+  - **China**: \~1.41 billion
+  - **United States**: \~349 million (Worldometers 2026)
+- **Growth unevenly distributed:** fastest in sub-Saharan Africa; stable or declining in parts of Europe and East Asia (UN WPP 2022)
 :::
 
 ::: {.column width="50%"}
@@ -65,15 +65,15 @@ By the end of this module, you should be able to:
 
 ::::: columns
 ::: {.column width="50%"}
--   Population remained **very low and stable** for most of human history
--   Gradual increase with **early agriculture (\~10,000 BCE)**
--   Accelerating growth during:
-    -   Agricultural intensification
-    -   Rise of empires and trade networks
-    -   Industrial Revolution
--   **Sharp exponential increase after \~1800**
--   **\~8 billion by 2022** (UN World Population Prospects 2022)
--   **Estimated total humans ever born:** \~117 billion (Population Reference Bureau 2022)
+- Population remained **very low and stable** for most of human history
+- Gradual increase with **early agriculture (\~10,000 BCE)**
+- Accelerating growth during:
+  - Agricultural intensification
+  - Rise of empires and trade networks
+  - Industrial Revolution
+- **Sharp exponential increase after \~1800**
+- **\~8 billion by 2022** (UN World Population Prospects 2022)
+- **Estimated total humans ever born:** \~117 billion (Population Reference Bureau 2022)
 :::
 
 ::: {.column width="50%"}
@@ -85,11 +85,11 @@ By the end of this module, you should be able to:
 
 ::::: columns
 ::: {.column width="50%"}
--   Global population: **\~8 billion in 2023**
--   Peak global growth rate: **\~2.3% in 1963**
--   Current growth rate: **\~0.9%**
--   Growth rate has declined steadily since the 1960s
--   Total population continues to increase despite slowing rate
+- Global population: **\~8 billion in 2023**
+- Peak global growth rate: **\~2.3% in 1963**
+- Current growth rate: **\~0.9%**
+- Growth rate has declined steadily since the 1960s
+- Total population continues to increase despite slowing rate
 
 **Key point:**\
 Growth has already peaked — but population size is still rising.
@@ -104,17 +104,17 @@ Growth has already peaked — but population size is still rising.
 
 ::::: columns
 ::: {.column width="55%"}
--   **UN World Population Prospects (2024 revision):**
-    -   Peak global population \~**10.3 billion**
-    -   Timing: **mid-2080s**
-    -   Slight decline or stabilization by 2100
--   Peak timing depends primarily on:
-    -   Future **fertility decline**
-    -   Pace of development and education
-    -   Regional demographic momentum
--   Different models produce different forecasts:
-    -   UN: later, higher peak
-    -   IHME (Lancet): earlier, lower peak (\~2060s)
+- **UN World Population Prospects (2024 revision):**
+  - Peak global population \~**10.3 billion**
+  - Timing: **mid-2080s**
+  - Slight decline or stabilization by 2100
+- Peak timing depends primarily on:
+  - Future **fertility decline**
+  - Pace of development and education
+  - Regional demographic momentum
+- Different models produce different forecasts:
+  - UN: later, higher peak
+  - IHME (Lancet): earlier, lower peak (\~2060s)
 :::
 
 ::: {.column width="45%"}
@@ -126,13 +126,13 @@ Growth has already peaked — but population size is still rising.
 
 ::::: columns
 ::: {.column width="50%"}
--   Global growth increasingly concentrated in **sub-Saharan Africa**
-    -   UN projects Africa’s population will **roughly double by \~2070**
--   **Asia:** still largest population, but growth slowing
-    -   Several countries at or below replacement fertility
--   **Europe:** stable or declining population
--   **Latin America:** slowing growth, approaching stabilization
--   **North America:** modest growth, strongly influenced by migration
+- Global growth increasingly concentrated in **sub-Saharan Africa**
+  - UN projects Africa’s population will **roughly double by \~2070**
+- **Asia:** still largest population, but growth slowing
+  - Several countries at or below replacement fertility
+- **Europe:** stable or declining population
+- **Latin America:** slowing growth, approaching stabilization
+- **North America:** modest growth, strongly influenced by migration
 :::
 
 ::: {.column width="50%"}
@@ -144,19 +144,19 @@ Growth has already peaked — but population size is still rising.
 
 ::::: columns
 ::: {.column width="50%"}
--   **India**
-    -   Recently became the world’s most populous country
-    -   Population still growing, but fertility declining
-    -   Projected to peak later this century
--   **China**
-    -   Population peaked in the early 2020s
-    -   Rapid aging and projected long-term decline
--   **Europe**
-    -   Low fertility for decades
-    -   Gradual population decline projected
--   **United States**
-    -   Slower growth
-    -   Migration plays major role in stabilizing population
+- **India**
+  - Recently became the world’s most populous country
+  - Population still growing, but fertility declining
+  - Projected to peak later this century
+- **China**
+  - Population peaked in the early 2020s
+  - Rapid aging and projected long-term decline
+- **Europe**
+  - Low fertility for decades
+  - Gradual population decline projected
+- **United States**
+  - Slower growth
+  - Migration plays major role in stabilizing population
 :::
 
 ::: {.column width="50%"}
@@ -166,83 +166,83 @@ Growth has already peaked — but population size is still rising.
 
 ## Africa: Rapid Growth
 
--   Fastest population growth of any world region
--   UN projects population will **roughly double by \~2070**
--   Median age remains low → large youth population
--   Rapid urbanization underway
--   Growth driven by:
-    -   Higher fertility in several countries
-    -   Declining mortality
-    -   Demographic momentum
+- Fastest population growth of any world region
+- UN projects population will **roughly double by \~2070**
+- Median age remains low → large youth population
+- Rapid urbanization underway
+- Growth driven by:
+  - Higher fertility in several countries
+  - Declining mortality
+  - Demographic momentum
 
 **Implication:**\
 Africa will account for most global population growth this century.
 
 ## Asia: Slowing Growth
 
--   Still the **most populous continent**
--   Regional fertility has declined substantially
--   Several countries below replacement fertility
--   Population projected to peak mid-century, then stabilize or decline
--   Rapid aging in parts of East Asia
+- Still the **most populous continent**
+- Regional fertility has declined substantially
+- Several countries below replacement fertility
+- Population projected to peak mid-century, then stabilize or decline
+- Rapid aging in parts of East Asia
 
 **Implication:**\
 Asia’s demographic influence remains large, but growth is slowing.
 
 ## Country Case: China
 
--   Population peaked in the early 2020s
--   Fertility well below replacement (\~1.0–1.2)
--   Rapid population aging
--   Shrinking workforce projected
--   One-child policy legacy continues to shape demographics
+- Population peaked in the early 2020s
+- Fertility well below replacement (\~1.0–1.2)
+- Rapid population aging
+- Shrinking workforce projected
+- One-child policy legacy continues to shape demographics
 
 **Implication:**\
 Managing aging and economic transition now central challenges.
 
 ## Country Case: India
 
--   World’s most populous country
--   Fertility has declined to near replacement (\~2.0)
--   Large and youthful population structure
--   Continued growth projected for several decades
--   Rapid urbanization and economic development underway
+- World’s most populous country
+- Fertility has declined to near replacement (\~2.0)
+- Large and youthful population structure
+- Continued growth projected for several decades
+- Rapid urbanization and economic development underway
 
 **Implication:**\
 India’s demographic trajectory will strongly influence global totals.
 
 ## Country Case: United States
 
--   Moderate population growth
--   Fertility below replacement (\~1.6–1.7)
--   Migration plays major role in population stability
--   Aging population, but slower than many European and East Asian countries
+- Moderate population growth
+- Fertility below replacement (\~1.6–1.7)
+- Migration plays major role in population stability
+- Aging population, but slower than many European and East Asian countries
 
 **Implication:**\
 Future growth depends heavily on immigration policy and economic conditions.
 
 ## Why Did Population Growth Accelerate?
 
--   For most of history: high birth rates **and** high death rates → slow growth
--   After \~1800: death rates declined rapidly → rapid population expansion.
+- For most of history: high birth rates **and** high death rates → slow growth
+- After \~1800: death rates declined rapidly → rapid population expansion.
 
 **Major drivers:**
 
--   Agricultural intensification (food surplus)
--   Industrial Revolution (energy, mechanization)
--   Improved sanitation and clean water
--   Vaccines and medical advances
--   Declining infant and child mortality
--   Increased life expectancy
+- Agricultural intensification (food surplus)
+- Industrial Revolution (energy, mechanization)
+- Improved sanitation and clean water
+- Vaccines and medical advances
+- Declining infant and child mortality
+- Increased life expectancy
 
 ## Key Takeaways — Population Growth
 
--   Global population now **\~8+ billion**
--   Growth rate peaked in the 1960s and has declined
--   Total population continues to rise
--   Future growth concentrated in **sub-Saharan Africa**
--   Major regions and countries are on very different demographic paths
--   Acceleration driven primarily by declining mortality
+- Global population now **\~8+ billion**
+- Growth rate peaked in the 1960s and has declined
+- Total population continues to rise
+- Future growth concentrated in **sub-Saharan Africa**
+- Major regions and countries are on very different demographic paths
+- Acceleration driven primarily by declining mortality
 
 Next: What mechanisms determine population change?
 
@@ -252,9 +252,9 @@ Next: What mechanisms determine population change?
 
 Population size changes through three processes:
 
--   **Fertility** → births
--   **Mortality** → deaths
--   **Migration** → movement across borders
+- **Fertility** → births
+- **Mortality** → deaths
+- **Migration** → movement across borders
 
 [Population change = births − deaths ± net migration]{.keyword}
 
@@ -264,16 +264,16 @@ Understanding these mechanisms explains *why* population grows, stabilizes, or d
 
 ::::: columns
 ::: {.column width="50%"}
--   Measured as [Total Fertility Rate (TFR)]{.keyword}
--   Global TFR:
-    -   \~5.0 in 1950
-    -   \~2.3 today (UN WPP 2024)
--   Influenced by:
-    -   Education (especially for women)
-    -   Access to contraception
-    -   Urbanization
-    -   Economic opportunity
-    -   Cultural norms
+- Measured as [Total Fertility Rate (TFR)]{.keyword}
+- Global TFR:
+  - \~5.0 in 1950
+  - \~2.3 today (UN WPP 2024)
+- Influenced by:
+  - Education (especially for women)
+  - Access to contraception
+  - Urbanization
+  - Economic opportunity
+  - Cultural norms
 
 Lower fertility → slower population growth.
 :::
@@ -287,18 +287,18 @@ Lower fertility → slower population growth.
 
 ::::: columns
 ::: {.column width="50%"}
--   Measured as **death rate** or **life expectancy**
--   Global life expectancy:
-    -   \~47 years in 1950
-    -   \~73 years today (World Bank; UN WPP)
+- Measured as **death rate** or **life expectancy**
+- Global life expectancy:
+  - \~47 years in 1950
+  - \~73 years today (World Bank; UN WPP)
 
 Major improvements from:
 
--   Sanitation and clean water
+- Sanitation and clean water
 
--   Vaccines and antibiotics
+- Vaccines and antibiotics
 
--   Improved nutrition
+- Improved nutrition
 
 Declining mortality historically drove rapid population growth.
 :::
@@ -312,12 +312,12 @@ Declining mortality historically drove rapid population growth.
 
 ::::: columns
 ::: {.column width="50%"}
--   Includes:
-    -   Immigration (inflow)
-    -   Emigration (outflow)
--   Affects national and regional population size
--   Less important at the *global* scale
-    -   Migrants leave one country but enter another
+- Includes:
+  - Immigration (inflow)
+  - Emigration (outflow)
+- Affects national and regional population size
+- Less important at the *global* scale
+  - Migrants leave one country but enter another
 
 Migration strongly shapes demographic patterns in countries such as the United States and parts of Europe.
 :::
@@ -329,16 +329,16 @@ Migration strongly shapes demographic patterns in countries such as the United S
 
 ## Replacement-Level Fertility
 
--   [Replacement-level fertility]{.keyword}:\
-    Average number of children per woman needed to keep population stable\
--   In most countries: \~**2.1 children per woman**
-    -   2 to replace parents
-    -   +0.1 to account for mortality and sex ratio
+- [Replacement-level fertility]{.keyword}:\
+  Average number of children per woman needed to keep population stable\
+- In most countries: \~**2.1 children per woman**
+  - 2 to replace parents
+  - +0.1 to account for mortality and sex ratio
 
 Important distinction:
 
--   TFR at replacement does **not** immediately stop growth
--   Population structure and momentum still matter
+- TFR at replacement does **not** immediately stop growth
+- Population structure and momentum still matter
 
 Next: Age structure and demographic momentum.
 
@@ -348,14 +348,14 @@ Next: Age structure and demographic momentum.
 
 ::::: columns
 ::: {.column width="55%"}
--   **Age structure:** distribution of a population across age groups\
--   Often divided into:
-    -   Pre-reproductive (0–14)
-    -   Reproductive (15–44)
-    -   Post-reproductive (45+)
-    -   Male vs. female (left/right)
--   Strong predictor of future population growth or decline
--   Even if fertility changes, age structure shapes future trajectory
+- **Age structure:** distribution of a population across age groups\
+- Often divided into:
+  - Pre-reproductive (0–14)
+  - Reproductive (15–44)
+  - Post-reproductive (45+)
+  - Male vs. female (left/right)
+- Strong predictor of future population growth or decline
+- Even if fertility changes, age structure shapes future trajectory
 :::
 
 ::: {.column width="45%"}
@@ -369,17 +369,17 @@ Next: Age structure and demographic momentum.
 
 ::::: columns
 ::: {.column width="55%"}
--   **Expanding structure**
-    -   Wide base
-    -   Large youth population
-    -   Future growth likely
--   **Stable structure**
-    -   Rectangular shape
-    -   Similar numbers across age groups
--   **Contracting structure**
-    -   Narrow base
-    -   Larger older population
-    -   Likely decline
+- **Expanding structure**
+  - Wide base
+  - Large youth population
+  - Future growth likely
+- **Stable structure**
+  - Rectangular shape
+  - Similar numbers across age groups
+- **Contracting structure**
+  - Narrow base
+  - Larger older population
+  - Likely decline
 :::
 
 ::: {.column width="45%"}
@@ -393,12 +393,12 @@ Next: Age structure and demographic momentum.
 
 ::::: columns
 ::: {.column width="55%"}
--   Horizontal axis → population size (male / female)
--   Vertical axis → age groups
--   Wide base → high fertility
--   Bulge in middle → large working-age cohort
--   Wide top → aging population
--   Shape indicates long-term demographic direction
+- Horizontal axis → population size (male / female)
+- Vertical axis → age groups
+- Wide base → high fertility
+- Bulge in middle → large working-age cohort
+- Wide top → aging population
+- Shape indicates long-term demographic direction
 :::
 
 ::: {.column width="45%"}
@@ -412,14 +412,14 @@ Next: Age structure and demographic momentum.
 
 ::::: columns
 ::: {.column width="55%"}
--   **Youth bulge**
-    -   Large proportion under age 15
-    -   Strong future population momentum
-    -   High demand for education and jobs
--   **Aging population**
-    -   Large proportion over age 65
-    -   Rising dependency ratios
-    -   Increased healthcare and pension pressures
+- **Youth bulge**
+  - Large proportion under age 15
+  - Strong future population momentum
+  - High demand for education and jobs
+- **Aging population**
+  - Large proportion over age 65
+  - Rising dependency ratios
+  - Increased healthcare and pension pressures
 
 Age structure influences economic and social systems.
 :::
@@ -433,7 +433,7 @@ Age structure influences economic and social systems.
 
 ::::: columns
 ::: {.column width="55%"}
--   Describes how population changes as societies develop economically
+- Describes how population changes as societies develop economically
 
 **Stage 1 — Preindustrial** - High birth rates, high death rates\
 - Slow population growth
@@ -462,10 +462,10 @@ Many countries are now in Stages 3–5.
 
 ::::: columns
 ::: {.column width="55%"}
--   Sub-Saharan Africa → youthful age structure
--   Europe and East Asia → aging populations
--   North America → moderate aging
--   India and parts of South Asia → large working-age cohorts
+- Sub-Saharan Africa → youthful age structure
+- Europe and East Asia → aging populations
+- North America → moderate aging
+- India and parts of South Asia → large working-age cohorts
 
 Future growth concentrated in regions with youthful structures.
 :::
@@ -481,13 +481,13 @@ Future growth concentrated in regions with youthful structures.
 
 ::::: columns
 ::: {.column width="50%"}
--   1950: world population characterized by a **wide base** (high fertility, many children)
--   Share of children (0–14) has **declined substantially** since mid-20th century
--   Share of working-age population (15–64) increased through late 20th century
--   Share of older adults (65+) has **risen steadily and continues to rise**
--   Median global age increased from \~24 years (1950) to \~30+ years today
--   Many countries transitioning from expanding to **more rectangular or contracting** structures
--   **Turning point:** the global share of children has peaked and is declining, while the share of older adults is rising — marking a structural shift toward global population aging
+- 1950: world population characterized by a **wide base** (high fertility, many children)
+- Share of children (0–14) has **declined substantially** since mid-20th century
+- Share of working-age population (15–64) increased through late 20th century
+- Share of older adults (65+) has **risen steadily and continues to rise**
+- Median global age increased from \~24 years (1950) to \~30+ years today
+- Many countries transitioning from expanding to **more rectangular or contracting** structures
+- **Turning point:** the global share of children has peaked and is declining, while the share of older adults is rising — marking a structural shift toward global population aging
 :::
 
 ::: {.column width="50%"}
@@ -499,20 +499,20 @@ Future growth concentrated in regions with youthful structures.
 
 ::::: columns
 ::: {.column width="55%"}
--   Workforce size depends on working-age population
--   Youthful populations → potential demographic dividend
--   Aging populations → shrinking labor force
--   [Dependency ratio]{.keyword}: Number of dependents relative to working-age adults
+- Workforce size depends on working-age population
+- Youthful populations → potential demographic dividend
+- Aging populations → shrinking labor force
+- [Dependency ratio]{.keyword}: Number of dependents relative to working-age adults
 
 Demography shapes economic growth and policy decisions. For example:
 
--   Pronatalist incentives: cash allowances, childcare subsidies (China, South Korea)
+- Pronatalist incentives: cash allowances, childcare subsidies (China, South Korea)
 
--   Policy reversal: removal of child limits as fertility declines (Vietnam)
+- Policy reversal: removal of child limits as fertility declines (Vietnam)
 
--   Immigration emphasis: labor force and demographic stabilization (Singapore)
+- Immigration emphasis: labor force and demographic stabilization (Singapore)
 
--   Family-friendly social policy: parental leave, tax benefits (France, Italy)
+- Family-friendly social policy: parental leave, tax benefits (France, Italy)
 :::
 
 ::: {.column width="45%"}
@@ -526,13 +526,13 @@ Demography shapes economic growth and policy decisions. For example:
 
 :::::::: columns
 ::: {.column width="55%"}
--   Fertility well below replacement
--   High life expectancy
--   Population declining
--   Median age among highest globally
--   Economic and social challenges:
-    -   Labor shortages
-    -   Rising healthcare costs
+- Fertility well below replacement
+- High life expectancy
+- Population declining
+- Median age among highest globally
+- Economic and social challenges:
+  - Labor shortages
+  - Rising healthcare costs
 
 A clear example of a contracting age structure.
 :::
@@ -556,11 +556,11 @@ A clear example of a contracting age structure.
 
 ::::: columns
 ::: {.column width="55%"}
--   High proportion under age 15
--   Fertility above replacement in several countries
--   Rapid urbanization underway
--   Large future workforce potential
--   Significant demand for education, infrastructure, and jobs
+- High proportion under age 15
+- Fertility above replacement in several countries
+- Rapid urbanization underway
+- Large future workforce potential
+- Significant demand for education, infrastructure, and jobs
 
 Youthful structure → strong demographic momentum.
 :::
@@ -576,12 +576,12 @@ Youthful structure → strong demographic momentum.
 
 ::::: columns
 ::: {.column width="55%"}
--   [Demographic momentum]{.keyword}: continued population growth after fertility declines
--   Caused by a **large cohort of young people** entering reproductive age
--   Replacement-level fertility (\~2.1) does **not** immediately stabilize population
--   Youthful age structures → continued growth
--   Aging age structures → stabilization or decline
--   Population change unfolds over decades — demography has inertia
+- [Demographic momentum]{.keyword}: continued population growth after fertility declines
+- Caused by a **large cohort of young people** entering reproductive age
+- Replacement-level fertility (\~2.1) does **not** immediately stabilize population
+- Youthful age structures → continued growth
+- Aging age structures → stabilization or decline
+- Population change unfolds over decades — demography has inertia
 :::
 
 ::: {.column width="45%"}
@@ -593,14 +593,14 @@ Youthful structure → strong demographic momentum.
 
 ::::: columns
 ::: {.column width="55%"}
--   India is now the **world’s most populous country**
--   Total population still growing and projected to peak later this century
--   However:
-    -   **Number of children has already peaked** (around 2011)
-    -   Fertility has declined to **near replacement level (\~2.0)**
--   Future growth driven largely by **demographic momentum**, not rising fertility
--   India is transitioning from rapid expansion toward stabilization
--   Even in fast-growing countries, the demographic transition is already well underway.
+- India is now the **world’s most populous country**
+- Total population still growing and projected to peak later this century
+- However:
+  - **Number of children has already peaked** (around 2011)
+  - Fertility has declined to **near replacement level (\~2.0)**
+- Future growth driven largely by **demographic momentum**, not rising fertility
+- India is transitioning from rapid expansion toward stabilization
+- Even in fast-growing countries, the demographic transition is already well underway.
 :::
 
 ::: {.column width="45%"}
@@ -612,15 +612,15 @@ Youthful structure → strong demographic momentum.
 
 ## Population vs. Consumption
 
--   Environmental impact depends on:
-    -   **How many people**
-    -   **How much each person consumes**
--   High-income countries:
-    -   Lower population growth
-    -   Much higher per-capita energy and resource use
--   Low-income countries:
-    -   Faster population growth
-    -   Much lower per-capita consumption
+- Environmental impact depends on:
+  - **How many people**
+  - **How much each person consumes**
+- High-income countries:
+  - Lower population growth
+  - Much higher per-capita energy and resource use
+- Low-income countries:
+  - Faster population growth
+  - Much lower per-capita consumption
 
 **Key distinction:**\
 A smaller population with high consumption can have greater impact than a larger population with low consumption.
@@ -629,14 +629,14 @@ A smaller population with high consumption can have greater impact than a larger
 
 ::::: columns
 ::: {.column width="55%"}
--   Large differences in:
-    -   Energy use per person
-    -   Carbon emissions per person
-    -   Material consumption per person
--   The highest-income countries account for a disproportionate share of global emissions
--   Future environmental pressures depend on both:
-    -   Population growth
-    -   Rising affluence
+- Large differences in:
+  - Energy use per person
+  - Carbon emissions per person
+  - Material consumption per person
+- The highest-income countries account for a disproportionate share of global emissions
+- Future environmental pressures depend on both:
+  - Population growth
+  - Rising affluence
 
 Environmental impact is unevenly distributed.
 :::
@@ -650,13 +650,13 @@ Environmental impact is unevenly distributed.
 
 ::::: columns
 ::: {.column width="55%"}
--   Those who contribute least to emissions often experience the greatest impacts
--   Rapid population growth often occurs in lower-emitting regions
--   High-consumption lifestyles drive:
-    -   Energy demand
-    -   Waste production
-    -   Land-use change
--   Population and consumption interact — neither alone explains environmental change.
+- Those who contribute least to emissions often experience the greatest impacts
+- Rapid population growth often occurs in lower-emitting regions
+- High-consumption lifestyles drive:
+  - Energy demand
+  - Waste production
+  - Land-use change
+- Population and consumption interact — neither alone explains environmental change.
 
 ![](images/clipboard-356259384.png){width="498"}
 :::
@@ -670,10 +670,10 @@ Environmental impact is unevenly distributed.
 
 ::::: columns
 ::: {.column width="55%"}
--   Population size matters
--   Per-capita consumption matters
--   Age structure and urbanization matter
--   Institutional and economic systems shape all three
+- Population size matters
+- Per-capita consumption matters
+- Age structure and urbanization matter
+- Institutional and economic systems shape all three
 
 **Core takeaway:**\
 Future environmental outcomes depend on demographic trends *and* consumption patterns.

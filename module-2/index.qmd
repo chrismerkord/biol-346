@@ -32,15 +32,15 @@ editor: visual
 
 ::::: columns
 ::: {.column width="50%"}
--   How scientists study the natural world
+- How scientists study the natural world
 
--   Evidence, hypotheses, theories, and laws
+- Evidence, hypotheses, theories, and laws
 
--   Matter, energy, and their transformations
+- Matter, energy, and their transformations
 
--   Systems thinking and feedbacks in nature
+- Systems thinking and feedbacks in nature
 
--   Links to sustainability and environmental change
+- Links to sustainability and environmental change
 :::
 
 ::: {.column width="50%"}
@@ -54,17 +54,17 @@ editor: visual
 ::: {.column width="50%"}
 By the end of this module, you should be able to:
 
--   Describe how scientific knowledge is developed and evaluated
+- Describe how scientific knowledge is developed and evaluated
 
--   Distinguish hypotheses, theories, and scientific laws
+- Distinguish hypotheses, theories, and scientific laws
 
--   Explain basic properties of matter and energy
+- Explain basic properties of matter and energy
 
--   Apply the laws of conservation and thermodynamics
+- Apply the laws of conservation and thermodynamics
 
--   Describe systems, feedback loops, and tipping points
+- Describe systems, feedback loops, and tipping points
 
--   Connect physical and biological principles to environmental issues
+- Connect physical and biological principles to environmental issues
 :::
 
 ::: {.column width="50%"}
@@ -74,10 +74,10 @@ By the end of this module, you should be able to:
 
 ## How Do Scientists Learn About Nature?
 
--   Explain how the natural world works
--   Focus on cause-and-effect relationships
--   Rely on observation, evidence, and testing
--   Scientific knowledge develops over time
+- Explain how the natural world works
+- Focus on cause-and-effect relationships
+- Rely on observation, evidence, and testing
+- Scientific knowledge develops over time
 
 ------------------------------------------------------------------------
 
@@ -85,10 +85,10 @@ By the end of this module, you should be able to:
 
 ::::: columns
 ::: {.column width="50%"}
--   Observations of nature
--   Questions about patterns or changes
--   Focus on measurable variables
--   Common in environmental systems
+- Observations of nature
+- Questions about patterns or changes
+- Focus on measurable variables
+- Common in environmental systems
 :::
 
 ::: {.column width="50%"}
@@ -100,10 +100,10 @@ By the end of this module, you should be able to:
 
 ::::: columns
 ::: {.column width="50%"}
--   Identify key variables
--   Compare outcomes under different conditions
--   Control group (no change)
--   Experimental group (variable altered)
+- Identify key variables
+- Compare outcomes under different conditions
+- Control group (no change)
+- Experimental group (variable altered)
 :::
 
 ::: {.column width="50%"}
@@ -115,10 +115,10 @@ By the end of this module, you should be able to:
 
 ::::: columns
 ::: {.column width="50%"}
--   Forested vs. deforested watersheds
--   Water flow and nutrient loss measured
--   Dams used to capture runoff
--   Controlled field experiment
+- Forested vs. deforested watersheds
+- Water flow and nutrient loss measured
+- Dams used to capture runoff
+- Controlled field experiment
 :::
 
 ::: {.column width="50%"}
@@ -130,10 +130,10 @@ By the end of this module, you should be able to:
 
 ::::: columns
 ::: {.column width="50%"}
--   Forests retain water efficiently
--   Forest soils retain nutrients
--   Deforestation increases runoff (30–40%)
--   Increased erosion and nutrient loss
+- Forests retain water efficiently
+- Forest soils retain nutrients
+- Deforestation increases runoff (30–40%)
+- Increased erosion and nutrient loss
 :::
 
 ::: {.column width="50%"}
@@ -145,10 +145,10 @@ By the end of this module, you should be able to:
 
 :::::: columns
 ::: {.column width="50%"}
--   Collect data
--   Identify patterns
--   Develop explanations
--   Test ideas with evidence
+- Collect data
+- Identify patterns
+- Develop explanations
+- Test ideas with evidence
 :::
 
 :::: {.column width="50%"}
@@ -170,13 +170,13 @@ Examples of scientists doings science.
 
 ::::: columns
 ::: {.column width="50%"}
--   Observation
--   Question
--   Hypothesis
--   Prediction
--   Test / experiment
--   Analyze results
--   Revise or repeat
+- Observation
+- Question
+- Hypothesis
+- Prediction
+- Test / experiment
+- Analyze results
+- Revise or repeat
 :::
 
 ::: {.column width="50%"}
@@ -188,10 +188,10 @@ Examples of scientists doings science.
 
 ::::: columns
 ::: {.column width="50%"}
--   Tentative explanations
--   Testable and falsifiable
--   Based on observations
--   Supported or rejected by data
+- Tentative explanations
+- Testable and falsifiable
+- Based on observations
+- Supported or rejected by data
 :::
 
 ::: {.column width="50%"}
@@ -203,10 +203,10 @@ Examples of scientists doings science.
 
 ::::: columns
 ::: {.column width="50%"}
--   Broad explanations of natural phenomena
--   Supported by extensive evidence
--   Repeatedly tested
--   Widely accepted by scientists
+- Broad explanations of natural phenomena
+- Supported by extensive evidence
+- Repeatedly tested
+- Widely accepted by scientists
 :::
 
 ::: {.column width="50%"}
@@ -218,26 +218,26 @@ Examples of scientists doings science.
 
 ::::: columns
 ::: {.column width="50%"}
--   A description of a consistent pattern in nature
--   Often expressed mathematically
--   Describes **what happens**, not **why it happens**
--   Highly reliable and repeatable
--   Revised only with new evidence
--   Laws are **not “proven theories”**
--   Theories do not graduate into laws
--   They answer different questions:
-    -   Laws: *What happens?*
-    -   Theories: *Why and how does it happen?*
+- A description of a consistent pattern in nature
+- Often expressed mathematically
+- Describes **what happens**, not **why it happens**
+- Highly reliable and repeatable
+- Revised only with new evidence
+- Laws are **not “proven theories”**
+- Theories do not graduate into laws
+- They answer different questions:
+  - Laws: *What happens?*
+  - Theories: *Why and how does it happen?*
 :::
 
 ::: {.column width="50%"}
 Classic examples:
 
--   Newton’s laws of motion
--   Laws of thermodynamics
--   Law of conservation of matter
-    -   Matter is neither created nor destroyed in physical or chemical changes
-    -   Atoms are rearranged, but the total amount of matter remains constant
+- Newton’s laws of motion
+- Laws of thermodynamics
+- Law of conservation of matter
+  - Matter is neither created nor destroyed in physical or chemical changes
+  - Atoms are rearranged, but the total amount of matter remains constant
 
 ![](images/clipboard-653930662.png){fig-align="center" width="200"}
 :::
@@ -245,26 +245,26 @@ Classic examples:
 
 ## Hypotheses vs. Theories vs. Laws
 
--   Hypothesis: tentative, testable idea
--   Theory: well-supported explanation
--   Law: consistent description of behavior
--   Different roles, not levels of certainty
+- Hypothesis: tentative, testable idea
+- Theory: well-supported explanation
+- Law: consistent description of behavior
+- Different roles, not levels of certainty
 
 ## Evaluating Scientific Knowledge
 
 ::::: columns
 ::: {.column width="50%"}
--   **Peer review**\
-    Independent evaluation by other scientists in the field
+- **Peer review**\
+  Independent evaluation by other scientists in the field
 
--   **Replication of results**\
-    Findings can be reproduced using the same methods
+- **Replication of results**\
+  Findings can be reproduced using the same methods
 
--   **Transparent methods**\
-    Clear description of data, methods, and analyses
+- **Transparent methods**\
+  Clear description of data, methods, and analyses
 
--   **Strength of evidence**\
-    Multiple lines of evidence support the same conclusion
+- **Strength of evidence**\
+  Multiple lines of evidence support the same conclusion
 :::
 
 ::: {.column width="50%"}
@@ -274,28 +274,28 @@ Classic examples:
 
 ## Limits of Science
 
--   **No absolute proof**\
-    Scientific conclusions are always open to revision
+- **No absolute proof**\
+  Scientific conclusions are always open to revision
 
--   **Measurement uncertainty**\
-    Observations and measurements contain inherent error
+- **Measurement uncertainty**\
+  Observations and measurements contain inherent error
 
--   **Potential for bias**\
-    Scientists are human and can be influenced by assumptions
+- **Potential for bias**\
+  Scientists are human and can be influenced by assumptions
 
--   **Peer review reduces bias**\
-    Independent review helps identify errors and bias
+- **Peer review reduces bias**\
+  Independent review helps identify errors and bias
 
 ## What Is Matter and What Happens When It Undergoes Change?
 
 ::::: columns
 ::: {.column width="50%"}
--   Matter is anything that has mass and occupies space
--   Composed of atoms, ions, and molecules
--   Forms elements and compounds
--   Exists in three physical states: solid, liquid, or gas
--   Matter is rearranged during physical and chemical changes
--   Cannot be created or destroyed (law of conservation of matter)
+- Matter is anything that has mass and occupies space
+- Composed of atoms, ions, and molecules
+- Forms elements and compounds
+- Exists in three physical states: solid, liquid, or gas
+- Matter is rearranged during physical and chemical changes
+- Cannot be created or destroyed (law of conservation of matter)
 :::
 
 ::: {.column width="50%"}
@@ -307,12 +307,12 @@ Classic examples:
 
 ::::: columns
 ::: {.column width="50%"}
--   [Elements]{.keyword}\
-    Substances made of one type of atom
--   [Compounds]{.keyword}\
-    Combinations of two or more different elements
--   Elements cannot be chemically broken down
--   Represented by chemical symbols (e.g., H, O, C)
+- [Elements]{.keyword}\
+  Substances made of one type of atom
+- [Compounds]{.keyword}\
+  Combinations of two or more different elements
+- Elements cannot be chemically broken down
+- Represented by chemical symbols (e.g., H, O, C)
 :::
 
 ::: {.column width="50%"}
@@ -324,10 +324,10 @@ Classic examples:
 
 ::::: columns
 ::: {.column width="50%"}
--   Smallest unit of an element that retains its chemical properties
--   Composed of protons, neutrons, and electrons
--   Protons and neutrons form the nucleus
--   Electrons occupy regions surrounding the nucleus
+- Smallest unit of an element that retains its chemical properties
+- Composed of protons, neutrons, and electrons
+- Protons and neutrons form the nucleus
+- Electrons occupy regions surrounding the nucleus
 :::
 
 ::: {.column width="50%"}
@@ -341,17 +341,17 @@ Classic examples:
 ::: {.column width="50%"}
 Atoms differ in numbers of subatomic particles
 
--   Atomic number determines the element
+- Atomic number determines the element
 
-    -   Number of protons in the atomic nucleus
+  - Number of protons in the atomic nucleus
 
--   Mass number
+- Mass number
 
-    -   Total number of protons and neutrons in the nucleus of an element’s atoms
+  - Total number of protons and neutrons in the nucleus of an element’s atoms
 
--   Element
+- Element
 
-    -   A pure substance that consists only of atoms with the same number of protons
+  - A pure substance that consists only of atoms with the same number of protons
 :::
 
 ::: {.column width="50%"}
@@ -363,11 +363,11 @@ Atoms differ in numbers of subatomic particles
 
 ::::: columns
 ::: {.column width="50%"}
--   Electrons occupy energy levels (shells) around the nucleus
--   Outer-shell electrons determine how atoms interact
--   Atoms with incomplete outer shells are chemically reactive
--   Atoms gain, lose, or share electrons to become more stable
--   Chemical reactivity controls nutrient availability, toxicity, and pollutant behavior in the environment
+- Electrons occupy energy levels (shells) around the nucleus
+- Outer-shell electrons determine how atoms interact
+- Atoms with incomplete outer shells are chemically reactive
+- Atoms gain, lose, or share electrons to become more stable
+- Chemical reactivity controls nutrient availability, toxicity, and pollutant behavior in the environment
 :::
 
 ::: {.column width="50%"}
@@ -379,15 +379,15 @@ Atoms differ in numbers of subatomic particles
 
 ::::: columns
 ::: {.column width="50%"}
--   Atoms with a net electric charge
+- Atoms with a net electric charge
 
--   Formed when atoms gain or lose electrons
+- Formed when atoms gain or lose electrons
 
--   Loss of electrons → positively charged ion (cation)
+- Loss of electrons → positively charged ion (cation)
 
--   Gain of electrons → negatively charged ion (anion)
+- Gain of electrons → negatively charged ion (anion)
 
--   Ionic form affects solubility, mobility, and biological availability in the environment
+- Ionic form affects solubility, mobility, and biological availability in the environment
 :::
 
 ::: {.column width="50%"}
@@ -401,11 +401,11 @@ Atoms differ in numbers of subatomic particles
 
 ::::: columns
 ::: {.column width="50%"}
--   When an atom loses or gains electrons, it becomes electrically charged
+- When an atom loses or gains electrons, it becomes electrically charged
 
--   Charged atoms are called [ions]{.keyword}
+- Charged atoms are called [ions]{.keyword}
 
--   Ionic bonds are formed between oppositely charged ions (**transfer of electrons**)
+- Ionic bonds are formed between oppositely charged ions (**transfer of electrons**)
 :::
 
 ::: {.column width="50%"}
@@ -417,15 +417,15 @@ Atoms differ in numbers of subatomic particles
 
 ::::: columns
 ::: {.column width="50%"}
--   Sharing of electrons between atoms to form [covalent bonds]{.keyword}.
+- Sharing of electrons between atoms to form [covalent bonds]{.keyword}.
 
--   **Stronger and much more common than ionic bonds** in the molecules of living organisms.
+- **Stronger and much more common than ionic bonds** in the molecules of living organisms.
 
--   Commonly found in carbon-based organic molecules, such as our DNA and proteins.
+- Commonly found in carbon-based organic molecules, such as our DNA and proteins.
 
--   Also in inorganic molecules like H2O, CO2, and O2.
+- Also in inorganic molecules like H2O, CO2, and O2.
 
--   One, two, or three pairs of electrons may be shared, making single, double, and triple bonds, respectively. More bonds = stronger; triple bonds are the strongest
+- One, two, or three pairs of electrons may be shared, making single, double, and triple bonds, respectively. More bonds = stronger; triple bonds are the strongest
 :::
 
 ::: {.column width="50%"}
@@ -437,15 +437,15 @@ Atoms differ in numbers of subatomic particles
 
 ::::: columns
 ::: {.column width="50%"}
--   So, understanding the chemistry of ions and compounds allows us to measure them.
+- So, understanding the chemistry of ions and compounds allows us to measure them.
 
 Remember the trees in the valley?
 
--   Scientists learned how to measure nitrate and nitrite ions in water to determine the concentration of these ions
+- Scientists learned how to measure nitrate and nitrite ions in water to determine the concentration of these ions
 
-    -   Reduce nitrate with zinc and react with naphthylethylenediamine under acid conditions to produce a red compound - 550mn.
+  - Reduce nitrate with zinc and react with naphthylethylenediamine under acid conditions to produce a red compound - 550mn.
 
--   Determined that lack of trees washed out nitrates from the soil, increasing in concentration in the water runoff.
+- Determined that lack of trees washed out nitrates from the soil, increasing in concentration in the water runoff.
 :::
 
 ::: {.column width="50%"}
@@ -455,31 +455,31 @@ Remember the trees in the valley?
 
 ## Acids and Bases
 
--   [Acid]{.keyword}
+- [Acid]{.keyword}
 
-    -   A chemical compound that donates H+ ions to solutions.
+  - A chemical compound that donates H+ ions to solutions.
 
-    -   Aqueous solutions with a pH less than 7 are said to be acidic
+  - Aqueous solutions with a pH less than 7 are said to be acidic
 
--   [Base]{.keyword}
+- [Base]{.keyword}
 
-    -   A compound that accepts H+ ions and removes them from solution.
+  - A compound that accepts H+ ions and removes them from solution.
 
-    -   Aqueous solutions with a pH greater than 7 are basic or alkaline.
+  - Aqueous solutions with a pH greater than 7 are basic or alkaline.
 
--   Pure water has a pH very close to 7
+- Pure water has a pH very close to 7
 
--   If an equal number of these ions are present in a solution the pH will not change as it is said to be buffered.
+- If an equal number of these ions are present in a solution the pH will not change as it is said to be buffered.
 
 ## A pH Scale
 
 ::::: columns
 ::: {.column width="50%"}
--   To describe the acidity of a solution, we use the pH scale.
+- To describe the acidity of a solution, we use the pH scale.
 
--   Bases have a high pH, so they have a low concentration of H+
+- Bases have a high pH, so they have a low concentration of H+
 
--   Acids have a low pH, so they have a high concentration of H+
+- Acids have a low pH, so they have a high concentration of H+
 :::
 
 ::: {.column width="50%"}
@@ -489,34 +489,34 @@ Remember the trees in the valley?
 
 ## Organic compounds are the chemicals of life
 
--   [Organic compounds]{.keyword} have at least two carbon atoms and various other elements
+- [Organic compounds]{.keyword} have at least two carbon atoms and various other elements
 
-    -   **Hydrocarbons**: contain carbon and hydrogen atoms
+  - **Hydrocarbons**: contain carbon and hydrogen atoms
 
-    -   **Simple carbohydrates**: contain carbon, hydrogen, and oxygen
+  - **Simple carbohydrates**: contain carbon, hydrogen, and oxygen
 
-    -   **Polymers**: simple organic compounds (monomers) chemically bonded together
+  - **Polymers**: simple organic compounds (monomers) chemically bonded together
 
 ## [Polymers]{.keyword} are essential to life
 
--   What are the major types of polymers?
+- What are the major types of polymers?
 
-    -   **Complex carbohydrates**: two or more monomers of simple sugars such as glucose
+  - **Complex carbohydrates**: two or more monomers of simple sugars such as glucose
 
-    -   **Proteins**: formed by amino acids (that are monomers)
+  - **Proteins**: formed by amino acids (that are monomers)
 
-    -   **Nucleic acids**: such as DNA and RNA that are formed by nucleotides (that are monomers)
+  - **Nucleic acids**: such as DNA and RNA that are formed by nucleotides (that are monomers)
 
 ## The structure of DNA: The best known biomolecule
 
 ::::: columns
 ::: {.column width="50%"}
--   [DNA]{.keyword} is composed of two helical strands of nucleotides
--   Each nucleotide has three components:
-    -   **Phosphate group**
-    -   **Five-carbon sugar** (deoxyribose)
-    -   **Nitrogenous base** (A, T, C, or G)
--   Base sequence stores genetic information
+- [DNA]{.keyword} is composed of two helical strands of nucleotides
+- Each nucleotide has three components:
+  - **Phosphate group**
+  - **Five-carbon sugar** (deoxyribose)
+  - **Nitrogenous base** (A, T, C, or G)
+- Base sequence stores genetic information
 :::
 
 ::: {.column width="50%"}
@@ -528,14 +528,14 @@ Remember the trees in the valley?
 
 ::::: columns
 ::: {.column width="50%"}
--   [Cells]{.keyword}\
-    Smallest units of life in all organisms
+- [Cells]{.keyword}\
+  Smallest units of life in all organisms
 
--   [Genes]{.keyword}\
-    DNA sequences that encode functional traits
+- [Genes]{.keyword}\
+  DNA sequences that encode functional traits
 
--   [Chromosomes]{.keyword}\
-    Long DNA molecules containing many genes
+- [Chromosomes]{.keyword}\
+  Long DNA molecules containing many genes
 :::
 
 ::: {.column width="50%"}
@@ -547,14 +547,14 @@ Remember the trees in the valley?
 
 ::::: columns
 ::: {.column width="50%"}
--   [Physical changes]{.keyword}\
-    Change form or state (e.g., ice to water) without changing chemical identity
+- [Physical changes]{.keyword}\
+  Change form or state (e.g., ice to water) without changing chemical identity
 
--   [Chemical changes]{.keyword}\
-    Rearrangement of atoms to form new substances
+- [Chemical changes]{.keyword}\
+  Rearrangement of atoms to form new substances
 
--   [Chemical equations]{.keyword}\
-    Represent reactants, products, and conservation of atoms
+- [Chemical equations]{.keyword}\
+  Represent reactants, products, and conservation of atoms
 :::
 
 ::: {.column width="50%"}
@@ -570,13 +570,13 @@ A chemical equation: Coal –\> CO2
 
 ::::: columns
 ::: {.column width="50%"}
--   [Law of conservation of matter]{.keyword}\
-    Matter is neither created nor destroyed in physical or chemical changes
+- [Law of conservation of matter]{.keyword}\
+  Matter is neither created nor destroyed in physical or chemical changes
 
--   Atoms are rearranged, not created or lost
+- Atoms are rearranged, not created or lost
 
--   **Balanced chemical equations**\
-    Ensure the same number of each type of atom on both sides of a reaction
+- **Balanced chemical equations**\
+  Ensure the same number of each type of atom on both sides of a reaction
 :::
 
 ::: {.column width="50%"}
@@ -590,31 +590,31 @@ A chemical equation: Coal –\> CO2
 
 ## What Is Energy and What Happens When It Undergoes Change?
 
--   [Energy]{.keyword}\
-    The ability to do work or transfer heat
+- [Energy]{.keyword}\
+  The ability to do work or transfer heat
 
--   [First law of thermodynamics]{.keyword}\
-    Energy is conserved; it changes form but is not created or destroyed
+- [First law of thermodynamics]{.keyword}\
+  Energy is conserved; it changes form but is not created or destroyed
 
--   [Second law of thermodynamics]{.keyword}\
-    Energy transformations result in lower-quality, less usable energy
+- [Second law of thermodynamics]{.keyword}\
+  Energy transformations result in lower-quality, less usable energy
 
 ## Energy
 
 ::::: columns
 ::: {.column width="50%"}
--   [Energy]{.keyword}\
-    Ability to do work or transfer heat
+- [Energy]{.keyword}\
+  Ability to do work or transfer heat
 
--   [Work]{.keyword}\
-    Occurs when energy moves or changes form
+- [Work]{.keyword}\
+  Occurs when energy moves or changes form
 
--   Work = force × distance
+- Work = force × distance
 
--   Examples:
+- Examples:
 
-    -   Moving an object
-    -   Heat transfer from a hot surface
+  - Moving an object
+  - Heat transfer from a hot surface
 :::
 
 ::: {.column width="50%"}
@@ -626,18 +626,18 @@ A chemical equation: Coal –\> CO2
 
 ::::: columns
 ::: {.column width="50%"}
--   [Kinetic energy]{.keyword}\
-    Energy associated with motion
+- [Kinetic energy]{.keyword}\
+  Energy associated with motion
 
--   Includes:
+- Includes:
 
-    -   [Thermal energy]{.keyword} — motion of particles that produces heat
-    -   [Electromagnetic energy]{.keyword} — energy carried by waves
+  - [Thermal energy]{.keyword} — motion of particles that produces heat
+  - [Electromagnetic energy]{.keyword} — energy carried by waves
 
--   Example:
+- Example:
 
-    -   Wind kinetic energy turns turbines
-    -   Converted to electrical energy
+  - Wind kinetic energy turns turbines
+  - Converted to electrical energy
 :::
 
 ::: {.column width="50%"}
@@ -649,17 +649,17 @@ A chemical equation: Coal –\> CO2
 
 ::::: columns
 ::: {.column width="50%"}
--   [Potential energy]{.keyword}\
-    Stored energy that has the capacity to do work
+- [Potential energy]{.keyword}\
+  Stored energy that has the capacity to do work
 
--   Example:
+- Example:
 
-    -   Water stored behind a dam
+  - Water stored behind a dam
 
--   Potential energy can be converted to [kinetic energy]{.keyword}
+- Potential energy can be converted to [kinetic energy]{.keyword}
 
-    -   Flowing water spins turbines
-    -   Turbines generate electrical energy
+  - Flowing water spins turbines
+  - Turbines generate electrical energy
 :::
 
 ::: {.column width="50%"}
@@ -669,24 +669,24 @@ A chemical equation: Coal –\> CO2
 
 ## Some Types of Energy Are More Useful Than Others
 
--   **High-quality energy**\
-    Concentrated energy with high capacity to do work
-    -   Examples: high-temperature heat, concentrated sunlight, strong wind
--   **Low-quality energy**\
-    Dispersed energy with limited ability to do work
-    -   Example: heat lost to the environment
+- **High-quality energy**\
+  Concentrated energy with high capacity to do work
+  - Examples: high-temperature heat, concentrated sunlight, strong wind
+- **Low-quality energy**\
+  Dispersed energy with limited ability to do work
+  - Example: heat lost to the environment
 
 ## Solar Energy and Earth Systems
 
 ::::: columns
 ::: {.column width="50%"}
--   Solar energy arrives as [electromagnetic radiation]{.keyword}
--   Spans a range of wavelengths (the electromagnetic spectrum)
--   Primary energy source for:
-    -   Climate and weather
-    -   Photosynthesis
-    -   Ecosystems and food webs
--   Drives most natural processes on Earth
+- Solar energy arrives as [electromagnetic radiation]{.keyword}
+- Spans a range of wavelengths (the electromagnetic spectrum)
+- Primary energy source for:
+  - Climate and weather
+  - Photosynthesis
+  - Ecosystems and food webs
+- Drives most natural processes on Earth
 :::
 
 ::: {.column width="50%"}
@@ -698,19 +698,19 @@ A chemical equation: Coal –\> CO2
 
 ::::: columns
 ::: {.column width="50%"}
--   [Commercial energy]{.keyword}\
-    Energy extracted, processed, and sold by humans
+- [Commercial energy]{.keyword}\
+  Energy extracted, processed, and sold by humans
 
--   Includes:
+- Includes:
 
-    -   Fossil fuels (coal, oil, natural gas)
-    -   Electricity
-    -   Nuclear and renewable sources
+  - Fossil fuels (coal, oil, natural gas)
+  - Electricity
+  - Nuclear and renewable sources
 
--   Most commercial energy currently comes from fossil fuels
+- Most commercial energy currently comes from fossil fuels
 
-    -   Nonrenewable
-    -   Major environmental and climate impacts
+  - Nonrenewable
+  - Major environmental and climate impacts
 :::
 
 ::: {.column width="50%"}
@@ -724,15 +724,15 @@ A chemical equation: Coal –\> CO2
 
 ::::: columns
 ::: {.column width="50%"}
--   A [system]{.keyword} is a set of interacting components that function together
+- A [system]{.keyword} is a set of interacting components that function together
 
--   Examples: cell, organism, forest, economy, car, Earth
+- Examples: cell, organism, forest, economy, car, Earth
 
--   Most systems include:
+- Most systems include:
 
-    -   **Inputs** of matter, energy, and information
-    -   **Flows (throughputs)** within the system
-    -   **Outputs** of products, wastes, and degraded energy (often heat)
+  - **Inputs** of matter, energy, and information
+  - **Flows (throughputs)** within the system
+  - **Outputs** of products, wastes, and degraded energy (often heat)
 :::
 
 ::: {.column width="50%"}
@@ -744,15 +744,15 @@ A chemical equation: Coal –\> CO2
 
 ::::: columns
 ::: {.column width="50%"}
--   [Nonliving systems]{.keyword}
-    -   Do not grow or adapt to environmental change\
-    -   Function remains largely fixed
--   [Living systems]{.keyword}
-    -   Respond to environmental change\
-    -   Adjust size, structure, and behavior
--   Systems become [unsustainable]{.keyword} when:
-    -   Inputs are used faster than they are replenished\
-    -   Outputs exceed the environment’s capacity to absorb or dilute them
+- [Nonliving systems]{.keyword}
+  - Do not grow or adapt to environmental change\
+  - Function remains largely fixed
+- [Living systems]{.keyword}
+  - Respond to environmental change\
+  - Adjust size, structure, and behavior
+- Systems become [unsustainable]{.keyword} when:
+  - Inputs are used faster than they are replenished\
+  - Outputs exceed the environment’s capacity to absorb or dilute them
 :::
 
 ::: {.column width="50%"}
@@ -764,20 +764,20 @@ A chemical equation: Coal –\> CO2
 
 ::::: columns
 ::: {.column width="50%"}
--   [Feedback loop]{.keyword}\
-    Occurs when a system output feeds back as an input, influencing future system behavior
+- [Feedback loop]{.keyword}\
+  Occurs when a system output feeds back as an input, influencing future system behavior
 
--   [Positive feedback]{.keyword}\
-    Amplifies change, pushing the system further in the same direction
+- [Positive feedback]{.keyword}\
+  Amplifies change, pushing the system further in the same direction
 
--   [Negative feedback]{.keyword}\
-    Dampens change, promoting stability
+- [Negative feedback]{.keyword}\
+  Dampens change, promoting stability
 
--   Example of positive feedback:
+- Example of positive feedback:
 
-    -   Vegetation loss increases erosion and nutrient loss
-    -   Poor soil conditions cause further vegetation decline
-    -   System becomes increasingly degraded over time
+  - Vegetation loss increases erosion and nutrient loss
+  - Poor soil conditions cause further vegetation decline
+  - System becomes increasingly degraded over time
 :::
 
 ::: {.column width="50%"}
@@ -789,20 +789,20 @@ A chemical equation: Coal –\> CO2
 
 ::::: columns
 ::: {.column width="50%"}
--   [Tipping point]{.keyword}\
-    A threshold beyond which a system shifts rapidly to a new state
+- [Tipping point]{.keyword}\
+  A threshold beyond which a system shifts rapidly to a new state
 
--   Often triggered by sustained pressure or positive feedbacks
+- Often triggered by sustained pressure or positive feedbacks
 
--   After a tipping point:
+- After a tipping point:
 
-    -   Change can be difficult or impossible to reverse
-    -   System structure and function may fundamentally change
+  - Change can be difficult or impossible to reverse
+  - System structure and function may fundamentally change
 
--   Examples:
+- Examples:
 
-    -   Forest to grassland transitions
-    -   Coral reef collapse
+  - Forest to grassland transitions
+  - Coral reef collapse
 :::
 
 ::: {.column width="50%"}
@@ -814,19 +814,19 @@ A chemical equation: Coal –\> CO2
 
 ::::: columns
 ::: {.column width="50%"}
--   [Negative feedback loop]{.keyword}\
-    Counteracts change and promotes system stability
+- [Negative feedback loop]{.keyword}\
+  Counteracts change and promotes system stability
 
--   Example: thermostat
+- Example: thermostat
 
-    -   Measures temperature\
-    -   Turns heating or cooling on or off to maintain a set point
+  - Measures temperature\
+  - Turns heating or cooling on or off to maintain a set point
 
--   Environmental example: aluminum recycling
+- Environmental example: aluminum recycling
 
-    -   Used cans become inputs rather than waste\
-    -   Reduces mining and manufacturing demand\
-    -   Lowers energy use, pollution, and material extraction\
+  - Used cans become inputs rather than waste\
+  - Reduces mining and manufacturing demand\
+  - Lowers energy use, pollution, and material extraction\
 :::
 
 ::: {.column width="50%"}
